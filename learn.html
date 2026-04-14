@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Learn · PE Current Affairs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a href="index.html" class="icon-btn" aria-label="Back">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+    </a>
+    <div class="brand"><span>Learn Mode</span></div>
+    <div class="spacer"></div>
+    <button id="jump-btn" class="icon-btn" aria-label="Jump to question" title="Jump to…">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+    </button>
+    <button id="theme-toggle" class="icon-btn" aria-label="Toggle theme"></button>
+  </div>
+</header>
+
+<main class="container">
+  <div class="progress" style="margin-bottom:14px"><div id="progress-bar" style="width:0%"></div></div>
+  <div id="content" class="loader">Loading questions…</div>
+</main>
+
+<div class="bottombar">
+  <div class="bottombar-inner">
+    <button id="prev-btn" class="btn">← Prev</button>
+    <div class="spacer" style="flex:1"></div>
+    <button id="bookmark-btn" class="btn ghost" aria-label="Bookmark">★</button>
+    <button id="next-btn" class="btn primary">Next →</button>
+  </div>
+</div>
+
+<script type="module" src="assets/js/learn.js"></script>
+</body>
+</html>

@@ -1,0 +1,4202 @@
+[
+  {
+    "id": 1,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "On what date was the 13th Bangladesh parliamentary election held?",
+    "options": {
+      "A": "11 February 2026",
+      "B": "12 February 2026",
+      "C": "14 February 2026",
+      "D": "17 February 2026"
+    },
+    "answer": "B",
+    "explanation": "The general election was held on 12 February 2026."
+  },
+  {
+    "id": 2,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Which party won the February 2026 Bangladesh general election with a landslide?",
+    "options": {
+      "A": "Awami League",
+      "B": "Jatiya Party",
+      "C": "BNP",
+      "D": "Jamaat-e-Islami"
+    },
+    "answer": "C",
+    "explanation": "BNP secured roughly 209 of 297 declared seats — a two-thirds majority."
+  },
+  {
+    "id": 3,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Who was sworn in as Prime Minister of Bangladesh on 17 February 2026?",
+    "options": {
+      "A": "Khaleda Zia",
+      "B": "Tarique Rahman",
+      "C": "Mirza Fakhrul Islam Alamgir",
+      "D": "Muhammad Yunus"
+    },
+    "answer": "B",
+    "explanation": "Tarique Rahman took oath as PM on 17 February 2026."
+  },
+  {
+    "id": 4,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "How many years had Tarique Rahman spent in self-imposed exile in London before returning in December 2025?",
+    "options": {
+      "A": "12 years",
+      "B": "15 years",
+      "C": "17 years",
+      "D": "20 years"
+    },
+    "answer": "C",
+    "explanation": "He returned to Dhaka on 25 December 2025 after 17 years abroad."
+  },
+  {
+    "id": 5,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Which party emerged as the principal opposition after the 2026 election with 68 seats?",
+    "options": {
+      "A": "Awami League",
+      "B": "Jatiya Party",
+      "C": "Gono Odhikar Parishad",
+      "D": "Jamaat-e-Islami"
+    },
+    "answer": "D",
+    "explanation": "Jamaat-e-Islami became the main opposition party."
+  },
+  {
+    "id": 6,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Which party was barred from participating in the 2026 general election?",
+    "options": {
+      "A": "BNP",
+      "B": "Awami League",
+      "C": "Jamaat-e-Islami",
+      "D": "Jatiya Party"
+    },
+    "answer": "B",
+    "explanation": "The Awami League's registration was revoked before the polls."
+  },
+  {
+    "id": 7,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Who held the office of Chief Adviser of the interim government in the lead-up to the February 2026 election?",
+    "options": {
+      "A": "Dr. Fakhruddin Ahmed",
+      "B": "Dr. Muhammad Yunus",
+      "C": "Justice Shahabuddin Ahmed",
+      "D": "Dr. Wahiduddin Mahmud"
+    },
+    "answer": "B",
+    "explanation": "Nobel laureate Dr. Muhammad Yunus led the interim government."
+  },
+  {
+    "id": 8,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "On what date did Chief Adviser Muhammad Yunus publicly confirm the 12 February 2026 election date to a US special envoy?",
+    "options": {
+      "A": "15 December 2025",
+      "B": "22 December 2025",
+      "C": "28 December 2025",
+      "D": "5 January 2026"
+    },
+    "answer": "B",
+    "explanation": "Yunus reiterated the commitment on 22 December 2025."
+  },
+  {
+    "id": 9,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "A referendum held alongside the February 2026 election concerned which document?",
+    "options": {
+      "A": "August Accord",
+      "B": "July Charter",
+      "C": "Dhaka Declaration",
+      "D": "Padma Accord"
+    },
+    "answer": "B",
+    "explanation": "The 'July Charter' set out a constitutional reform blueprint."
+  },
+  {
+    "id": 10,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Which political spokesperson's assassination on 18 December 2025 triggered nationwide riots and arson?",
+    "options": {
+      "A": "Osman Hadi",
+      "B": "Abul Kalam Azad",
+      "C": "Mirza Abbas",
+      "D": "Ruhul Kabir Rizvi"
+    },
+    "answer": "A",
+    "explanation": "Inqilab Moncho spokesperson Osman Hadi was killed on 18 December 2025."
+  },
+  {
+    "id": 11,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "In which BNP-led cabinet ministry did Tarique Rahman retain the top portfolio himself?",
+    "options": {
+      "A": "Home Affairs",
+      "B": "Defence",
+      "C": "Finance",
+      "D": "Foreign Affairs"
+    },
+    "answer": "B",
+    "explanation": "PM Tarique retained the Defence Ministry and Armed Forces Division."
+  },
+  {
+    "id": 12,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Who was appointed Finance Minister in Tarique Rahman's February 2026 cabinet?",
+    "options": {
+      "A": "Abdul Moyeen Khan",
+      "B": "Amir Khasru Mahmud Chowdhury",
+      "C": "Salahuddin Ahmed",
+      "D": "Gayeshwar Chandra Roy"
+    },
+    "answer": "B",
+    "explanation": "Amir Khasru Mahmud Chowdhury took the Finance Ministry."
+  },
+  {
+    "id": 13,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "How many full ministers and state ministers did Tarique Rahman's cabinet consist of?",
+    "options": {
+      "A": "20 and 20",
+      "B": "25 and 24",
+      "C": "30 and 25",
+      "D": "22 and 18"
+    },
+    "answer": "B",
+    "explanation": "The cabinet had 25 ministers and 24 state ministers."
+  },
+  {
+    "id": 14,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Who was sworn in as the 26th Chief Justice of Bangladesh on 28 December 2025?",
+    "options": {
+      "A": "Syed Refaat Ahmed",
+      "B": "Obaidul Hassan",
+      "C": "Zubayer Rahman Chowdhury",
+      "D": "Hasan Foez Siddique"
+    },
+    "answer": "C",
+    "explanation": "Justice Zubayer Rahman Chowdhury succeeded Syed Refaat Ahmed."
+  },
+  {
+    "id": 15,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Who was the immediate predecessor of the 26th Chief Justice of Bangladesh?",
+    "options": {
+      "A": "Obaidul Hassan",
+      "B": "Syed Refaat Ahmed",
+      "C": "Hasan Foez Siddique",
+      "D": "Muzammel Hossain"
+    },
+    "answer": "B",
+    "explanation": "Syed Refaat Ahmed served as 25th Chief Justice."
+  },
+  {
+    "id": 16,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "On what date did Tarique Rahman return to Bangladesh after 17 years of exile?",
+    "options": {
+      "A": "22 December 2025",
+      "B": "25 December 2025",
+      "C": "30 December 2025",
+      "D": "1 January 2026"
+    },
+    "answer": "B",
+    "explanation": "He landed in Dhaka on 25 December 2025."
+  },
+  {
+    "id": 17,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Who was reported to be replacing Lt. Gen. (Retd.) Jahangir Alam Chowdhury as Home Affairs Advisor in the December 2025 reshuffle?",
+    "options": {
+      "A": "Asif Nazrul",
+      "B": "Khalilur Rahman",
+      "C": "Nahid Islam",
+      "D": "M. Touhid Hossain"
+    },
+    "answer": "B",
+    "explanation": "Security Advisor Dr. Khalilur Rahman was reported to take over Home Affairs."
+  },
+  {
+    "id": 18,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Who served as President of Bangladesh when Tarique Rahman was sworn in as PM?",
+    "options": {
+      "A": "Abdul Hamid",
+      "B": "Mohammed Shahabuddin",
+      "C": "Zillur Rahman",
+      "D": "Mohammed Sahabuddin Chuppu"
+    },
+    "answer": "B",
+    "explanation": "President Mohammed Shahabuddin administered the oath."
+  },
+  {
+    "id": 19,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Approximately how many parliamentary seats were declared in the 2026 general election results?",
+    "options": {
+      "A": "300",
+      "B": "297",
+      "C": "290",
+      "D": "305"
+    },
+    "answer": "B",
+    "explanation": "Results were declared for 297 of 300 constituencies."
+  },
+  {
+    "id": 20,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "The BNP's vote share gave it what kind of mandate in the 2026 parliament?",
+    "options": {
+      "A": "Simple majority",
+      "B": "Two-thirds majority",
+      "C": "Plurality only",
+      "D": "Coalition majority"
+    },
+    "answer": "B",
+    "explanation": "209 of 297 seats constituted a two-thirds majority."
+  },
+  {
+    "id": 21,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Which former PM, though in exile in India, was convicted in November 2025 of crimes against humanity?",
+    "options": {
+      "A": "Khaleda Zia",
+      "B": "Sheikh Hasina",
+      "C": "Begum Rowshan Ershad",
+      "D": "Moudud Ahmed"
+    },
+    "answer": "B",
+    "explanation": "Sheikh Hasina was tried in absentia by the ICT."
+  },
+  {
+    "id": 22,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "On what date did the International Crimes Tribunal sentence Sheikh Hasina to death?",
+    "options": {
+      "A": "5 November 2025",
+      "B": "17 November 2025",
+      "C": "25 November 2025",
+      "D": "2 December 2025"
+    },
+    "answer": "B",
+    "explanation": "The verdict was delivered on 17 November 2025."
+  },
+  {
+    "id": 23,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Which former Home Minister was sentenced to death along with Sheikh Hasina by the ICT?",
+    "options": {
+      "A": "Obaidul Quader",
+      "B": "Asaduzzaman Khan Kamal",
+      "C": "AKM Mozammel Haque",
+      "D": "Anisul Huq"
+    },
+    "answer": "B",
+    "explanation": "Former Home Minister Asaduzzaman Khan Kamal also received the death sentence."
+  },
+  {
+    "id": 24,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "How many Tribunal divisions does the reconstituted International Crimes Tribunal operate with?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "answer": "B",
+    "explanation": "ICT was reconstituted with Tribunal-1 and Tribunal-2."
+  },
+  {
+    "id": 25,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Approximately how many judges were appointed across the two tribunals of the reconstituted ICT?",
+    "options": {
+      "A": "3 each (6 total)",
+      "B": "6 each (12 total)",
+      "C": "4 each (8 total)",
+      "D": "9 each (18 total)"
+    },
+    "answer": "A",
+    "explanation": "Each tribunal has three judges."
+  },
+  {
+    "id": 26,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "How many people were formally charged across the ICT's 18 criminal cases for the July 2024 massacre?",
+    "options": {
+      "A": "78",
+      "B": "98",
+      "C": "119",
+      "D": "145"
+    },
+    "answer": "C",
+    "explanation": "119 accused faced arrest warrants across 18 cases."
+  },
+  {
+    "id": 27,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Bangladesh's 2026 election date was first officially announced in which month?",
+    "options": {
+      "A": "November 2025",
+      "B": "December 2025",
+      "C": "January 2026",
+      "D": "October 2025"
+    },
+    "answer": "B",
+    "explanation": "The date was announced on 11 December 2025."
+  },
+  {
+    "id": 28,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Which two heads of ministries did PM Tarique Rahman personally retain?",
+    "options": {
+      "A": "Home and Defence",
+      "B": "Defence and Armed Forces Division",
+      "C": "Foreign and Finance",
+      "D": "Home and ICT"
+    },
+    "answer": "B",
+    "explanation": "He kept Defence plus the Armed Forces Division."
+  },
+  {
+    "id": 29,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Which Nobel Peace laureate led Bangladesh's interim government until February 2026?",
+    "options": {
+      "A": "Tawakkol Karman",
+      "B": "Malala Yousafzai",
+      "C": "Muhammad Yunus",
+      "D": "Denis Mukwege"
+    },
+    "answer": "C",
+    "explanation": "Yunus was awarded the Nobel Peace Prize in 2006."
+  },
+  {
+    "id": 30,
+    "section": "A",
+    "category": "National Politics & Government",
+    "question": "Sheikh Hasina faced trial at the ICT primarily in relation to which event?",
+    "options": {
+      "A": "Rohingya crackdown",
+      "B": "July 2024 uprising massacre",
+      "C": "BDR mutiny 2009",
+      "D": "Hefazat crackdown 2013"
+    },
+    "answer": "B",
+    "explanation": "Charges relate to the deadly crackdown on the July-August 2024 uprising."
+  },
+  {
+    "id": 31,
+    "section": "A",
+    "category": "Economy",
+    "question": "Bangladesh's gross forex reserves under the IMF BPM-6 method crossed what level on 22 December 2025?",
+    "options": {
+      "A": "$25.4 billion",
+      "B": "$27.9 billion",
+      "C": "$29.86 billion",
+      "D": "$31.2 billion"
+    },
+    "answer": "C",
+    "explanation": "Reserves reached $29.86 billion under BPM-6."
+  },
+  {
+    "id": 32,
+    "section": "A",
+    "category": "Economy",
+    "question": "What was the total gross forex reserve figure (non-BPM-6) in late December 2025 — the highest since 2022?",
+    "options": {
+      "A": "$30.5 billion",
+      "B": "$31.4 billion",
+      "C": "$33.18 billion",
+      "D": "$35.1 billion"
+    },
+    "answer": "C",
+    "explanation": "Total gross reserves stood at $33.18 billion."
+  },
+  {
+    "id": 33,
+    "section": "A",
+    "category": "Economy",
+    "question": "How much remittance did Bangladesh receive in December 2025?",
+    "options": {
+      "A": "$2.64 billion",
+      "B": "$2.85 billion",
+      "C": "$3.04 billion",
+      "D": "$3.31 billion"
+    },
+    "answer": "C",
+    "explanation": "December 2025 inflow was $3.04 billion."
+  },
+  {
+    "id": 34,
+    "section": "A",
+    "category": "Economy",
+    "question": "How much remittance did Bangladesh receive in January 2026?",
+    "options": {
+      "A": "$2.89 billion",
+      "B": "$3.04 billion",
+      "C": "$3.17 billion",
+      "D": "$3.42 billion"
+    },
+    "answer": "C",
+    "explanation": "January 2026 remittance was $3.17 billion."
+  },
+  {
+    "id": 35,
+    "section": "A",
+    "category": "Economy",
+    "question": "January 2026 remittance represented a year-on-year increase of approximately what percentage?",
+    "options": {
+      "A": "18%",
+      "B": "29%",
+      "C": "45.4%",
+      "D": "62%"
+    },
+    "answer": "C",
+    "explanation": "An increase of 45.41% vs. January 2025."
+  },
+  {
+    "id": 36,
+    "section": "A",
+    "category": "Economy",
+    "question": "Bangladesh's annual inflation rate in December 2025 stood at approximately what level?",
+    "options": {
+      "A": "7.85%",
+      "B": "8.29%",
+      "C": "8.49%",
+      "D": "9.02%"
+    },
+    "answer": "C",
+    "explanation": "Inflation in December 2025 was 8.49%."
+  },
+  {
+    "id": 37,
+    "section": "A",
+    "category": "Economy",
+    "question": "What was Bangladesh's inflation rate in January 2026?",
+    "options": {
+      "A": "8.49%",
+      "B": "8.58%",
+      "C": "8.92%",
+      "D": "9.13%"
+    },
+    "answer": "B",
+    "explanation": "January 2026 inflation climbed to 8.58%."
+  },
+  {
+    "id": 38,
+    "section": "A",
+    "category": "Economy",
+    "question": "Bangladesh's inflation rate in February 2026 — the highest since April 2025 — was?",
+    "options": {
+      "A": "8.85%",
+      "B": "9.13%",
+      "C": "9.47%",
+      "D": "10.02%"
+    },
+    "answer": "B",
+    "explanation": "February 2026 inflation reached 9.13%."
+  },
+  {
+    "id": 39,
+    "section": "A",
+    "category": "Economy",
+    "question": "The IMF approved the fifth review of Bangladesh's Extended Credit Facility in which month?",
+    "options": {
+      "A": "October 2025",
+      "B": "November 2025",
+      "C": "January 2026",
+      "D": "February 2026"
+    },
+    "answer": "B",
+    "explanation": "The IMF Executive Board approved the fifth review in November 2025."
+  },
+  {
+    "id": 40,
+    "section": "A",
+    "category": "Economy",
+    "question": "When did the IMF Executive Board conclude its 2025 Article IV Consultation with Bangladesh?",
+    "options": {
+      "A": "15 December 2025",
+      "B": "30 January 2026",
+      "C": "22 February 2026",
+      "D": "10 March 2026"
+    },
+    "answer": "B",
+    "explanation": "The consultation was concluded on 30 January 2026."
+  },
+  {
+    "id": 41,
+    "section": "A",
+    "category": "Economy",
+    "question": "The total IMF loan package for Bangladesh negotiated from February 2023 amounts to?",
+    "options": {
+      "A": "$4.3 billion",
+      "B": "$4.7 billion",
+      "C": "$5.5 billion",
+      "D": "$6.1 billion"
+    },
+    "answer": "C",
+    "explanation": "The full ECF/EFF/RSF package totals $5.5 billion."
+  },
+  {
+    "id": 42,
+    "section": "A",
+    "category": "Economy",
+    "question": "Through five tranches by mid-2025, Bangladesh received approximately what amount from the IMF?",
+    "options": {
+      "A": "$2.9 billion",
+      "B": "$3.64 billion",
+      "C": "$4.1 billion",
+      "D": "$4.8 billion"
+    },
+    "answer": "B",
+    "explanation": "Bangladesh received $3.64 billion across five tranches."
+  },
+  {
+    "id": 43,
+    "section": "A",
+    "category": "Economy",
+    "question": "The sixth tranche of the IMF loan was expected after which month's assessment mission?",
+    "options": {
+      "A": "March 2026",
+      "B": "April 2026",
+      "C": "June 2026",
+      "D": "October 2026"
+    },
+    "answer": "B",
+    "explanation": "Assessment was scheduled for April 2026."
+  },
+  {
+    "id": 44,
+    "section": "A",
+    "category": "Economy",
+    "question": "What FY26 GDP growth rate did the IMF forecast for Bangladesh in January 2026?",
+    "options": {
+      "A": "4.6%",
+      "B": "4.9%",
+      "C": "5.1%",
+      "D": "5.7%"
+    },
+    "answer": "B",
+    "explanation": "The IMF lowered its FY26 projection to 4.9%."
+  },
+  {
+    "id": 45,
+    "section": "A",
+    "category": "Economy",
+    "question": "What GDP growth did the Asian Development Bank forecast for Bangladesh in FY2026?",
+    "options": {
+      "A": "4.6%",
+      "B": "4.9%",
+      "C": "5.1%",
+      "D": "5.5%"
+    },
+    "answer": "C",
+    "explanation": "ADB forecast 5.1% for FY26."
+  },
+  {
+    "id": 46,
+    "section": "A",
+    "category": "Economy",
+    "question": "What FY26 GDP growth did the UN report project for Bangladesh?",
+    "options": {
+      "A": "4.2%",
+      "B": "4.6%",
+      "C": "5.0%",
+      "D": "5.4%"
+    },
+    "answer": "B",
+    "explanation": "UN projected 4.6% growth with inflation easing."
+  },
+  {
+    "id": 47,
+    "section": "A",
+    "category": "Economy",
+    "question": "Which multilateral body projected Bangladesh inflation to ease to 7.1% in FY26?",
+    "options": {
+      "A": "IMF",
+      "B": "World Bank",
+      "C": "United Nations",
+      "D": "ADB"
+    },
+    "answer": "C",
+    "explanation": "The UN report projected 7.1% inflation."
+  },
+  {
+    "id": 48,
+    "section": "A",
+    "category": "Economy",
+    "question": "The January 2026 remittance was recorded as the monthly inflow ranked at which position in Bangladesh's history?",
+    "options": {
+      "A": "Highest ever",
+      "B": "Second highest ever",
+      "C": "Third highest on record",
+      "D": "Fifth highest"
+    },
+    "answer": "C",
+    "explanation": "It was the third-highest monthly remittance on record."
+  },
+  {
+    "id": 49,
+    "section": "A",
+    "category": "Economy",
+    "question": "Since which year have Bangladesh's total gross reserves not been at the December 2025 level?",
+    "options": {
+      "A": "2020",
+      "B": "2021",
+      "C": "2022",
+      "D": "2023"
+    },
+    "answer": "C",
+    "explanation": "It was the highest reserves level since 2022."
+  },
+  {
+    "id": 50,
+    "section": "A",
+    "category": "Economy",
+    "question": "Which month's inflation figure was the highest in Bangladesh since April 2025?",
+    "options": {
+      "A": "December 2025",
+      "B": "January 2026",
+      "C": "February 2026",
+      "D": "March 2026"
+    },
+    "answer": "C",
+    "explanation": "February 2026 at 9.13% was the highest since April 2025."
+  },
+  {
+    "id": 51,
+    "section": "A",
+    "category": "Economy",
+    "question": "Under which facility did the IMF disburse tranches to Bangladesh?",
+    "options": {
+      "A": "Rapid Financing Instrument",
+      "B": "Extended Credit Facility and Extended Fund Facility",
+      "C": "Flexible Credit Line",
+      "D": "Poverty Reduction Growth Trust"
+    },
+    "answer": "B",
+    "explanation": "Funds come under the combined ECF/EFF arrangement with an RSF window."
+  },
+  {
+    "id": 52,
+    "section": "A",
+    "category": "Economy",
+    "question": "What method does the IMF use to calculate Bangladesh's net reserves?",
+    "options": {
+      "A": "BPM-5",
+      "B": "BPM-6",
+      "C": "IMF-Net",
+      "D": "IFRS-9"
+    },
+    "answer": "B",
+    "explanation": "Reserves are computed under the IMF's BPM-6 method."
+  },
+  {
+    "id": 53,
+    "section": "A",
+    "category": "Economy",
+    "question": "The IMF Article IV consultation completed in January 2026 was for which year?",
+    "options": {
+      "A": "2024",
+      "B": "2025",
+      "C": "2026",
+      "D": "Interim"
+    },
+    "answer": "B",
+    "explanation": "It was the 2025 Article IV consultation."
+  },
+  {
+    "id": 54,
+    "section": "A",
+    "category": "Economy",
+    "question": "Which international body lends Bangladesh through the Resilience and Sustainability Facility (RSF)?",
+    "options": {
+      "A": "World Bank",
+      "B": "ADB",
+      "C": "IMF",
+      "D": "AIIB"
+    },
+    "answer": "C",
+    "explanation": "The RSF is an IMF facility."
+  },
+  {
+    "id": 55,
+    "section": "A",
+    "category": "Economy",
+    "question": "Bangladesh's FY2025 actual GDP growth, per ADB, was roughly?",
+    "options": {
+      "A": "3.9%",
+      "B": "4.6%",
+      "C": "5.5%",
+      "D": "6.2%"
+    },
+    "answer": "A",
+    "explanation": "ADB reported FY25 growth slowed to about 3.9%."
+  },
+  {
+    "id": 56,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "The Padma Bridge Rail Link Project opened across its entire length in which month?",
+    "options": {
+      "A": "October 2024",
+      "B": "December 2024",
+      "C": "March 2025",
+      "D": "July 2025"
+    },
+    "answer": "B",
+    "explanation": "The full line opened on 24 December 2024."
+  },
+  {
+    "id": 57,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Which country's Belt & Road partnership was central to the Padma Rail Link's delivery?",
+    "options": {
+      "A": "Japan",
+      "B": "South Korea",
+      "C": "China",
+      "D": "India"
+    },
+    "answer": "C",
+    "explanation": "CASCO and Chinese BRI cooperation supported the project."
+  },
+  {
+    "id": 58,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "On 13 February 2026, Dhaka Metro Line-6 set a one-day ridership record of how many passengers?",
+    "options": {
+      "A": "310,000",
+      "B": "352,000",
+      "C": "403,000",
+      "D": "455,000"
+    },
+    "answer": "C",
+    "explanation": "A record 403,000 passengers rode MRT-6 on 13 Feb 2026."
+  },
+  {
+    "id": 59,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "The under-construction 1.16-km extension of Metro Line-6 connects Motijheel to which station?",
+    "options": {
+      "A": "Airport",
+      "B": "Uttara North",
+      "C": "Kamalapur Railway Station",
+      "D": "Jatrabari"
+    },
+    "answer": "C",
+    "explanation": "The extension runs from Motijheel to Kamalapur."
+  },
+  {
+    "id": 60,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "As of January 2026, what was the completion progress of the Motijheel–Kamalapur metro extension?",
+    "options": {
+      "A": "48%",
+      "B": "55%",
+      "C": "69%",
+      "D": "82%"
+    },
+    "answer": "C",
+    "explanation": "Reported completion was 69% in January 2026."
+  },
+  {
+    "id": 61,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Fuel loading at Rooppur Nuclear Power Plant Unit 1 was scheduled to begin in which month?",
+    "options": {
+      "A": "December 2025",
+      "B": "February 2026",
+      "C": "May 2026",
+      "D": "August 2026"
+    },
+    "answer": "B",
+    "explanation": "Fuel loading was expected in early February 2026."
+  },
+  {
+    "id": 62,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Rooppur NPP Unit-1's revised commercial operation target is?",
+    "options": {
+      "A": "June 2026",
+      "B": "December 2026",
+      "C": "December 2027",
+      "D": "June 2028"
+    },
+    "answer": "B",
+    "explanation": "Unit-1 is targeted for commercial operation by December 2026."
+  },
+  {
+    "id": 63,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Rooppur NPP Unit-2's revised commercial operation target is?",
+    "options": {
+      "A": "December 2026",
+      "B": "June 2027",
+      "C": "December 2027",
+      "D": "December 2028"
+    },
+    "answer": "C",
+    "explanation": "Unit-2 is targeted for December 2027."
+  },
+  {
+    "id": 64,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "In June 2025, Rooppur's revised schedule was agreed with which country?",
+    "options": {
+      "A": "France",
+      "B": "Russia",
+      "C": "India",
+      "D": "China"
+    },
+    "answer": "B",
+    "explanation": "Russia (Rosatom) is the project partner."
+  },
+  {
+    "id": 65,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Bangladesh Railway announced 19 new projects with total investment of approximately?",
+    "options": {
+      "A": "Tk 210 billion",
+      "B": "Tk 289 billion",
+      "C": "Tk 333 billion",
+      "D": "Tk 402 billion"
+    },
+    "answer": "C",
+    "explanation": "Total announced investment was Tk 333.08 billion."
+  },
+  {
+    "id": 66,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Bangladesh's total railway track length stands approximately at?",
+    "options": {
+      "A": "2,855 km",
+      "B": "3,128 km",
+      "C": "3,428 km",
+      "D": "3,812 km"
+    },
+    "answer": "C",
+    "explanation": "Total length is 3,428.09 km."
+  },
+  {
+    "id": 67,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Which gauge makes up the largest portion of Bangladesh's railway network?",
+    "options": {
+      "A": "Broad gauge",
+      "B": "Dual gauge",
+      "C": "Metre gauge",
+      "D": "Narrow gauge"
+    },
+    "answer": "C",
+    "explanation": "Metre gauge accounts for 1,591 km — the largest share."
+  },
+  {
+    "id": 68,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Matarbari Deep-Sea Port's Phase-1 operational target is now linked to which year?",
+    "options": {
+      "A": "2026",
+      "B": "2027",
+      "C": "2028",
+      "D": "2029"
+    },
+    "answer": "D",
+    "explanation": "Phase-1 operations are now linked to 2029."
+  },
+  {
+    "id": 69,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "Length of the Matarbari terminal contract signed in April 2026 was approximately?",
+    "options": {
+      "A": "460 metres",
+      "B": "620 metres",
+      "C": "760 metres",
+      "D": "900 metres"
+    },
+    "answer": "C",
+    "explanation": "A 760-metre terminal contract was signed."
+  },
+  {
+    "id": 70,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "In May 2025, the interim government revived which phase of the Matarbari coal power plant?",
+    "options": {
+      "A": "Phase I",
+      "B": "Phase II",
+      "C": "Phase III",
+      "D": "Phase IV"
+    },
+    "answer": "B",
+    "explanation": "Phase II of the 1,200 MW Matarbari coal plant was revived."
+  },
+  {
+    "id": 71,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "What is the capacity of the revived Matarbari Phase-II coal plant?",
+    "options": {
+      "A": "600 MW",
+      "B": "1,200 MW",
+      "C": "1,600 MW",
+      "D": "2,400 MW"
+    },
+    "answer": "B",
+    "explanation": "Capacity is 1,200 MW."
+  },
+  {
+    "id": 72,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "The commissioning target for Matarbari Phase-II is?",
+    "options": {
+      "A": "December 2027",
+      "B": "December 2028",
+      "C": "June 2029",
+      "D": "December 2030"
+    },
+    "answer": "B",
+    "explanation": "Commissioning target is December 2028."
+  },
+  {
+    "id": 73,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "CASCO, the Chinese SOE involved in the Padma Rail Link signalling, specialises in?",
+    "options": {
+      "A": "Ship building",
+      "B": "Railway signalling and control",
+      "C": "Nuclear design",
+      "D": "Steel rolling"
+    },
+    "answer": "B",
+    "explanation": "CASCO provides railway signalling and control systems."
+  },
+  {
+    "id": 74,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "How many kilometres of broad gauge track does Bangladesh Railway operate?",
+    "options": {
+      "A": "720 km",
+      "B": "905 km",
+      "C": "1,066 km",
+      "D": "1,245 km"
+    },
+    "answer": "C",
+    "explanation": "Broad gauge network is 1,066.60 km."
+  },
+  {
+    "id": 75,
+    "section": "A",
+    "category": "Infrastructure & Major Projects",
+    "question": "How many kilometres of dual gauge track does Bangladesh Railway operate?",
+    "options": {
+      "A": "410 km",
+      "B": "620 km",
+      "C": "770 km",
+      "D": "905 km"
+    },
+    "answer": "C",
+    "explanation": "Dual gauge network is 770.06 km."
+  },
+  {
+    "id": 76,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Bangladesh's Foreign Minister in April 2026 during the India visit was?",
+    "options": {
+      "A": "M. Touhid Hossain",
+      "B": "Khalilur Rahman",
+      "C": "Dipu Moni",
+      "D": "Shahriar Alam"
+    },
+    "answer": "B",
+    "explanation": "Dr. Khalilur Rahman headed the delegation to Delhi."
+  },
+  {
+    "id": 77,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Who was India's External Affairs Minister who hosted Bangladesh's FM in April 2026?",
+    "options": {
+      "A": "Sushma Swaraj",
+      "B": "S. Jaishankar",
+      "C": "Salman Khurshid",
+      "D": "Ajit Doval"
+    },
+    "answer": "B",
+    "explanation": "S. Jaishankar hosted talks on 7-9 April 2026."
+  },
+  {
+    "id": 78,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The India-Bangladesh Friendship Pipeline carries what annual volume of diesel?",
+    "options": {
+      "A": "80,000 tonnes",
+      "B": "120,000 tonnes",
+      "C": "180,000 tonnes",
+      "D": "240,000 tonnes"
+    },
+    "answer": "C",
+    "explanation": "The pipeline supplies 180,000 tonnes diesel per year."
+  },
+  {
+    "id": 79,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The initial shipment size for the India-Bangladesh diesel pipeline discussed in April 2026 was?",
+    "options": {
+      "A": "10,000 tonnes",
+      "B": "15,000 tonnes",
+      "C": "20,000 tonnes",
+      "D": "30,000 tonnes"
+    },
+    "answer": "C",
+    "explanation": "First shipment was 20,000 tonnes."
+  },
+  {
+    "id": 80,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The India-Bangladesh Ganga Water Sharing Treaty, signed in 1996, is set to expire in?",
+    "options": {
+      "A": "December 2025",
+      "B": "June 2026",
+      "C": "December 2026",
+      "D": "December 2027"
+    },
+    "answer": "C",
+    "explanation": "The 30-year treaty expires in December 2026."
+  },
+  {
+    "id": 81,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "In April 2026, Bangladesh formally renewed its extradition request to India for whom?",
+    "options": {
+      "A": "Salman F. Rahman",
+      "B": "Sheikh Hasina",
+      "C": "Sajeeb Wazed Joy",
+      "D": "Obaidul Quader"
+    },
+    "answer": "B",
+    "explanation": "Bangladesh sought Sheikh Hasina's extradition."
+  },
+  {
+    "id": 82,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Who accompanied Bangladesh's FM in April 2026 as Foreign Affairs Adviser to PM Tarique?",
+    "options": {
+      "A": "Abul Hassan Mahmood Ali",
+      "B": "Humayun Kobir",
+      "C": "Gowher Rizvi",
+      "D": "Masud Bin Momen"
+    },
+    "answer": "B",
+    "explanation": "Humayun Kobir represented PM's Office."
+  },
+  {
+    "id": 83,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Which year was designated the 'China-Bangladesh Year of People-to-People Exchanges'?",
+    "options": {
+      "A": "2024",
+      "B": "2025",
+      "C": "2026",
+      "D": "2027"
+    },
+    "answer": "B",
+    "explanation": "The designation applied to 2025."
+  },
+  {
+    "id": 84,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "2025 marked which anniversary of China-Bangladesh diplomatic relations?",
+    "options": {
+      "A": "30th",
+      "B": "40th",
+      "C": "50th",
+      "D": "60th"
+    },
+    "answer": "C",
+    "explanation": "The 50th anniversary was celebrated in 2025."
+  },
+  {
+    "id": 85,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Total planned China BRI investment in Bangladesh (BRI + joint ventures) amounts to approximately?",
+    "options": {
+      "A": "$20 billion",
+      "B": "$26 billion",
+      "C": "$40 billion",
+      "D": "$55 billion"
+    },
+    "answer": "C",
+    "explanation": "$26B BRI + $14B joint ventures = $40 billion total."
+  },
+  {
+    "id": 86,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "China offered Bangladesh transitional zero-tariff treatment on what share of taxable items ahead of a proposed FTA?",
+    "options": {
+      "A": "78%",
+      "B": "88%",
+      "C": "98%",
+      "D": "100%"
+    },
+    "answer": "C",
+    "explanation": "Zero-tariff treatment covers 98% of taxable items."
+  },
+  {
+    "id": 87,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "As of 31 January 2026, how many Rohingya refugees were hosted in Bangladesh?",
+    "options": {
+      "A": "918,000",
+      "B": "1,042,000",
+      "C": "1,182,755",
+      "D": "1,320,510"
+    },
+    "answer": "C",
+    "explanation": "The UN figure was 1,182,755 individuals."
+  },
+  {
+    "id": 88,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "These Rohingya refugees belong to approximately how many families?",
+    "options": {
+      "A": "180,000",
+      "B": "202,000",
+      "C": "246,000",
+      "D": "310,000"
+    },
+    "answer": "C",
+    "explanation": "245,998 families per the 2026 Joint Response Plan."
+  },
+  {
+    "id": 89,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "About how many new Rohingya arrivals were recorded in Bangladesh during 2024-2025?",
+    "options": {
+      "A": "80,000",
+      "B": "110,000",
+      "C": "150,000",
+      "D": "200,000"
+    },
+    "answer": "C",
+    "explanation": "Around 150,000 new arrivals entered during 2024-25."
+  },
+  {
+    "id": 90,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Bangladesh's China-BRI portion of the $40 billion package is?",
+    "options": {
+      "A": "$16 billion",
+      "B": "$22 billion",
+      "C": "$26 billion",
+      "D": "$30 billion"
+    },
+    "answer": "C",
+    "explanation": "BRI accounts for $26 billion."
+  },
+  {
+    "id": 91,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Bangladesh's joint-venture portion with China within the $40 billion envelope is?",
+    "options": {
+      "A": "$6 billion",
+      "B": "$10 billion",
+      "C": "$14 billion",
+      "D": "$18 billion"
+    },
+    "answer": "C",
+    "explanation": "Joint ventures total $14 billion."
+  },
+  {
+    "id": 92,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The India-Bangladesh normalisation talks in April 2026 took place between which two dates?",
+    "options": {
+      "A": "3-5 April",
+      "B": "7-9 April",
+      "C": "10-12 April",
+      "D": "14-16 April"
+    },
+    "answer": "B",
+    "explanation": "Talks were held 7-9 April 2026."
+  },
+  {
+    "id": 93,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The 2026 Joint Response Plan for Rohingya is administered primarily by?",
+    "options": {
+      "A": "UNHCR and WFP",
+      "B": "UNHCR and IOM",
+      "C": "UNICEF and UNDP",
+      "D": "ICRC and Oxfam"
+    },
+    "answer": "B",
+    "explanation": "UNHCR and IOM jointly coordinate the plan."
+  },
+  {
+    "id": 94,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The Bangladesh Armed Forces Division portfolio was retained by?",
+    "options": {
+      "A": "The Home Minister",
+      "B": "The Foreign Minister",
+      "C": "Prime Minister Tarique Rahman",
+      "D": "The Chief of Army Staff"
+    },
+    "answer": "C",
+    "explanation": "PM Tarique kept the Armed Forces Division."
+  },
+  {
+    "id": 95,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Bangladesh's principal bilateral negotiation with India in April 2026 focused on all EXCEPT:",
+    "options": {
+      "A": "Trade normalisation",
+      "B": "Diesel pipeline",
+      "C": "Hasina extradition",
+      "D": "Teesta water sharing memo"
+    },
+    "answer": "D",
+    "explanation": "The April 2026 agenda centred on trade, pipelines and extradition; Teesta-specific MoU was not the focus."
+  },
+  {
+    "id": 96,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The principal Chinese lender for Rooppur is?",
+    "options": {
+      "A": "EXIM Bank of China",
+      "B": "AIIB",
+      "C": "Rosatom (Russia)",
+      "D": "China Development Bank"
+    },
+    "answer": "C",
+    "explanation": "Rooppur is financed by Russia's Rosatom, not China — this tests attention."
+  },
+  {
+    "id": 97,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "Rohingya refugees in Bangladesh are primarily sheltered in which district?",
+    "options": {
+      "A": "Bandarban",
+      "B": "Khagrachari",
+      "C": "Cox's Bazar",
+      "D": "Rangamati"
+    },
+    "answer": "C",
+    "explanation": "Cox's Bazar hosts the camps, especially Ukhiya and Teknaf."
+  },
+  {
+    "id": 98,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The January 2026 IMF Article IV was held against a backdrop of forex reserves exceeding what level?",
+    "options": {
+      "A": "$24 billion",
+      "B": "$27 billion",
+      "C": "$29 billion",
+      "D": "$32 billion"
+    },
+    "answer": "C",
+    "explanation": "Reserves (BPM-6) crossed $29 billion ahead of the consultation."
+  },
+  {
+    "id": 99,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "India-Bangladesh bilateral talks in April 2026 were described as a?",
+    "options": {
+      "A": "Counter-terror summit",
+      "B": "Normalisation of partnership",
+      "C": "Trade war de-escalation",
+      "D": "Border demarcation round"
+    },
+    "answer": "B",
+    "explanation": "The talks aimed at normalising the partnership."
+  },
+  {
+    "id": 100,
+    "section": "A",
+    "category": "Diplomacy & Foreign Relations",
+    "question": "The Chinese FTA with Bangladesh is being pushed for completion by?",
+    "options": {
+      "A": "2025",
+      "B": "2026",
+      "C": "2027",
+      "D": "2028"
+    },
+    "answer": "B",
+    "explanation": "China has sought completion by 2026."
+  },
+  {
+    "id": 101,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "How many individuals and bands received the Ekushey Padak 2026?",
+    "options": {
+      "A": "8 and 1",
+      "B": "9 and 1",
+      "C": "10 and 2",
+      "D": "11 and 1"
+    },
+    "answer": "B",
+    "explanation": "Nine individuals plus one band (Warfaze) were named."
+  },
+  {
+    "id": 102,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Which rock band became the first ever to win the Ekushey Padak?",
+    "options": {
+      "A": "LRB",
+      "B": "Artcell",
+      "C": "Warfaze",
+      "D": "Feedback"
+    },
+    "answer": "C",
+    "explanation": "Warfaze was the first rock band to receive the Ekushey Padak."
+  },
+  {
+    "id": 103,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Who received the Ekushey Padak 2026 (posthumous) for Music?",
+    "options": {
+      "A": "Sabina Yasmin",
+      "B": "Ayub Bachchu",
+      "C": "Runa Laila",
+      "D": "Endra Mohan Rajbongshi"
+    },
+    "answer": "B",
+    "explanation": "Ayub Bachchu was honoured posthumously."
+  },
+  {
+    "id": 104,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Who received the Ekushey Padak 2026 in the Film category?",
+    "options": {
+      "A": "Kabori Sarwar",
+      "B": "Farida Akhtar Babita",
+      "C": "Suchanda",
+      "D": "Rozina"
+    },
+    "answer": "B",
+    "explanation": "Babita (Farida Akhtar) won the Padak in Film."
+  },
+  {
+    "id": 105,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Marina Tabassum received the Ekushey Padak 2026 in which field?",
+    "options": {
+      "A": "Journalism",
+      "B": "Architecture",
+      "C": "Education",
+      "D": "Fine Arts"
+    },
+    "answer": "B",
+    "explanation": "She is internationally renowned in Architecture."
+  },
+  {
+    "id": 106,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Veteran journalist Shafik Rehman received the Ekushey Padak 2026 in which category?",
+    "options": {
+      "A": "Language & Literature",
+      "B": "Journalism",
+      "C": "Research",
+      "D": "Social Service"
+    },
+    "answer": "B",
+    "explanation": "Shafik Rehman was honoured for Journalism."
+  },
+  {
+    "id": 107,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Arthy Ahmed received the Ekushey Padak 2026 in?",
+    "options": {
+      "A": "Dance",
+      "B": "Music",
+      "C": "Theatre",
+      "D": "Folk arts"
+    },
+    "answer": "A",
+    "explanation": "Arthy Ahmed was honoured for Dance."
+  },
+  {
+    "id": 108,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Islam Uddin Palakar received the Ekushey Padak 2026 in?",
+    "options": {
+      "A": "Folk arts",
+      "B": "Theatre",
+      "C": "Dance",
+      "D": "Language and literature"
+    },
+    "answer": "B",
+    "explanation": "He won in the Theatre category."
+  },
+  {
+    "id": 109,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Prof. Md Abdus Sattar received the Ekushey Padak 2026 in?",
+    "options": {
+      "A": "Fine Arts",
+      "B": "Education",
+      "C": "Literature",
+      "D": "Research"
+    },
+    "answer": "A",
+    "explanation": "Sattar won the Padak in Fine Arts."
+  },
+  {
+    "id": 110,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Tejosh Haldar Josh received the Ekushey Padak 2026 in?",
+    "options": {
+      "A": "Fine Arts",
+      "B": "Sculpture",
+      "C": "Film",
+      "D": "Theatre"
+    },
+    "answer": "B",
+    "explanation": "Tejosh Haldar Josh is a sculptor."
+  },
+  {
+    "id": 111,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "The 2026 Independence Award was announced by the Cabinet Division in which month?",
+    "options": {
+      "A": "January 2026",
+      "B": "February 2026",
+      "C": "March 2026",
+      "D": "April 2026"
+    },
+    "answer": "C",
+    "explanation": "It was announced in March 2026."
+  },
+  {
+    "id": 112,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "How many individuals and institutions received the Independence Award 2026?",
+    "options": {
+      "A": "10 and 3",
+      "B": "12 and 4",
+      "C": "15 and 5",
+      "D": "18 and 6"
+    },
+    "answer": "C",
+    "explanation": "15 individuals and 5 institutions were named."
+  },
+  {
+    "id": 113,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Which political figure received the 2026 Independence Award for 'overall contribution'?",
+    "options": {
+      "A": "Khaleda Zia",
+      "B": "Tarique Rahman",
+      "C": "M.A.G. Osmani",
+      "D": "Ziaur Rahman"
+    },
+    "answer": "A",
+    "explanation": "Khaleda Zia received the award for overall contribution."
+  },
+  {
+    "id": 114,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Major Mohammad Abdul Jalil received the Independence Award 2026 in which category?",
+    "options": {
+      "A": "Public administration",
+      "B": "Liberation War",
+      "C": "Education",
+      "D": "Rural development"
+    },
+    "answer": "B",
+    "explanation": "He was honoured in the Liberation War category."
+  },
+  {
+    "id": 115,
+    "section": "A",
+    "category": "Awards & Personalities",
+    "question": "Prof. Dr Zahurul Karim received the Independence Award 2026 in?",
+    "options": {
+      "A": "Literature",
+      "B": "Research",
+      "C": "Science & Technology",
+      "D": "Economics"
+    },
+    "answer": "C",
+    "explanation": "He was honoured in Science & Technology."
+  },
+  {
+    "id": 116,
+    "section": "A",
+    "category": "Sports",
+    "question": "The 12th Bangladesh Premier League (BPL) 2025-26 commenced on?",
+    "options": {
+      "A": "15 December 2025",
+      "B": "20 December 2025",
+      "C": "26 December 2025",
+      "D": "1 January 2026"
+    },
+    "answer": "C",
+    "explanation": "BPL 2025-26 began on 26 December 2025."
+  },
+  {
+    "id": 117,
+    "section": "A",
+    "category": "Sports",
+    "question": "Which franchise won the BPL 2025-26 title?",
+    "options": {
+      "A": "Chattogram Royals",
+      "B": "Rangpur Riders",
+      "C": "Rajshahi Warriors",
+      "D": "Khulna Tigers"
+    },
+    "answer": "C",
+    "explanation": "Rajshahi Warriors won their second BPL title."
+  },
+  {
+    "id": 118,
+    "section": "A",
+    "category": "Sports",
+    "question": "Rajshahi Warriors defeated Chattogram Royals in the BPL 2025-26 final by what margin?",
+    "options": {
+      "A": "5 wickets",
+      "B": "10 runs",
+      "C": "63 runs",
+      "D": "47 runs"
+    },
+    "answer": "C",
+    "explanation": "Rajshahi won by 63 runs."
+  },
+  {
+    "id": 119,
+    "section": "A",
+    "category": "Sports",
+    "question": "The BPL 2025-26 final was held on approximately which date?",
+    "options": {
+      "A": "5 January 2026",
+      "B": "12 January 2026",
+      "C": "23 January 2026",
+      "D": "31 January 2026"
+    },
+    "answer": "C",
+    "explanation": "The tournament concluded on 23 January 2026."
+  },
+  {
+    "id": 120,
+    "section": "A",
+    "category": "Sports",
+    "question": "The BPL 2025-26 reintroduced which selection format?",
+    "options": {
+      "A": "Draft system",
+      "B": "Auction system",
+      "C": "Direct signings",
+      "D": "Lottery"
+    },
+    "answer": "B",
+    "explanation": "The auction system returned under IMG's organisation."
+  },
+  {
+    "id": 121,
+    "section": "A",
+    "category": "Sports",
+    "question": "Which international firm took over BPL organisation for the 2025-26 season?",
+    "options": {
+      "A": "ICC Events",
+      "B": "IMG",
+      "C": "Lagardère",
+      "D": "SportFive"
+    },
+    "answer": "B",
+    "explanation": "IMG took over BPL management."
+  },
+  {
+    "id": 122,
+    "section": "A",
+    "category": "Sports",
+    "question": "Pakistan toured Bangladesh for a three-match ODI series in which month?",
+    "options": {
+      "A": "January 2026",
+      "B": "February 2026",
+      "C": "March 2026",
+      "D": "April 2026"
+    },
+    "answer": "C",
+    "explanation": "Pakistan played an ODI tour in March 2026."
+  },
+  {
+    "id": 123,
+    "section": "A",
+    "category": "Sports",
+    "question": "Bangladesh won the March 2026 ODI series against Pakistan by?",
+    "options": {
+      "A": "3-0",
+      "B": "2-1",
+      "C": "1-2",
+      "D": "0-3"
+    },
+    "answer": "B",
+    "explanation": "Bangladesh clinched the series 2-1."
+  },
+  {
+    "id": 124,
+    "section": "A",
+    "category": "Sports",
+    "question": "Bangladesh's Test tour to Australia in August 2026 comprises how many Tests?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "answer": "B",
+    "explanation": "Two Tests — in Darwin and Mackay."
+  },
+  {
+    "id": 125,
+    "section": "A",
+    "category": "Sports",
+    "question": "Bangladesh's first Test against Australia in August 2026 will be played at?",
+    "options": {
+      "A": "Perth",
+      "B": "Brisbane",
+      "C": "Darwin",
+      "D": "Hobart"
+    },
+    "answer": "C",
+    "explanation": "The 1st Test is slated for Darwin (13-17 Aug)."
+  },
+  {
+    "id": 126,
+    "section": "A",
+    "category": "Sports",
+    "question": "Bangladesh's second Test against Australia in August 2026 will be held at?",
+    "options": {
+      "A": "Mackay",
+      "B": "Adelaide",
+      "C": "Melbourne",
+      "D": "Sydney"
+    },
+    "answer": "A",
+    "explanation": "The 2nd Test is at Mackay (22-26 Aug)."
+  },
+  {
+    "id": 127,
+    "section": "A",
+    "category": "Sports",
+    "question": "BPL 2025-26 is Rajshahi Warriors' which title?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    },
+    "answer": "B",
+    "explanation": "It was their second BPL trophy."
+  },
+  {
+    "id": 128,
+    "section": "A",
+    "category": "Sports",
+    "question": "Bangladesh's upcoming home cricket calendar (as of early 2026) includes series against?",
+    "options": {
+      "A": "Australia and India",
+      "B": "Pakistan and Australia",
+      "C": "Sri Lanka and New Zealand",
+      "D": "Pakistan and South Africa"
+    },
+    "answer": "A",
+    "explanation": "BD are scheduled to host Australia and India in 2026."
+  },
+  {
+    "id": 129,
+    "section": "A",
+    "category": "Sports",
+    "question": "Who organises Bangladesh's domestic Premier League — the parent body behind BPL?",
+    "options": {
+      "A": "BCL",
+      "B": "BCB",
+      "C": "ICC Asia",
+      "D": "ACC"
+    },
+    "answer": "B",
+    "explanation": "The Bangladesh Cricket Board (BCB) governs BPL."
+  },
+  {
+    "id": 130,
+    "section": "A",
+    "category": "Sports",
+    "question": "The BPL 2025-26 wound up within approximately how many days of its start?",
+    "options": {
+      "A": "20 days",
+      "B": "28 days",
+      "C": "Four weeks (~28)",
+      "D": "Nearly a month (~28)"
+    },
+    "answer": "C",
+    "explanation": "The tournament ran 26 Dec - 23 Jan — about four weeks."
+  },
+  {
+    "id": 131,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The International Crimes Tribunal was reconstituted primarily to try masterminds of which event?",
+    "options": {
+      "A": "Mujibnagar conspiracy",
+      "B": "July 2024 massacre",
+      "C": "Bangabhaban coup",
+      "D": "1975 killings"
+    },
+    "answer": "B",
+    "explanation": "ICT targets the July 2024 uprising crackdown."
+  },
+  {
+    "id": 132,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The first verdict by the reconstituted ICT that drew global attention sentenced whom to death?",
+    "options": {
+      "A": "Obaidul Quader",
+      "B": "Sheikh Hasina and Asaduzzaman Khan Kamal",
+      "C": "Sajeeb Wazed",
+      "D": "Salman F. Rahman"
+    },
+    "answer": "B",
+    "explanation": "Sheikh Hasina and former Home Minister were both sentenced to death."
+  },
+  {
+    "id": 133,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The 17 November 2025 ICT verdict was delivered how many days before election date announcement?",
+    "options": {
+      "A": "10",
+      "B": "14",
+      "C": "24",
+      "D": "30"
+    },
+    "answer": "C",
+    "explanation": "11 December 2025 was the announcement — about 24 days later."
+  },
+  {
+    "id": 134,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The 26th Chief Justice of Bangladesh took oath at which venue?",
+    "options": {
+      "A": "Bangabhaban",
+      "B": "Supreme Court",
+      "C": "Gonobhaban",
+      "D": "Parliament"
+    },
+    "answer": "A",
+    "explanation": "The oath was administered at Bangabhaban."
+  },
+  {
+    "id": 135,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "Justice Zubayer Rahman Chowdhury was previously a judge of which division?",
+    "options": {
+      "A": "High Court Division",
+      "B": "Appellate Division",
+      "C": "Both",
+      "D": "Military tribunal"
+    },
+    "answer": "C",
+    "explanation": "He served in both divisions before becoming CJ."
+  },
+  {
+    "id": 136,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The ICT's trial of Sheikh Hasina took place in what legal capacity?",
+    "options": {
+      "A": "Present in person",
+      "B": "Via video link",
+      "C": "In absentia",
+      "D": "Before a civil court"
+    },
+    "answer": "C",
+    "explanation": "Hasina is in exile in India; the trial was in absentia."
+  },
+  {
+    "id": 137,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "Arrest warrants were issued against how many ICT accused across the 18 cases?",
+    "options": {
+      "A": "78",
+      "B": "96",
+      "C": "119",
+      "D": "152"
+    },
+    "answer": "C",
+    "explanation": "All 119 accused had warrants."
+  },
+  {
+    "id": 138,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The Awami League's electoral registration was revoked primarily on what grounds?",
+    "options": {
+      "A": "Financial fraud",
+      "B": "Role in July 2024 crackdown and constitutional reforms",
+      "C": "Foreign funding",
+      "D": "Election commission quota issue"
+    },
+    "answer": "B",
+    "explanation": "The revocation cited the party's alleged role in the crackdown."
+  },
+  {
+    "id": 139,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "Which party's leader, in exile since 2008, returned to Bangladesh in December 2025?",
+    "options": {
+      "A": "Awami League",
+      "B": "Jatiya Party",
+      "C": "BNP",
+      "D": "Jamaat-e-Islami"
+    },
+    "answer": "C",
+    "explanation": "BNP leader Tarique Rahman returned on 25 December 2025."
+  },
+  {
+    "id": 140,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The election that brought BNP to power was supervised by?",
+    "options": {
+      "A": "A caretaker cabinet",
+      "B": "The Yunus-led interim government",
+      "C": "The Army",
+      "D": "A partisan commission"
+    },
+    "answer": "B",
+    "explanation": "The interim government under Muhammad Yunus oversaw the polls."
+  },
+  {
+    "id": 141,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The July Charter is most closely associated with?",
+    "options": {
+      "A": "Trade reforms",
+      "B": "Constitutional reform blueprint",
+      "C": "Public service rules",
+      "D": "Minorities protection"
+    },
+    "answer": "B",
+    "explanation": "The Charter sets out constitutional reform proposals."
+  },
+  {
+    "id": 142,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The February 2026 referendum asked voters to approve the?",
+    "options": {
+      "A": "EU accession",
+      "B": "July Charter reforms",
+      "C": "Metro extension debt",
+      "D": "New national anthem"
+    },
+    "answer": "B",
+    "explanation": "The concurrent referendum was on the July Charter reforms."
+  },
+  {
+    "id": 143,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "Which presidential office administered oaths to new MPs in February 2026?",
+    "options": {
+      "A": "Chief Adviser's office",
+      "B": "Bangabhaban",
+      "C": "Jatiyo Sangsad Bhaban",
+      "D": "Supreme Court"
+    },
+    "answer": "C",
+    "explanation": "Oaths to lawmakers were taken at Parliament."
+  },
+  {
+    "id": 144,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "The President of Bangladesh who administered PM Tarique Rahman's oath previously took office in?",
+    "options": {
+      "A": "2013",
+      "B": "2018",
+      "C": "2023",
+      "D": "2024"
+    },
+    "answer": "C",
+    "explanation": "Mohammed Shahabuddin took office in April 2023."
+  },
+  {
+    "id": 145,
+    "section": "A",
+    "category": "Judicial & Legal",
+    "question": "Justice Syed Refaat Ahmed took office as Chief Justice in?",
+    "options": {
+      "A": "2023",
+      "B": "2024",
+      "C": "2025",
+      "D": "2022"
+    },
+    "answer": "B",
+    "explanation": "He was sworn in on 11 August 2024 after Obaidul Hassan's resignation."
+  },
+  {
+    "id": 146,
+    "section": "A",
+    "category": "Miscellaneous",
+    "question": "Which country is the principal lender for Bangladesh's Matarbari port and coal complex?",
+    "options": {
+      "A": "China",
+      "B": "India",
+      "C": "Japan",
+      "D": "South Korea"
+    },
+    "answer": "C",
+    "explanation": "Japan (JICA) is Matarbari's key lender."
+  },
+  {
+    "id": 147,
+    "section": "A",
+    "category": "Miscellaneous",
+    "question": "The Padma Bridge rail link's test run between Bhanga and Rupdia began in which month?",
+    "options": {
+      "A": "September 2024",
+      "B": "October 2024",
+      "C": "November 2024",
+      "D": "December 2024"
+    },
+    "answer": "A",
+    "explanation": "The test run began in September 2024 (within wider 2024 opening cycle)."
+  },
+  {
+    "id": 148,
+    "section": "A",
+    "category": "Miscellaneous",
+    "question": "The revived Matarbari Phase-II coal project's CO2 intensity places it under which international scrutiny programme?",
+    "options": {
+      "A": "UNDP SDG 7",
+      "B": "OECD coal phase-out coalition",
+      "C": "World Bank Scorecard",
+      "D": "COP climate monitors"
+    },
+    "answer": "D",
+    "explanation": "COP climate monitors tracked the revival as a climate issue."
+  },
+  {
+    "id": 149,
+    "section": "A",
+    "category": "Miscellaneous",
+    "question": "The 2026 Joint Response Plan for Rohingya was released in early 2026 covering which budget cycle?",
+    "options": {
+      "A": "2025",
+      "B": "2026",
+      "C": "2025-2026",
+      "D": "2026-2027"
+    },
+    "answer": "C",
+    "explanation": "The plan spans 2025-2026."
+  },
+  {
+    "id": 150,
+    "section": "A",
+    "category": "Miscellaneous",
+    "question": "In which year did the Padma Bridge Rail Link open along its full length?",
+    "options": {
+      "A": "2022",
+      "B": "2023",
+      "C": "2024",
+      "D": "2025"
+    },
+    "answer": "C",
+    "explanation": "The full line opened in 2024."
+  },
+  {
+    "id": 151,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Pakistan held its general election on what date in 2026?",
+    "options": {
+      "A": "28 January",
+      "B": "8 February",
+      "C": "14 February",
+      "D": "5 March"
+    },
+    "answer": "B",
+    "explanation": "Pakistan's general elections were held on 8 February 2026."
+  },
+  {
+    "id": 152,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Myanmar's military junta concluded its multi-phase elections on approximately what date in early 2026?",
+    "options": {
+      "A": "15 December 2025",
+      "B": "10 January 2026",
+      "C": "25 January 2026",
+      "D": "14 February 2026"
+    },
+    "answer": "C",
+    "explanation": "Polls finished around 25 January 2026."
+  },
+  {
+    "id": 153,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Myanmar's junta held elections in only roughly how many of the country's 330 townships?",
+    "options": {
+      "A": "190",
+      "B": "224",
+      "C": "263",
+      "D": "297"
+    },
+    "answer": "C",
+    "explanation": "Polls took place in only 263 townships."
+  },
+  {
+    "id": 154,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Myanmar's military airstrike on Bhamo Township in January 2026 killed approximately how many civilians?",
+    "options": {
+      "A": "Up to 10",
+      "B": "Up to 25",
+      "C": "Up to 50",
+      "D": "Up to 100"
+    },
+    "answer": "C",
+    "explanation": "Up to 50 civilians were killed on 22 January 2026."
+  },
+  {
+    "id": 155,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Bhamo Township lies in which Myanmar state?",
+    "options": {
+      "A": "Shan",
+      "B": "Rakhine",
+      "C": "Kachin",
+      "D": "Chin"
+    },
+    "answer": "C",
+    "explanation": "Bhamo is in Kachin State."
+  },
+  {
+    "id": 156,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "In January 2026, China released its Five-Year Plan covering which years?",
+    "options": {
+      "A": "2024-2028",
+      "B": "2025-2029",
+      "C": "2026-2030",
+      "D": "2027-2031"
+    },
+    "answer": "C",
+    "explanation": "The 15th Five-Year Plan covers 2026-2030."
+  },
+  {
+    "id": 157,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Which UK Prime Minister's approval ratings fell to a 50-year low in February 2026?",
+    "options": {
+      "A": "Rishi Sunak",
+      "B": "Boris Johnson",
+      "C": "Keir Starmer",
+      "D": "Liz Truss"
+    },
+    "answer": "C",
+    "explanation": "Starmer's Labour government hit its lowest approval ratings."
+  },
+  {
+    "id": 158,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Which British party won the February 2026 by-election in Gorton and Denton?",
+    "options": {
+      "A": "Conservative",
+      "B": "Labour",
+      "C": "Liberal Democrat",
+      "D": "Green"
+    },
+    "answer": "D",
+    "explanation": "The Green Party won on 27 February 2026."
+  },
+  {
+    "id": 159,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "UK local and devolved elections are scheduled for which date in 2026?",
+    "options": {
+      "A": "1 April",
+      "B": "22 April",
+      "C": "7 May",
+      "D": "4 June"
+    },
+    "answer": "C",
+    "explanation": "UK local, Senedd and Scottish Parliament elections: 7 May 2026."
+  },
+  {
+    "id": 160,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "India held assembly elections in which two states in April 2026?",
+    "options": {
+      "A": "Karnataka and Goa",
+      "B": "Assam and Kerala",
+      "C": "Odisha and Punjab",
+      "D": "Haryana and Maharashtra"
+    },
+    "answer": "B",
+    "explanation": "Assam and Kerala voted in April 2026."
+  },
+  {
+    "id": 161,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "West Bengal's assembly election in April 2026 was notable for which party seeking its first-ever state win?",
+    "options": {
+      "A": "AAP",
+      "B": "TMC",
+      "C": "Congress",
+      "D": "BJP"
+    },
+    "answer": "D",
+    "explanation": "BJP was pursuing a breakthrough victory."
+  },
+  {
+    "id": 162,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Voter turnout in Assam's April 2026 assembly election was reported at approximately?",
+    "options": {
+      "A": "68.2%",
+      "B": "72.4%",
+      "C": "85.65%",
+      "D": "91.3%"
+    },
+    "answer": "C",
+    "explanation": "Assam reported 85.65% turnout."
+  },
+  {
+    "id": 163,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Voter turnout in Kerala's April 2026 assembly election was about?",
+    "options": {
+      "A": "62.8%",
+      "B": "71.9%",
+      "C": "78.24%",
+      "D": "83.5%"
+    },
+    "answer": "C",
+    "explanation": "Kerala reported 78.24% turnout."
+  },
+  {
+    "id": 164,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "India's April 2026 state election results were expected on approximately?",
+    "options": {
+      "A": "20 April",
+      "B": "27 April",
+      "C": "4 May",
+      "D": "10 May"
+    },
+    "answer": "C",
+    "explanation": "Results were due 4 May 2026."
+  },
+  {
+    "id": 165,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "The 21st National Congress of the Chinese Communist Party is expected in which year?",
+    "options": {
+      "A": "2026",
+      "B": "2027",
+      "C": "2028",
+      "D": "2029"
+    },
+    "answer": "B",
+    "explanation": "The 21st Congress is scheduled for late 2027."
+  },
+  {
+    "id": 166,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "The 21st CCP Congress is expected to approve which term for Xi Jinping?",
+    "options": {
+      "A": "Second",
+      "B": "Third",
+      "C": "Fourth",
+      "D": "Fifth"
+    },
+    "answer": "C",
+    "explanation": "Xi is expected to secure a fourth term."
+  },
+  {
+    "id": 167,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "In January 2026, the Trump administration announced 'Phase Two' of a ceasefire in which conflict?",
+    "options": {
+      "A": "Ukraine",
+      "B": "Yemen",
+      "C": "Gaza",
+      "D": "Sudan"
+    },
+    "answer": "C",
+    "explanation": "Phase Two of the Gaza ceasefire was announced on 14 January 2026."
+  },
+  {
+    "id": 168,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "President Trump addressed the World Economic Forum in Davos on what date in 2026?",
+    "options": {
+      "A": "19 January",
+      "B": "21 January",
+      "C": "23 January",
+      "D": "25 January"
+    },
+    "answer": "B",
+    "explanation": "He delivered his address on 21 January 2026."
+  },
+  {
+    "id": 169,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Which US state's Democratic Senate primary in March 2026 was won by James Talarico?",
+    "options": {
+      "A": "California",
+      "B": "Florida",
+      "C": "Arizona",
+      "D": "Texas"
+    },
+    "answer": "D",
+    "explanation": "Talarico won the Texas Democratic Senate primary."
+  },
+  {
+    "id": 170,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "James Talarico defeated which incumbent U.S. Representative?",
+    "options": {
+      "A": "Jasmine Crockett",
+      "B": "Veronica Escobar",
+      "C": "Sylvia Garcia",
+      "D": "Colin Allred"
+    },
+    "answer": "A",
+    "explanation": "Talarico defeated Rep. Jasmine Crockett."
+  },
+  {
+    "id": 171,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Which Arab leader attended Davos 2026 as Syria's head of state?",
+    "options": {
+      "A": "Bashar al-Assad",
+      "B": "Ahmed al-Sharaa",
+      "C": "Farouk al-Sharaa",
+      "D": "Mustafa Tlass"
+    },
+    "answer": "B",
+    "explanation": "Ahmed al-Sharaa represented Syria at Davos."
+  },
+  {
+    "id": 172,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "The Canadian PM who attended Davos 2026 was?",
+    "options": {
+      "A": "Justin Trudeau",
+      "B": "Pierre Poilievre",
+      "C": "Mark Carney",
+      "D": "Chrystia Freeland"
+    },
+    "answer": "C",
+    "explanation": "Mark Carney attended Davos as Canada's PM."
+  },
+  {
+    "id": 173,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "The 56th WEF Davos meeting in January 2026 used which theme?",
+    "options": {
+      "A": "Collaboration for the Common Era",
+      "B": "A Spirit of Dialogue",
+      "C": "Trust in the Age of AI",
+      "D": "Rebuilding Trust"
+    },
+    "answer": "B",
+    "explanation": "The 2026 theme was 'A Spirit of Dialogue'."
+  },
+  {
+    "id": 174,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Davos 2026 ran from?",
+    "options": {
+      "A": "15-19 January",
+      "B": "17-21 January",
+      "C": "19-23 January",
+      "D": "22-26 January"
+    },
+    "answer": "C",
+    "explanation": "Davos 2026: 19-23 January."
+  },
+  {
+    "id": 175,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "How many heads of state or government attended Davos 2026?",
+    "options": {
+      "A": "Over 40",
+      "B": "Over 60",
+      "C": "Over 80",
+      "D": "Over 100"
+    },
+    "answer": "B",
+    "explanation": "More than 60 heads of state/government attended."
+  },
+  {
+    "id": 176,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Imran Khan's supporters claimed Pakistan's February 2026 election was?",
+    "options": {
+      "A": "Cancelled",
+      "B": "Stolen",
+      "C": "Unconstitutional",
+      "D": "Delayed"
+    },
+    "answer": "B",
+    "explanation": "Khan's PTI claimed the vote was stolen."
+  },
+  {
+    "id": 177,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Trump's January 2026 Davos address opened with the line he had brought 'truly phenomenal news from where?",
+    "options": {
+      "A": "The Middle East",
+      "B": "America",
+      "C": "Mar-a-Lago",
+      "D": "Wall Street"
+    },
+    "answer": "B",
+    "explanation": "Trump said he came with 'phenomenal news from America'."
+  },
+  {
+    "id": 178,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "The Myanmar junta, as of early 2026, controls less than what percentage of townships?",
+    "options": {
+      "A": "25%",
+      "B": "33%",
+      "C": "40%",
+      "D": "50%"
+    },
+    "answer": "C",
+    "explanation": "Junta control is under 40% of townships."
+  },
+  {
+    "id": 179,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "As of April 2026, how many consecutive months had the Trump administration reported zero border releases?",
+    "options": {
+      "A": "6 months",
+      "B": "8 months",
+      "C": "11 months",
+      "D": "13 months"
+    },
+    "answer": "C",
+    "explanation": "11 consecutive months of zero releases reported."
+  },
+  {
+    "id": 180,
+    "section": "B",
+    "category": "World Politics & Elections",
+    "question": "Volodymyr Zelenskyy attended Davos 2026 in his capacity as?",
+    "options": {
+      "A": "Former President",
+      "B": "Ambassador-at-large",
+      "C": "President of Ukraine",
+      "D": "UN envoy"
+    },
+    "answer": "C",
+    "explanation": "He attended as Ukraine's President."
+  },
+  {
+    "id": 181,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Who announced a temporary Orthodox Easter ceasefire in the Russia-Ukraine war on 11-12 April 2026?",
+    "options": {
+      "A": "Zelenskyy",
+      "B": "Putin",
+      "C": "Trump",
+      "D": "Macron"
+    },
+    "answer": "B",
+    "explanation": "Putin announced the Easter truce; Ukraine reciprocated."
+  },
+  {
+    "id": 182,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Ukraine's reciprocal ceasefire over Easter 2026 lasted approximately?",
+    "options": {
+      "A": "12 hours",
+      "B": "24 hours",
+      "C": "32 hours",
+      "D": "48 hours"
+    },
+    "answer": "C",
+    "explanation": "Ukraine held a 32-hour ceasefire."
+  },
+  {
+    "id": 183,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "By March 2026, Russia claimed Ukraine controlled roughly what percentage of Donetsk region?",
+    "options": {
+      "A": "8-10%",
+      "B": "15-17%",
+      "C": "22-25%",
+      "D": "30-33%"
+    },
+    "answer": "B",
+    "explanation": "Ukraine's hold on Donetsk was reported at 15-17%."
+  },
+  {
+    "id": 184,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The joint US-Israeli operation against Iran launched on 28 February 2026 was named?",
+    "options": {
+      "A": "Operation Iron Swords",
+      "B": "Operation Roaring Lion / Epic Fury",
+      "C": "Operation Fire of Dawn",
+      "D": "Operation Spring Shield"
+    },
+    "answer": "B",
+    "explanation": "It was codenamed Operation Roaring Lion (US name: Epic Fury)."
+  },
+  {
+    "id": 185,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Which Iranian Supreme Leader was assassinated in the Israeli air strike of late February 2026?",
+    "options": {
+      "A": "Hassan Rouhani",
+      "B": "Ali Khamenei",
+      "C": "Ebrahim Raisi",
+      "D": "Masoud Pezeshkian"
+    },
+    "answer": "B",
+    "explanation": "Ali Khamenei was assassinated."
+  },
+  {
+    "id": 186,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Approximately how many strikes were delivered in the first 12 hours of Operation Roaring Lion?",
+    "options": {
+      "A": "Nearly 400",
+      "B": "Nearly 600",
+      "C": "Nearly 900",
+      "D": "Over 1,400"
+    },
+    "answer": "C",
+    "explanation": "Nearly 900 strikes in the first 12 hours."
+  },
+  {
+    "id": 187,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Iran's retaliation included missiles and drones targeting Israel and which other set of countries?",
+    "options": {
+      "A": "European NATO allies",
+      "B": "US bases in Arab countries",
+      "C": "Gulf shipping only",
+      "D": "Indian military sites"
+    },
+    "answer": "B",
+    "explanation": "Iran targeted US bases across Arab countries."
+  },
+  {
+    "id": 188,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The 2026 Lebanon war between Hezbollah and Israel led to a ceasefire on approximately?",
+    "options": {
+      "A": "14 March 2026",
+      "B": "28 March 2026",
+      "C": "8 April 2026",
+      "D": "12 April 2026"
+    },
+    "answer": "C",
+    "explanation": "A ceasefire was reached on 8 April 2026."
+  },
+  {
+    "id": 189,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Hamas's armed wing rejected 'Phase Two' disarmament demands in which month of 2026?",
+    "options": {
+      "A": "February",
+      "B": "March",
+      "C": "April",
+      "D": "May"
+    },
+    "answer": "C",
+    "explanation": "The rejection came in early April 2026."
+  },
+  {
+    "id": 190,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Sudan marked 1,000 days of war on approximately what date?",
+    "options": {
+      "A": "28 December 2025",
+      "B": "9 January 2026",
+      "C": "3 February 2026",
+      "D": "15 March 2026"
+    },
+    "answer": "B",
+    "explanation": "The 1,000-day mark was 9 January 2026."
+  },
+  {
+    "id": 191,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The WHO described Sudan's humanitarian situation as the world's worst in which dimension?",
+    "options": {
+      "A": "Refugee crisis",
+      "B": "Health and humanitarian crisis",
+      "C": "Economic collapse",
+      "D": "Climate displacement"
+    },
+    "answer": "B",
+    "explanation": "WHO called it the world's worst health and humanitarian crisis."
+  },
+  {
+    "id": 192,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Approximately how many Sudanese need humanitarian aid in 2026?",
+    "options": {
+      "A": "21.5 million",
+      "B": "28.3 million",
+      "C": "33.7 million",
+      "D": "41.2 million"
+    },
+    "answer": "C",
+    "explanation": "33.7 million Sudanese need aid."
+  },
+  {
+    "id": 193,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Sudan's internally displaced and refugee population was estimated at approximately?",
+    "options": {
+      "A": "8.9 million",
+      "B": "10.2 million",
+      "C": "13.6 million",
+      "D": "17.4 million"
+    },
+    "answer": "C",
+    "explanation": "13.6 million people displaced."
+  },
+  {
+    "id": 194,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "What percentage of Sudan's population faces acute food shortages per the 2026 Humanitarian Needs Report?",
+    "options": {
+      "A": "38%",
+      "B": "49%",
+      "C": "61.7%",
+      "D": "73%"
+    },
+    "answer": "C",
+    "explanation": "61.7% (~28.9 million) face acute food shortages."
+  },
+  {
+    "id": 195,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Approximately what share of Sudan's health facilities is non-functional?",
+    "options": {
+      "A": "22%",
+      "B": "29%",
+      "C": "37%",
+      "D": "45%"
+    },
+    "answer": "C",
+    "explanation": "37% of health facilities are non-functional."
+  },
+  {
+    "id": 196,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Sudan's military-led government returned to which city on 11 January 2026?",
+    "options": {
+      "A": "Port Sudan",
+      "B": "Omdurman",
+      "C": "Khartoum",
+      "D": "Nyala"
+    },
+    "answer": "C",
+    "explanation": "The government returned to Khartoum."
+  },
+  {
+    "id": 197,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Who is Sudan's Prime Minister who announced service restoration on 11 January 2026?",
+    "options": {
+      "A": "Abdalla Hamdok",
+      "B": "Kamil Idris",
+      "C": "Osman Hussein",
+      "D": "Hemedti Dagalo"
+    },
+    "answer": "B",
+    "explanation": "PM Kamil Idris made the announcement."
+  },
+  {
+    "id": 198,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The Houthi Red Sea attack pause from November 2025 ended in late February 2026 in response to?",
+    "options": {
+      "A": "Gaza Phase Two",
+      "B": "The Iran war",
+      "C": "Sudan famine",
+      "D": "Somalia collapse"
+    },
+    "answer": "B",
+    "explanation": "The Houthis cited the Iran war on 28 February 2026."
+  },
+  {
+    "id": 199,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Post-February 2026, Houthi attacks sank how many unescorted commercial vessels in coordinated strikes?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "answer": "B",
+    "explanation": "Two commercial vessels were sunk."
+  },
+  {
+    "id": 200,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The key focus of Gaza Phase Two negotiations launched in January 2026 was?",
+    "options": {
+      "A": "Settler withdrawal",
+      "B": "Hamas disarmament and Israeli withdrawal",
+      "C": "UN peacekeeping deployment",
+      "D": "Cash for rubble clearance"
+    },
+    "answer": "B",
+    "explanation": "Phase Two covered disarmament and withdrawal."
+  },
+  {
+    "id": 201,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The January 2026 phase launch announcement on Gaza was made by which government?",
+    "options": {
+      "A": "Israel",
+      "B": "Qatar",
+      "C": "The United States (White House)",
+      "D": "Egypt"
+    },
+    "answer": "C",
+    "explanation": "The White House made the announcement."
+  },
+  {
+    "id": 202,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The Russia-Ukraine peace talks trilateral format in March 2026 was paused between which parties?",
+    "options": {
+      "A": "US-Russia-China",
+      "B": "US-Russia-Ukraine",
+      "C": "EU-Russia-Ukraine",
+      "D": "Turkey-Russia-Ukraine"
+    },
+    "answer": "B",
+    "explanation": "The US-Russia-Ukraine trilateral talks stalled."
+  },
+  {
+    "id": 203,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "By April 2026, Ukraine and Russia were reported to be moving toward?",
+    "options": {
+      "A": "Renewed escalation",
+      "B": "Regional partition",
+      "C": "A potential peace deal",
+      "D": "A NATO-Russia pact"
+    },
+    "answer": "C",
+    "explanation": "Reports suggested a potential peace deal was near."
+  },
+  {
+    "id": 204,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The Iran war saw Khamenei succeeded (de facto) by which body taking control of state?",
+    "options": {
+      "A": "Majlis",
+      "B": "Guardian Council",
+      "C": "A Revolutionary Council of clerics and IRGC",
+      "D": "Assembly of Experts"
+    },
+    "answer": "C",
+    "explanation": "Post-strike, a Revolutionary Council was reported in control."
+  },
+  {
+    "id": 205,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Which country coordinated closely with Israel in Operation Roaring Lion?",
+    "options": {
+      "A": "UK",
+      "B": "France",
+      "C": "United States",
+      "D": "Germany"
+    },
+    "answer": "C",
+    "explanation": "The US was the key operational partner."
+  },
+  {
+    "id": 206,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Myanmar's civil war saw coordinated offensives in early 2026 by?",
+    "options": {
+      "A": "The junta only",
+      "B": "Ethnic armed organisations",
+      "C": "Royal Thai forces",
+      "D": "Indian Army"
+    },
+    "answer": "B",
+    "explanation": "Ethnic armed organisations launched offensives."
+  },
+  {
+    "id": 207,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "The Iran war triggered a surge in which commodity price?",
+    "options": {
+      "A": "Wheat",
+      "B": "Crude oil",
+      "C": "Copper",
+      "D": "Natural gas"
+    },
+    "answer": "B",
+    "explanation": "Brent crude surged after Hormuz disruption."
+  },
+  {
+    "id": 208,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Brent crude prices surged to approximately what level by 13 April 2026?",
+    "options": {
+      "A": "$95/bbl",
+      "B": "$108/bbl",
+      "C": "$128/bbl",
+      "D": "$152/bbl"
+    },
+    "answer": "C",
+    "explanation": "Brent reached $128 per barrel."
+  },
+  {
+    "id": 209,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Approximately what share of seaborne oil supply moves through the Strait of Hormuz, affected in April 2026?",
+    "options": {
+      "A": "8%",
+      "B": "12%",
+      "C": "20%",
+      "D": "33%"
+    },
+    "answer": "C",
+    "explanation": "~20% of world seaborne oil moves through Hormuz."
+  },
+  {
+    "id": 210,
+    "section": "B",
+    "category": "Wars & Conflicts",
+    "question": "Lebanese Hezbollah's 2026 war with Israel produced casualties estimated at over?",
+    "options": {
+      "A": "500",
+      "B": "1,000",
+      "C": "2,000",
+      "D": "5,000"
+    },
+    "answer": "C",
+    "explanation": "Over 2,000 casualties were reported."
+  },
+  {
+    "id": 211,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "The 48th ASEAN Leaders' Summit in 2026 is to be held in which city?",
+    "options": {
+      "A": "Manila",
+      "B": "Jakarta",
+      "C": "Cebu City",
+      "D": "Kuala Lumpur"
+    },
+    "answer": "C",
+    "explanation": "The summit is in Cebu City, 8-9 May 2026."
+  },
+  {
+    "id": 212,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "Which country holds ASEAN's 2026 chairmanship?",
+    "options": {
+      "A": "Malaysia",
+      "B": "Singapore",
+      "C": "Philippines",
+      "D": "Vietnam"
+    },
+    "answer": "C",
+    "explanation": "Philippines chairs ASEAN in 2026."
+  },
+  {
+    "id": 213,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "ASEAN Foreign Ministers' Retreat took place in January 2026 in?",
+    "options": {
+      "A": "Bali",
+      "B": "Phnom Penh",
+      "C": "Cebu",
+      "D": "Hanoi"
+    },
+    "answer": "C",
+    "explanation": "The retreat was held in Cebu."
+  },
+  {
+    "id": 214,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "The ASEAN Tourism Forum 2026 was held in which period?",
+    "options": {
+      "A": "12-16 January",
+      "B": "26-30 January",
+      "C": "5-9 February",
+      "D": "18-22 February"
+    },
+    "answer": "B",
+    "explanation": "26-30 January in Cebu."
+  },
+  {
+    "id": 215,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "Philippines will host approximately how many ASEAN-related meetings during its 2026 chairmanship?",
+    "options": {
+      "A": "250",
+      "B": "400",
+      "C": "650",
+      "D": "900"
+    },
+    "answer": "C",
+    "explanation": "About 650 meetings are planned."
+  },
+  {
+    "id": 216,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "The 70th session of the UN Commission on the Status of Women was held when?",
+    "options": {
+      "A": "9-20 March 2026",
+      "B": "3-14 February 2026",
+      "C": "8-19 April 2026",
+      "D": "10-21 May 2026"
+    },
+    "answer": "A",
+    "explanation": "CSW70 ran 9-20 March 2026."
+  },
+  {
+    "id": 217,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "On 25 March 2026, the UN declared which practice 'the gravest crime against humanity'?",
+    "options": {
+      "A": "Apartheid",
+      "B": "Racialized chattel enslavement and trafficking of enslaved Africans",
+      "C": "Genocide of Yazidis",
+      "D": "Colonial labour exploitation"
+    },
+    "answer": "B",
+    "explanation": "UN declaration on transatlantic slavery trafficking."
+  },
+  {
+    "id": 218,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "The UN ECOSOC Youth Forum 2026 takes place on approximately?",
+    "options": {
+      "A": "8-10 March",
+      "B": "14-16 April",
+      "C": "2-4 May",
+      "D": "20-22 June"
+    },
+    "answer": "B",
+    "explanation": "The forum runs 14-16 April 2026."
+  },
+  {
+    "id": 219,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "NATO Defence Ministers met in February 2026 on approximately?",
+    "options": {
+      "A": "5 February",
+      "B": "12 February",
+      "C": "19 February",
+      "D": "27 February"
+    },
+    "answer": "B",
+    "explanation": "Meeting held 12 February 2026."
+  },
+  {
+    "id": 220,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "NATO's new 'Arctic Sentry' activity was outlined by the Secretary General on?",
+    "options": {
+      "A": "4 February 2026",
+      "B": "11 February 2026",
+      "C": "22 February 2026",
+      "D": "1 March 2026"
+    },
+    "answer": "B",
+    "explanation": "Arctic Sentry was unveiled on 11 February 2026."
+  },
+  {
+    "id": 221,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "The G20 presidency in 2026 is held by which country?",
+    "options": {
+      "A": "India",
+      "B": "Brazil",
+      "C": "South Africa",
+      "D": "United States"
+    },
+    "answer": "D",
+    "explanation": "The US holds the G20 presidency in 2026 (after South Africa 2025)."
+  },
+  {
+    "id": 222,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "Which country held the G20 presidency in 2025?",
+    "options": {
+      "A": "Brazil",
+      "B": "India",
+      "C": "South Africa",
+      "D": "Japan"
+    },
+    "answer": "C",
+    "explanation": "South Africa held the 2025 presidency."
+  },
+  {
+    "id": 223,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "Davos 2026 featured an attendance of how many chairpersons and CEOs?",
+    "options": {
+      "A": "400",
+      "B": "620",
+      "C": "850",
+      "D": "1,000"
+    },
+    "answer": "C",
+    "explanation": "Around 850 chairs/CEOs attended."
+  },
+  {
+    "id": 224,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "The EU Commission President attending Davos 2026 was?",
+    "options": {
+      "A": "Jose Manuel Barroso",
+      "B": "Jean-Claude Juncker",
+      "C": "Ursula von der Leyen",
+      "D": "Roberta Metsola"
+    },
+    "answer": "C",
+    "explanation": "Ursula von der Leyen attended."
+  },
+  {
+    "id": 225,
+    "section": "B",
+    "category": "International Summits & Multilateral Events",
+    "question": "France's Emmanuel Macron attended Davos 2026 in what role?",
+    "options": {
+      "A": "Former President",
+      "B": "Finance Minister",
+      "C": "President of France",
+      "D": "UN envoy"
+    },
+    "answer": "C",
+    "explanation": "Macron attended as President of France."
+  },
+  {
+    "id": 226,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "NASA's Pandora small satellite was launched on what date?",
+    "options": {
+      "A": "6 January 2026",
+      "B": "11 January 2026",
+      "C": "18 January 2026",
+      "D": "24 January 2026"
+    },
+    "answer": "B",
+    "explanation": "Pandora launched on 11 January 2026 aboard Falcon 9."
+  },
+  {
+    "id": 227,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "Pandora's mission focus is?",
+    "options": {
+      "A": "Solar wind",
+      "B": "Exoplanet atmospheres",
+      "C": "Lunar water ice",
+      "D": "Gamma-ray bursts"
+    },
+    "answer": "B",
+    "explanation": "Pandora studies exoplanet atmospheres."
+  },
+  {
+    "id": 228,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "Besides Pandora, what else flew on the 11 January 2026 Falcon 9 launch?",
+    "options": {
+      "A": "GOES-U and LRO",
+      "B": "SPARCS and BlackCAT CubeSats",
+      "C": "Dragon cargo only",
+      "D": "JWST coronagraph"
+    },
+    "answer": "B",
+    "explanation": "SPARCS and BlackCAT CubeSats were co-passengers."
+  },
+  {
+    "id": 229,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "NASA's Artemis II launch sent astronauts around the Moon beginning on approximately?",
+    "options": {
+      "A": "25 February 2026",
+      "B": "1 April 2026",
+      "C": "15 March 2026",
+      "D": "10 May 2026"
+    },
+    "answer": "B",
+    "explanation": "Artemis II launched ~1 April 2026 for a 10-day lunar flyby."
+  },
+  {
+    "id": 230,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "Artemis II surpassed Apollo 13's distance record for farthest human spaceflight on?",
+    "options": {
+      "A": "2 April 2026",
+      "B": "6 April 2026",
+      "C": "11 April 2026",
+      "D": "20 April 2026"
+    },
+    "answer": "B",
+    "explanation": "The record was broken on 6 April 2026."
+  },
+  {
+    "id": 231,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "SpaceX's delay to its Mars ambitions announced on 9 February 2026 was for approximately?",
+    "options": {
+      "A": "1-2 years",
+      "B": "3-4 years",
+      "C": "5-7 years",
+      "D": "8-10 years"
+    },
+    "answer": "C",
+    "explanation": "A 5-7 year delay was announced."
+  },
+  {
+    "id": 232,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "SpaceX's Starship Version 3 Flight 12 was planned for which month in 2026?",
+    "options": {
+      "A": "February",
+      "B": "March",
+      "C": "April",
+      "D": "May"
+    },
+    "answer": "B",
+    "explanation": "Flight 12 was planned for March 2026 from Starbase."
+  },
+  {
+    "id": 233,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "ISRO planned its first uncrewed Gaganyaan mission (G1) by?",
+    "options": {
+      "A": "December 2025",
+      "B": "March 2026",
+      "C": "June 2026",
+      "D": "December 2026"
+    },
+    "answer": "B",
+    "explanation": "G1 was planned for March 2026."
+  },
+  {
+    "id": 234,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "The humanoid test robot onboard Gaganyaan G1 is named?",
+    "options": {
+      "A": "Aryabhata",
+      "B": "Kalpana",
+      "C": "Vyommitra",
+      "D": "Chandrayaan"
+    },
+    "answer": "C",
+    "explanation": "Vyommitra is the half-humanoid test robot."
+  },
+  {
+    "id": 235,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "ISRO's early-2026 rideshare mission carried how many smaller payloads alongside the main satellite?",
+    "options": {
+      "A": "6",
+      "B": "12",
+      "C": "18",
+      "D": "24"
+    },
+    "answer": "C",
+    "explanation": "18 smaller payloads plus EOS-N1."
+  },
+  {
+    "id": 236,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "The main payload on ISRO's Q1 2026 rideshare mission was?",
+    "options": {
+      "A": "RISAT-2",
+      "B": "EOS-N1",
+      "C": "Cartosat-3A",
+      "D": "GISAT-1"
+    },
+    "answer": "B",
+    "explanation": "EOS-N1 was the main Earth-observation satellite."
+  },
+  {
+    "id": 237,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "The 2025 Nobel Prize in Physics was shared by Clarke, Devoret and Martinis for work on?",
+    "options": {
+      "A": "Neutrino mass",
+      "B": "Macroscopic quantum tunnelling in circuits",
+      "C": "Dark matter detection",
+      "D": "Gravitational wave chirps"
+    },
+    "answer": "B",
+    "explanation": "For macroscopic quantum mechanical tunnelling/energy quantisation in electric circuits."
+  },
+  {
+    "id": 238,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "The 2025 Nobel Prize in Chemistry recognised work on?",
+    "options": {
+      "A": "mRNA vaccines",
+      "B": "Metal-organic frameworks (MOFs)",
+      "C": "CRISPR-Cas",
+      "D": "Asymmetric catalysis"
+    },
+    "answer": "B",
+    "explanation": "MOFs — by Kitagawa, Robson and Yaghi."
+  },
+  {
+    "id": 239,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "Omar M. Yaghi, a 2025 Chemistry Nobel laureate, is affiliated primarily with which country?",
+    "options": {
+      "A": "Jordan",
+      "B": "USA",
+      "C": "Saudi Arabia",
+      "D": "UK"
+    },
+    "answer": "B",
+    "explanation": "Yaghi is based in the USA."
+  },
+  {
+    "id": 240,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "The 2025 Nobel Prize in Physiology or Medicine recognised work on?",
+    "options": {
+      "A": "Protein folding",
+      "B": "Regulatory T cells and the immune system",
+      "C": "Hepatitis C discovery",
+      "D": "Gene editing in embryos"
+    },
+    "answer": "B",
+    "explanation": "Work on regulatory T cells — by Brunkow, Ramsdell and Sakaguchi."
+  },
+  {
+    "id": 241,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "The 2025 Nobel Prize in Literature went to?",
+    "options": {
+      "A": "Jon Fosse",
+      "B": "László Krasznahorkai",
+      "C": "Han Kang",
+      "D": "Mircea Cărtărescu"
+    },
+    "answer": "B",
+    "explanation": "Krasznahorkai (Hungary) won the 2025 Literature Nobel."
+  },
+  {
+    "id": 242,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "The 2025 Nobel Peace Prize was awarded to?",
+    "options": {
+      "A": "Volodymyr Zelenskyy",
+      "B": "Maria Corina Machado",
+      "C": "Narges Mohammadi",
+      "D": "Denis Mukwege"
+    },
+    "answer": "B",
+    "explanation": "Machado (Venezuela) won for democratic rights advocacy."
+  },
+  {
+    "id": 243,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "Maria Corina Machado is from which country?",
+    "options": {
+      "A": "Colombia",
+      "B": "Chile",
+      "C": "Venezuela",
+      "D": "Argentina"
+    },
+    "answer": "C",
+    "explanation": "She is a Venezuelan opposition leader."
+  },
+  {
+    "id": 244,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "The 2025 Nobel Memorial Prize in Economic Sciences was awarded to Mokyr, Aghion and Howitt for?",
+    "options": {
+      "A": "Behavioural economics",
+      "B": "Innovation-driven economic growth",
+      "C": "Mechanism design",
+      "D": "Trade theory"
+    },
+    "answer": "B",
+    "explanation": "Innovation-driven growth and creative destruction."
+  },
+  {
+    "id": 245,
+    "section": "B",
+    "category": "Space, Science & Nobel Prizes 2025",
+    "question": "Philippe Aghion, a 2025 Economics Nobel laureate, is principally associated with which country?",
+    "options": {
+      "A": "UK",
+      "B": "France",
+      "C": "Germany",
+      "D": "Italy"
+    },
+    "answer": "B",
+    "explanation": "Aghion is French."
+  },
+  {
+    "id": 246,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "The 98th Academy Awards (Oscars 2026) were held on what date?",
+    "options": {
+      "A": "8 March 2026",
+      "B": "15 March 2026",
+      "C": "22 March 2026",
+      "D": "29 March 2026"
+    },
+    "answer": "B",
+    "explanation": "Held on 15 March 2026 at the Dolby Theatre."
+  },
+  {
+    "id": 247,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Who hosted the Oscars 2026 for a second consecutive year?",
+    "options": {
+      "A": "Chris Rock",
+      "B": "Jimmy Kimmel",
+      "C": "Conan O'Brien",
+      "D": "Jon Stewart"
+    },
+    "answer": "C",
+    "explanation": "Conan O'Brien hosted back-to-back ceremonies."
+  },
+  {
+    "id": 248,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Which film won Best Picture at the 2026 Oscars?",
+    "options": {
+      "A": "Sinners",
+      "B": "One Battle After Another",
+      "C": "Hamnet",
+      "D": "Weapons"
+    },
+    "answer": "B",
+    "explanation": "'One Battle After Another' won Best Picture and six awards in total."
+  },
+  {
+    "id": 249,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "How many Oscars did 'One Battle After Another' win in total?",
+    "options": {
+      "A": "Four",
+      "B": "Five",
+      "C": "Six",
+      "D": "Seven"
+    },
+    "answer": "C",
+    "explanation": "It won six awards including Best Picture and Best Director."
+  },
+  {
+    "id": 250,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Best Director at the 2026 Oscars went to?",
+    "options": {
+      "A": "Paul Thomas Anderson",
+      "B": "Ryan Coogler",
+      "C": "Denis Villeneuve",
+      "D": "Chloé Zhao"
+    },
+    "answer": "A",
+    "explanation": "Anderson won for 'One Battle After Another'."
+  },
+  {
+    "id": 251,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Best Actor at the 2026 Oscars was won by?",
+    "options": {
+      "A": "Timothée Chalamet",
+      "B": "Michael B. Jordan",
+      "C": "Colman Domingo",
+      "D": "Paul Mescal"
+    },
+    "answer": "B",
+    "explanation": "Jordan won for 'Sinners'."
+  },
+  {
+    "id": 252,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Best Actress at the 2026 Oscars was won by?",
+    "options": {
+      "A": "Emma Stone",
+      "B": "Jessie Buckley",
+      "C": "Saoirse Ronan",
+      "D": "Carey Mulligan"
+    },
+    "answer": "B",
+    "explanation": "Buckley won for 'Hamnet'."
+  },
+  {
+    "id": 253,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Best Supporting Actor at the 2026 Oscars was won by?",
+    "options": {
+      "A": "Sean Penn",
+      "B": "Willem Dafoe",
+      "C": "Kieran Culkin",
+      "D": "Robert De Niro"
+    },
+    "answer": "A",
+    "explanation": "Sean Penn won for 'One Battle After Another' (not in attendance)."
+  },
+  {
+    "id": 254,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Best Supporting Actress at the 2026 Oscars was won by?",
+    "options": {
+      "A": "Amy Madigan",
+      "B": "Danielle Brooks",
+      "C": "Regina King",
+      "D": "Isabella Rossellini"
+    },
+    "answer": "A",
+    "explanation": "Amy Madigan won for 'Weapons'."
+  },
+  {
+    "id": 255,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Best Original Screenplay at the 2026 Oscars went to?",
+    "options": {
+      "A": "Greta Gerwig",
+      "B": "Ryan Coogler",
+      "C": "Jesse Armstrong",
+      "D": "Andrew Haigh"
+    },
+    "answer": "B",
+    "explanation": "Coogler won for 'Sinners'."
+  },
+  {
+    "id": 256,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "The 2026 Oscars introduced a new category — which?",
+    "options": {
+      "A": "Best Stunt Design",
+      "B": "Best Casting",
+      "C": "Best Title Sequence",
+      "D": "Best Performance Capture"
+    },
+    "answer": "B",
+    "explanation": "Best Casting was introduced, won by 'One Battle After Another'."
+  },
+  {
+    "id": 257,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Which film tied an all-time record with 16 Oscar nominations in 2026?",
+    "options": {
+      "A": "Oppenheimer",
+      "B": "Sinners",
+      "C": "Hamnet",
+      "D": "The Brutalist"
+    },
+    "answer": "B",
+    "explanation": "'Sinners' set an Oscar nominations record of 16."
+  },
+  {
+    "id": 258,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "The 68th Grammy Awards were held at which venue on 1 February 2026?",
+    "options": {
+      "A": "Madison Square Garden",
+      "B": "Crypto.com Arena",
+      "C": "MGM Grand Garden",
+      "D": "Hollywood Bowl"
+    },
+    "answer": "B",
+    "explanation": "Crypto.com Arena, Los Angeles."
+  },
+  {
+    "id": 259,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Who hosted the 2026 Grammys (his sixth and final time)?",
+    "options": {
+      "A": "Jimmy Fallon",
+      "B": "Ricky Gervais",
+      "C": "Trevor Noah",
+      "D": "James Corden"
+    },
+    "answer": "C",
+    "explanation": "Trevor Noah hosted for a sixth and final time."
+  },
+  {
+    "id": 260,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "2026 Grammy Record of the Year went to?",
+    "options": {
+      "A": "Beyoncé",
+      "B": "Kendrick Lamar",
+      "C": "SZA",
+      "D": "Dua Lipa"
+    },
+    "answer": "B",
+    "explanation": "Kendrick Lamar won with 'Luther' — consecutive win."
+  },
+  {
+    "id": 261,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "2026 Grammy Album of the Year went to Bad Bunny for?",
+    "options": {
+      "A": "Un Verano Sin Ti",
+      "B": "Nadie Sabe Lo Que Va a Pasar Mañana",
+      "C": "Debí Tirar Más Fotos",
+      "D": "YHLQMDLG"
+    },
+    "answer": "C",
+    "explanation": "'Debí Tirar Más Fotos' — the first Spanish-language Album of the Year."
+  },
+  {
+    "id": 262,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Bad Bunny's 2026 Album of the Year win made him the how-many'th Latino artist to win in that category?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    },
+    "answer": "C",
+    "explanation": "Third Latino artist to win Album of the Year."
+  },
+  {
+    "id": 263,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Grammy Song of the Year 2026 went to Billie Eilish & Finneas for?",
+    "options": {
+      "A": "Birds of a Feather",
+      "B": "What Was I Made For?",
+      "C": "Wildflower",
+      "D": "TV"
+    },
+    "answer": "C",
+    "explanation": "'Wildflower' — their third Song of the Year win."
+  },
+  {
+    "id": 264,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "2026 Grammy Best New Artist went to?",
+    "options": {
+      "A": "Chappell Roan",
+      "B": "Olivia Dean",
+      "C": "Gracie Abrams",
+      "D": "Teddy Swims"
+    },
+    "answer": "B",
+    "explanation": "Olivia Dean — first British Best New Artist since Dua Lipa (2019)."
+  },
+  {
+    "id": 265,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Kendrick Lamar's 'Luther' win marked which consecutive Record of the Year?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    },
+    "answer": "B",
+    "explanation": "Second consecutive Record of the Year for Lamar."
+  },
+  {
+    "id": 266,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Ryan Coogler's Best Original Screenplay Oscar 2026 was for the film?",
+    "options": {
+      "A": "Black Panther",
+      "B": "Fruitvale Station",
+      "C": "Sinners",
+      "D": "Creed IV"
+    },
+    "answer": "C",
+    "explanation": "Coogler won for 'Sinners'."
+  },
+  {
+    "id": 267,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "The 'Hamnet' film is based on a novel by?",
+    "options": {
+      "A": "Maggie O'Farrell",
+      "B": "Colm Tóibín",
+      "C": "Hilary Mantel",
+      "D": "Sarah Waters"
+    },
+    "answer": "A",
+    "explanation": "Maggie O'Farrell wrote the novel."
+  },
+  {
+    "id": 268,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Best Director Oscar 2026 was a first for the winner in what capacity?",
+    "options": {
+      "A": "Third time",
+      "B": "Second time",
+      "C": "First Best Director Oscar",
+      "D": "A tie"
+    },
+    "answer": "C",
+    "explanation": "Paul Thomas Anderson won his first Best Director Oscar."
+  },
+  {
+    "id": 269,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "The 2026 Oscars' Best Casting winner was?",
+    "options": {
+      "A": "Sinners",
+      "B": "One Battle After Another",
+      "C": "Weapons",
+      "D": "Hamnet"
+    },
+    "answer": "B",
+    "explanation": "'One Battle After Another' won the inaugural Best Casting award."
+  },
+  {
+    "id": 270,
+    "section": "B",
+    "category": "Awards — Oscars 2026 & Grammys 2026",
+    "question": "Which film received 16 nominations at the 2026 Oscars — an all-time record surpassing La La Land?",
+    "options": {
+      "A": "One Battle After Another",
+      "B": "Hamnet",
+      "C": "Sinners",
+      "D": "Weapons"
+    },
+    "answer": "C",
+    "explanation": "'Sinners' tied/surpassed prior records at 16 nominations."
+  },
+  {
+    "id": 271,
+    "section": "B",
+    "category": "Sports",
+    "question": "Super Bowl LX was played on what date in 2026?",
+    "options": {
+      "A": "2 February",
+      "B": "8 February",
+      "C": "15 February",
+      "D": "22 February"
+    },
+    "answer": "B",
+    "explanation": "Super Bowl LX: 8 February 2026."
+  },
+  {
+    "id": 272,
+    "section": "B",
+    "category": "Sports",
+    "question": "Who won Super Bowl LX?",
+    "options": {
+      "A": "New England Patriots",
+      "B": "Kansas City Chiefs",
+      "C": "Seattle Seahawks",
+      "D": "Philadelphia Eagles"
+    },
+    "answer": "C",
+    "explanation": "The Seahawks defeated the Patriots 29-13."
+  },
+  {
+    "id": 273,
+    "section": "B",
+    "category": "Sports",
+    "question": "The Super Bowl LX MVP was?",
+    "options": {
+      "A": "Mike Macdonald",
+      "B": "Kenneth Walker",
+      "C": "Drake Maye",
+      "D": "DK Metcalf"
+    },
+    "answer": "B",
+    "explanation": "RB Kenneth Walker — 135 rushing yards."
+  },
+  {
+    "id": 274,
+    "section": "B",
+    "category": "Sports",
+    "question": "Seattle's head coach for Super Bowl LX was?",
+    "options": {
+      "A": "Pete Carroll",
+      "B": "Mike Macdonald",
+      "C": "Sean McVay",
+      "D": "Dan Quinn"
+    },
+    "answer": "B",
+    "explanation": "Second-year coach Mike Macdonald led Seattle."
+  },
+  {
+    "id": 275,
+    "section": "B",
+    "category": "Sports",
+    "question": "The Seahawks' 2025 regular season record was?",
+    "options": {
+      "A": "12-5",
+      "B": "13-4",
+      "C": "14-3",
+      "D": "15-2"
+    },
+    "answer": "C",
+    "explanation": "Seattle finished 14-3."
+  },
+  {
+    "id": 276,
+    "section": "B",
+    "category": "Sports",
+    "question": "The 2026 Australian Open men's singles champion was?",
+    "options": {
+      "A": "Novak Djokovic",
+      "B": "Jannik Sinner",
+      "C": "Carlos Alcaraz",
+      "D": "Daniil Medvedev"
+    },
+    "answer": "C",
+    "explanation": "Alcaraz beat Djokovic in four sets."
+  },
+  {
+    "id": 277,
+    "section": "B",
+    "category": "Sports",
+    "question": "Carlos Alcaraz's 2026 Australian Open title completed his?",
+    "options": {
+      "A": "Career Masters 1000",
+      "B": "Career Grand Slam",
+      "C": "Career Olympic Slam",
+      "D": "Golden Slam"
+    },
+    "answer": "B",
+    "explanation": "He completed the career Grand Slam, youngest man ever."
+  },
+  {
+    "id": 278,
+    "section": "B",
+    "category": "Sports",
+    "question": "Alcaraz became the youngest man in history to complete the career Grand Slam at age?",
+    "options": {
+      "A": "20y 11m",
+      "B": "21y 8m",
+      "C": "22y 8m 27d",
+      "D": "23y 6m"
+    },
+    "answer": "C",
+    "explanation": "At 22 years, 8 months, 27 days."
+  },
+  {
+    "id": 279,
+    "section": "B",
+    "category": "Sports",
+    "question": "The 2026 Australian Open women's singles champion was?",
+    "options": {
+      "A": "Iga Swiatek",
+      "B": "Aryna Sabalenka",
+      "C": "Elena Rybakina",
+      "D": "Coco Gauff"
+    },
+    "answer": "C",
+    "explanation": "Rybakina won her maiden Australian Open."
+  },
+  {
+    "id": 280,
+    "section": "B",
+    "category": "Sports",
+    "question": "The 2026 Australian Open mixed doubles was won by Ellen Perez and?",
+    "options": {
+      "A": "Jannik Sinner",
+      "B": "Nick Kyrgios",
+      "C": "Matthew Ebden",
+      "D": "Dan Evans"
+    },
+    "answer": "B",
+    "explanation": "Perez and Kyrgios won the mixed doubles."
+  },
+  {
+    "id": 281,
+    "section": "B",
+    "category": "Sports",
+    "question": "The 2026 Six Nations Rugby was won by?",
+    "options": {
+      "A": "England",
+      "B": "Ireland",
+      "C": "France",
+      "D": "Scotland"
+    },
+    "answer": "C",
+    "explanation": "France won a second successive Six Nations title."
+  },
+  {
+    "id": 282,
+    "section": "B",
+    "category": "Sports",
+    "question": "France clinched the 2026 Six Nations with a final-match kick by?",
+    "options": {
+      "A": "Antoine Dupont",
+      "B": "Thomas Ramos",
+      "C": "Romain Ntamack",
+      "D": "Matthieu Jalibert"
+    },
+    "answer": "B",
+    "explanation": "Thomas Ramos landed the winning kick."
+  },
+  {
+    "id": 283,
+    "section": "B",
+    "category": "Sports",
+    "question": "The winner of the 2025 ICC Champions Trophy was?",
+    "options": {
+      "A": "Pakistan",
+      "B": "Australia",
+      "C": "India",
+      "D": "New Zealand"
+    },
+    "answer": "C",
+    "explanation": "India beat New Zealand to win a record third title."
+  },
+  {
+    "id": 284,
+    "section": "B",
+    "category": "Sports",
+    "question": "India became the first team in the Champions Trophy to?",
+    "options": {
+      "A": "Win 4 titles",
+      "B": "Win 3 titles and remain undefeated",
+      "C": "Host and win",
+      "D": "Win 2 titles back-to-back"
+    },
+    "answer": "B",
+    "explanation": "India won three titles and stayed undefeated throughout."
+  },
+  {
+    "id": 285,
+    "section": "B",
+    "category": "Sports",
+    "question": "In the 2025 Champions Trophy India vs Pakistan group clash, India chased down?",
+    "options": {
+      "A": "210",
+      "B": "228",
+      "C": "241",
+      "D": "255"
+    },
+    "answer": "C",
+    "explanation": "Pakistan made 241 all out; Kohli's century helped India chase it."
+  },
+  {
+    "id": 286,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "In April 2026 the Trump administration imposed tariffs of what percentage on auto imports from all countries?",
+    "options": {
+      "A": "15%",
+      "B": "20%",
+      "C": "25%",
+      "D": "30%"
+    },
+    "answer": "C",
+    "explanation": "A 25% tariff on auto imports was applied."
+  },
+  {
+    "id": 287,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "The US Supreme Court early in 2026 ruled which Trump tariff basis unlawful?",
+    "options": {
+      "A": "Section 232",
+      "B": "Section 301",
+      "C": "IEEPA-based tariffs",
+      "D": "Section 122"
+    },
+    "answer": "C",
+    "explanation": "IEEPA-based tariffs from 2025 were ruled unlawful."
+  },
+  {
+    "id": 288,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "After the Supreme Court ruling, replacement Trump tariffs relied on which sections?",
+    "options": {
+      "A": "Section 201 only",
+      "B": "Sections 122, 301 and 232",
+      "C": "Section 337 only",
+      "D": "Section 406 only"
+    },
+    "answer": "B",
+    "explanation": "Sections 122, 301 and 232 tariff investigations replaced IEEPA tariffs."
+  },
+  {
+    "id": 289,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "The 2026 Trump tariffs were described as the largest US tax increase (as % of GDP) since?",
+    "options": {
+      "A": "1981",
+      "B": "1986",
+      "C": "1993",
+      "D": "2001"
+    },
+    "answer": "C",
+    "explanation": "The largest since 1993."
+  },
+  {
+    "id": 290,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "Average US household tax increase from the 2026 tariffs was estimated at?",
+    "options": {
+      "A": "$750",
+      "B": "$1,100",
+      "C": "$1,500",
+      "D": "$2,400"
+    },
+    "answer": "C",
+    "explanation": "About $1,500 per household."
+  },
+  {
+    "id": 291,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "By April 2026, China faced US tariffs on autos at approximately?",
+    "options": {
+      "A": "25%",
+      "B": "35%",
+      "C": "47.5%",
+      "D": "60%"
+    },
+    "answer": "C",
+    "explanation": "Auto tariff on China reached 47.5%."
+  },
+  {
+    "id": 292,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "By April 2026, China faced US tariffs on steel and aluminum at approximately?",
+    "options": {
+      "A": "25%",
+      "B": "35%",
+      "C": "50%",
+      "D": "60%"
+    },
+    "answer": "C",
+    "explanation": "Steel/aluminium tariff: 50%."
+  },
+  {
+    "id": 293,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "By April 2026, China faced US tariffs on 'other imports' at approximately?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "30%",
+      "D": "40%"
+    },
+    "answer": "C",
+    "explanation": "Other imports: 30%."
+  },
+  {
+    "id": 294,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "In January-February 2026, China's retail sales grew year-on-year by?",
+    "options": {
+      "A": "1.2%",
+      "B": "2.8%",
+      "C": "4.5%",
+      "D": "6.1%"
+    },
+    "answer": "B",
+    "explanation": "Retail sales +2.8% YoY."
+  },
+  {
+    "id": 295,
+    "section": "B",
+    "category": "Global Economy",
+    "question": "In January-February 2026, China's fixed asset investment grew year-on-year by?",
+    "options": {
+      "A": "0.6%",
+      "B": "1.8%",
+      "C": "3.2%",
+      "D": "4.9%"
+    },
+    "answer": "B",
+    "explanation": "Fixed asset investment rose 1.8% YoY."
+  },
+  {
+    "id": 296,
+    "section": "B",
+    "category": "Disasters & Environment",
+    "question": "The strongest earthquake of 2026 year-to-date (magnitude 7.6) struck which region on 24 March?",
+    "options": {
+      "A": "Tonga",
+      "B": "Japan",
+      "C": "Philippines",
+      "D": "Alaska"
+    },
+    "answer": "A",
+    "explanation": "A M7.6 quake struck Tonga on 24 March 2026."
+  },
+  {
+    "id": 297,
+    "section": "B",
+    "category": "Disasters & Environment",
+    "question": "On 1 April 2026, a magnitude 7.4 earthquake struck off which country?",
+    "options": {
+      "A": "Chile",
+      "B": "Indonesia",
+      "C": "Japan",
+      "D": "New Zealand"
+    },
+    "answer": "B",
+    "explanation": "Indonesia was hit on 1 April 2026."
+  },
+  {
+    "id": 298,
+    "section": "B",
+    "category": "Disasters & Environment",
+    "question": "On 2 April 2026, a magnitude 7.6 earthquake struck which sea area?",
+    "options": {
+      "A": "Banda Sea",
+      "B": "Northern Molucca Sea",
+      "C": "Sulu Sea",
+      "D": "Celebes Sea"
+    },
+    "answer": "B",
+    "explanation": "Northern Molucca Sea, generating 30 cm tsunami waves."
+  },
+  {
+    "id": 299,
+    "section": "B",
+    "category": "Disasters & Environment",
+    "question": "A magnitude 7.3 earthquake struck near which Pacific island nation on 30 March 2026?",
+    "options": {
+      "A": "Fiji",
+      "B": "Solomon Islands",
+      "C": "Vanuatu",
+      "D": "Samoa"
+    },
+    "answer": "C",
+    "explanation": "Vanuatu was the epicentre on 30 March 2026."
+  },
+  {
+    "id": 300,
+    "section": "B",
+    "category": "Disasters & Environment",
+    "question": "By early April 2026, how many earthquakes of magnitude 7 or greater had been recorded worldwide in 2026?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "C",
+    "explanation": "Four magnitude-7+ quakes by early April 2026."
+  }
+]

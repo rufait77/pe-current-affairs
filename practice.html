@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Practice · PE Current Affairs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <a href="index.html" class="icon-btn" aria-label="Back">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+    </a>
+    <div class="brand"><span>Practice Mode</span></div>
+    <div class="spacer"></div>
+    <span id="timer" class="badge" style="font-variant-numeric: tabular-nums">00:00</span>
+    <button id="theme-toggle" class="icon-btn" aria-label="Toggle theme"></button>
+  </div>
+</header>
+
+<main class="container">
+  <div class="progress" style="margin-bottom:14px"><div id="progress-bar" style="width:0%"></div></div>
+  <div id="content" class="loader">Loading…</div>
+  <div id="palette-wrap" class="palette-wrap hide">
+    <div class="palette-head">
+      <strong style="color:var(--text)">Question palette</strong>
+      <div class="legend">
+        <span><span class="dot" style="background:var(--text-mute)"></span>Unseen</span>
+        <span><span class="dot" style="background:var(--blue)"></span>Answered</span>
+        <span><span class="dot" style="background:var(--warn)"></span>Marked</span>
+      </div>
+    </div>
+    <div id="palette" class="palette"></div>
+  </div>
+</main>
+
+<div class="bottombar">
+  <div class="bottombar-inner" id="bottom-actions" style="display:none">
+    <button id="prev-btn" class="btn">← Prev</button>
+    <button id="mark-btn" class="btn ghost">⚑ Mark</button>
+    <div class="spacer" style="flex:1"></div>
+    <button id="submit-btn" class="btn">Submit</button>
+    <button id="next-btn" class="btn primary">Next →</button>
+  </div>
+</div>
+
+<!-- Setup modal -->
+<div id="setup-modal" class="modal-overlay">
+  <div class="modal" role="dialog" aria-labelledby="setup-title">
+    <h2 id="setup-title">Start a practice session</h2>
+    <p class="sub">Choose length, pool, and timer. You can submit any time.</p>
+
+    <div class="field">
+      <label>Length</label>
+      <div class="chips" id="len-chips">
+        <button class="chip" data-len="25">25</button>
+        <button class="chip active" data-len="50">50</button>
+        <button class="chip" data-len="100">100</button>
+        <button class="chip" data-len="custom">Custom</button>
+        <input id="len-custom" class="input hide" type="number" min="5" max="300" placeholder="e.g. 75" style="width:120px" />
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Pool</label>
+      <div class="chips" id="pool-chips">
+        <button class="chip active" data-pool="all">All 300</button>
+        <button class="chip" data-pool="A">🇧🇩 Bangladesh</button>
+        <button class="chip" data-pool="B">🌐 International</button>
+        <button class="chip" data-pool="bookmarked">★ Bookmarked</button>
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Order</label>
+      <div class="chips" id="order-chips">
+        <button class="chip active" data-order="random">Random</button>
+        <button class="chip" data-order="sequential">Sequential</button>
+      </div>
+    </div>
+
+    <div class="field">
+      <label>Timer</label>
+      <div class="chips" id="timer-chips">
+        <button class="chip" data-timer="off">Off</button>
+        <button class="chip active" data-timer="per">45s / question</button>
+        <button class="chip" data-timer="full">Full paper</button>
+      </div>
+    </div>
+
+    <div class="field">
+      <label class="switch">
+        <input id="neg-toggle" type="checkbox" />
+        Negative marking (−0.25 per wrong)
+      </label>
+    </div>
+
+    <button id="start-btn" class="btn primary full" style="margin-top:8px">Start session</button>
+  </div>
+</div>
+
+<script type="module" src="assets/js/practice.js"></script>
+</body>
+</html>

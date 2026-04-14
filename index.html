@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0b1020" />
+<title>PE Current Affairs — 300 MCQ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <div class="brand-logo"></div>
+      <span>PE · Current Affairs</span>
+    </div>
+    <div class="spacer"></div>
+    <button id="theme-toggle" class="icon-btn" aria-label="Toggle theme"></button>
+  </div>
+</header>
+
+<main class="container">
+  <section class="hero">
+    <h1>300 MCQ · Learn & Practice</h1>
+    <p>Capt to Maj Promotion Exam Part 1 · General Knowledge (Current Affairs) · Dec 2025 – Apr 2026 window.</p>
+    <div class="badge-row">
+      <span class="badge section-a">🇧🇩 150 Bangladesh</span>
+      <span class="badge section-b">🌐 150 International</span>
+      <span class="badge" id="bookmark-badge">★ 0 bookmarked</span>
+    </div>
+  </section>
+
+  <h2 class="section-title">Choose a mode</h2>
+  <div class="mode-grid">
+    <a class="mode-card" href="learn.html">
+      <div class="mode-ico">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+      </div>
+      <h3>Learn Mode</h3>
+      <p>Go through questions one by one. Instant answer reveal with a short explanation after each attempt.</p>
+    </a>
+    <a class="mode-card" href="practice.html">
+      <div class="mode-ico">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8v4l3 2"/><circle cx="12" cy="12" r="9"/></svg>
+      </div>
+      <h3>Practice Mode</h3>
+      <p>Timed exam session with a question palette, mark-for-review, and a full scorecard with review at the end.</p>
+    </a>
+  </div>
+
+  <h2 class="section-title">Filter starting pool</h2>
+  <div class="chips" id="pool-chips">
+    <button class="chip active" data-pool="all">All · 300</button>
+    <button class="chip" data-pool="A">🇧🇩 Bangladesh · 150</button>
+    <button class="chip" data-pool="B">🌐 International · 150</button>
+    <button class="chip" data-pool="bookmarked">★ Bookmarked</button>
+  </div>
+
+  <h2 class="section-title">Your stats</h2>
+  <div class="stats">
+    <div class="stat"><div class="k">Best score</div><div class="v" id="stat-best">—</div></div>
+    <div class="stat"><div class="k">Sessions</div><div class="v" id="stat-sessions">0</div></div>
+  </div>
+
+  <p style="margin-top:22px;color:var(--text-mute);font-size:12.5px;text-align:center;">
+    Tip · keys <span class="kbd">A</span>–<span class="kbd">D</span> / <span class="kbd">1</span>–<span class="kbd">4</span> pick · <span class="kbd">→</span> next · <span class="kbd">B</span> bookmark.
+  </p>
+</main>
+
+<script type="module">
+import { initTheme, getBookmarks, LS } from './assets/js/app.js';
+initTheme();
+
+document.getElementById('bookmark-badge').textContent = `★ ${getBookmarks().size} bookmarked`;
+
+const chips = document.querySelectorAll('#pool-chips .chip');
+const initialPool = localStorage.getItem('ca.pool') || 'all';
+chips.forEach(c => {
+  if (c.dataset.pool === initialPool) c.classList.add('active'); else c.classList.remove('active');
+  c.addEventListener('click', () => {
+    chips.forEach(x => x.classList.remove('active'));
+    c.classList.add('active');
+    localStorage.setItem('ca.pool', c.dataset.pool);
+  });
+});
+
+try {
+  const history = JSON.parse(localStorage.getItem(LS.practiceHistory) || '[]');
+  document.getElementById('stat-sessions').textContent = history.length;
+  if (history.length) {
+    const best = Math.max(...history.map(h => h.percent));
+    document.getElementById('stat-best').textContent = best.toFixed(0) + '%';
+  }
+} catch {}
+</script>
+</body>
+</html>
