@@ -14,6 +14,7 @@ function escapeHtml(s) {
     return;
   }
   const result = JSON.parse(raw);
+  content.className = '';
   const all = await loadQuestions();
   const byId = Object.fromEntries(all.map(q => [q.id, q]));
 

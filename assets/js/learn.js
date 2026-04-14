@@ -47,6 +47,7 @@ function loadProgress() {
 }
 
 function render() {
+  content.className = '';
   if (!pool.length) {
     content.innerHTML = `<div class="empty">No questions in this pool.</div>`;
     return;

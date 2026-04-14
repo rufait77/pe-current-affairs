@@ -147,6 +147,7 @@ function startTicker() {
 }
 
 function render() {
+  content.className = '';
   const q = all.find(x => x.id === session.ids[session.idx]);
   const picked = session.answers[q.id];
   const marked = !!session.marked[q.id];
