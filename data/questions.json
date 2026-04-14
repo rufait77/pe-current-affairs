@@ -4198,5 +4198,1825 @@
     },
     "answer": "C",
     "explanation": "Four magnitude-7+ quakes by early April 2026."
+  },
+  {
+    "id": 301,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "When was the Agreement on Reciprocal Trade (ART) between Bangladesh and Turkey signed?",
+    "options": {
+      "A": "5 February 2026",
+      "B": "7 February 2026",
+      "C": "10 February 2026",
+      "D": "14 February 2026"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 302,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Which body was recently designated to regulate Bangladesh's private universities?",
+    "options": {
+      "A": "Bangladesh University Development Authority",
+      "B": "Bangladesh University Grants Commission (UGC)",
+      "C": "Bangladesh University Administration Board",
+      "D": "Bangladesh Private University Council"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 303,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "When was the ordinance for the 7-point proposal of the July Uprising Charter issued?",
+    "options": {
+      "A": "21 January 2026",
+      "B": "23 January 2026",
+      "C": "25 January 2026",
+      "D": "30 January 2026"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 304,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "The microfinance division of Bangladesh Bank is headed/licensed by which authority?",
+    "options": {
+      "A": "Bangladesh Bank",
+      "B": "Microcredit Regulatory Authority (MRA)",
+      "C": "Ministry of Finance",
+      "D": "Prime Minister's Office"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 305,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Up to 23 February 2026, how many new rice varieties has BRRI released?",
+    "options": {
+      "A": "123",
+      "B": "125",
+      "C": "127",
+      "D": "130"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 306,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Bangladesh signed its first Economic Partnership Agreement (EPA) with which country?",
+    "options": {
+      "A": "Japan",
+      "B": "South Korea",
+      "C": "China",
+      "D": "Singapore"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 307,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "As of early 2026, the total number of public universities in Bangladesh is approximately?",
+    "options": {
+      "A": "55",
+      "B": "57",
+      "C": "60",
+      "D": "62"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 308,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Which is the 57th public and 5th autonomous university of Bangladesh?",
+    "options": {
+      "A": "Meherpur University",
+      "B": "Tangail University",
+      "C": "Naogaon University",
+      "D": "Dhaka Central University"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 309,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Where is Bangladesh's first Military-Socio Economic Zone being set up?",
+    "options": {
+      "A": "Kaliganj, Bandarban",
+      "B": "Mirsarai, Chattogram",
+      "C": "Savar, Dhaka",
+      "D": "Ashulia, Dhaka"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Who is the Chairman of the National Human Rights Commission (as of Feb 2026)?",
+    "options": {
+      "A": "Md. Nur-Ullah",
+      "B": "Hena Dewan",
+      "C": "Ashutosh Sarker",
+      "D": "Mohiul Islam Chowdhury"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 311,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Which district was declared a 'A-category' district by the government on 27 January 2026?",
+    "options": {
+      "A": "Sunamganj",
+      "B": "Magura",
+      "C": "Chandpur",
+      "D": "Bhola"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 312,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Where is Bangladesh's first composite/textile-based free trade zone to be established?",
+    "options": {
+      "A": "Savar, Dhaka",
+      "B": "Mirpur, Dhaka",
+      "C": "Mirsarai, Chattogram",
+      "D": "Sonadia, Cox's Bazar"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 313,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "The total number of members in the Tarique Rahman cabinet is?",
+    "options": {
+      "A": "45",
+      "B": "48",
+      "C": "49 (25 ministers + 24 state ministers)",
+      "D": "54"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 314,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Who is the current Prime Minister of Bangladesh (Mar 2026)?",
+    "options": {
+      "A": "Dr. Mujahid Chowdhury",
+      "B": "Dr. Muhammad Yunus",
+      "C": "Tarique Rahman",
+      "D": "Mohammed Shahabuddin"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 315,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "How many women are there in the present Bangladesh cabinet?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 316,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "How many technocrat ministers are there in the present Bangladesh cabinet?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 317,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Who is the current Finance Minister of Bangladesh?",
+    "options": {
+      "A": "Abdul Moyeen Khan",
+      "B": "Amir Khasru Mahmud Chowdhury",
+      "C": "Salahuddin Ahmed",
+      "D": "Ruhul Kabir Rizvi"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 318,
+    "section": "A",
+    "category": "Professor · March 2026 Issue",
+    "question": "Who is the current Foreign Affairs Minister of Bangladesh?",
+    "options": {
+      "A": "Humayun Kobir",
+      "B": "M. Touhid Hossain",
+      "C": "Khalilur Rahman",
+      "D": "Shafiqur Rahman"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 319,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "How was the Mongol Shobhajatra (Bengali New Year procession) recognised in 2026?",
+    "options": {
+      "A": "UNESCO national heritage",
+      "B": "Inscribed on UNESCO's Intangible Cultural Heritage list",
+      "C": "State-only parade",
+      "D": "SAARC cultural procession"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 320,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Who became the new Chief Justice of Bangladesh on 28 December 2025?",
+    "options": {
+      "A": "Syed Refaat Ahmed",
+      "B": "Obaidul Hassan",
+      "C": "Justice Zubayer Rahman Chowdhury",
+      "D": "Hasan Foez Siddique"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 321,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "When was the 30th Election Commission of Bangladesh constituted?",
+    "options": {
+      "A": "24 November 2025",
+      "B": "30 November 2025",
+      "C": "15 December 2025",
+      "D": "25 December 2025"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 322,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "The 2026 general election was Bangladesh's which national parliament election?",
+    "options": {
+      "A": "11th",
+      "B": "12th",
+      "C": "13th",
+      "D": "14th"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 323,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Which constituency recorded the highest number of voters in the 13th general election?",
+    "options": {
+      "A": "Dhaka-1",
+      "B": "Gazipur-2",
+      "C": "Gopalganj-3",
+      "D": "Pirojpur-3"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 324,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Which constituency recorded the lowest number of voters in the 13th general election?",
+    "options": {
+      "A": "Khulna-1",
+      "B": "Jashore-6",
+      "C": "Patuakhali-3",
+      "D": "Parbatipur-1"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 325,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Which is the smallest parliamentary constituency by area in Bangladesh?",
+    "options": {
+      "A": "Dhaka-7",
+      "B": "Sylhet-5",
+      "C": "Bagerhat-2",
+      "D": "Rangamati-1"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 326,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Bangladesh's first parliament session of the 13th Jatiya Sangsad began on?",
+    "options": {
+      "A": "4 January 2026",
+      "B": "20 January 2026",
+      "C": "30 January 2026",
+      "D": "17 February 2026"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 327,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Which is the 48th textile Public Welfare Parishad of Bangladesh?",
+    "options": {
+      "A": "Weaving Welfare Parishad",
+      "B": "Textile Welfare Parishad",
+      "C": "Primary Textile Welfare Parishad",
+      "D": "National Textile Welfare Parishad"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 328,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Bangladesh's 'A' Category District change took effect from?",
+    "options": {
+      "A": "24 December 2025",
+      "B": "28 December 2025",
+      "C": "30 December 2025",
+      "D": "31 December 2025"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 329,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Who became the first female President of the UN Framework Convention on Climate Change (UNFCCC)?",
+    "options": {
+      "A": "Rania Al Mashat",
+      "B": "Christiana Figueres",
+      "C": "Simon Stiell",
+      "D": "Jennifer Morgan"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 330,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "The joint US-Israel operation of 28 February 2026 was code-named?",
+    "options": {
+      "A": "Operation Absolute Resolve",
+      "B": "Operation Midnight Hammer",
+      "C": "Operation Southern Sphere",
+      "D": "Operation Midnight Storm"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 331,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "The 246th Pope of the Catholic Church elected in 2025 is?",
+    "options": {
+      "A": "Pope Francis",
+      "B": "Pope Leo XIV",
+      "C": "Pope Pius XIII",
+      "D": "Pope Benedict XVII"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 332,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Who became the first Muslim mayor-elect of New York City on 4 November 2025?",
+    "options": {
+      "A": "Bill de Blasio",
+      "B": "Eric Adams",
+      "C": "Zohran Mamdani",
+      "D": "Curtis Sliwa"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 333,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Who was sworn in as Bolivia's new President (ending 20 years of socialist rule)?",
+    "options": {
+      "A": "Luis Arce",
+      "B": "Rodrigo Paz",
+      "C": "Jeanine Áñez",
+      "D": "Carlos Mesa"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 334,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Who, at 92, was sworn in for an 8th term in Cameroon — becoming the world's oldest ruler?",
+    "options": {
+      "A": "Teodoro Obiang",
+      "B": "Paul Biya",
+      "C": "Denis Sassou Nguesso",
+      "D": "Yoweri Museveni"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 335,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Who is the youngest and first openly-gay Prime Minister of the Netherlands?",
+    "options": {
+      "A": "Pieter Omtzigt",
+      "B": "Dilan Yeşilgöz",
+      "C": "Rob Jetten",
+      "D": "Mark Rutte"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 336,
+    "section": "A",
+    "category": "Professor · February 2026 Issue",
+    "question": "Japan's first female Prime Minister (took office Oct 2024) is?",
+    "options": {
+      "A": "Yuko Obuchi",
+      "B": "Yuriko Koike",
+      "C": "Sanae Takaichi",
+      "D": "Seiko Noda"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 337,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "In 2025, Bangladesh was acclaimed as the 16th country worldwide to host which event?",
+    "options": {
+      "A": "Water Conference",
+      "B": "Global UN Climate Summit",
+      "C": "South-South Cooperation Summit",
+      "D": "OIC Summit"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 338,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "To promote social inclusion for visually-impaired persons, which country first launched a dedicated free rail service?",
+    "options": {
+      "A": "Japan",
+      "B": "Australia",
+      "C": "Switzerland",
+      "D": "Spain"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 339,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "Which country was the first in Latin America to ban tobacco sales?",
+    "options": {
+      "A": "Brazil",
+      "B": "Nicaragua",
+      "C": "Argentina",
+      "D": "Uruguay"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 340,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "The US mid-term elections of 2026 are to be held on which date in November?",
+    "options": {
+      "A": "3 November",
+      "B": "4 November",
+      "C": "5 November",
+      "D": "6 November"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 341,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "Pakistan's Chief of Army Staff who received a renewed term in late 2025 is?",
+    "options": {
+      "A": "Qamar Javed Bajwa",
+      "B": "Asim Munir",
+      "C": "Raheel Sharif",
+      "D": "Ashfaq Parvez Kayani"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 342,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "The 2026 Oktoberfest was cancelled in protest over the war involving which country?",
+    "options": {
+      "A": "Russia",
+      "B": "Ukraine",
+      "C": "Israel",
+      "D": "Iran"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 343,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "Hungary's literature Booker-equivalent winner (Booker International 2025) is?",
+    "options": {
+      "A": "Jon Fosse",
+      "B": "David Szalay",
+      "C": "László Krasznahorkai",
+      "D": "Péter Nádas"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 344,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "Which country holds the rotating EU Council presidency for the first half of 2026?",
+    "options": {
+      "A": "Ireland",
+      "B": "Belgium",
+      "C": "Spain",
+      "D": "Finland"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 345,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "The 113th session of the International Labour Organization (ILO) was held in?",
+    "options": {
+      "A": "Bangkok",
+      "B": "Geneva",
+      "C": "Nairobi",
+      "D": "New Delhi"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 346,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "The 15th General Assembly of IRENA was held in?",
+    "options": {
+      "A": "Riyadh",
+      "B": "Abu Dhabi",
+      "C": "Cairo",
+      "D": "Kuala Lumpur"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 347,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "The current (2026) Secretary-General of IRENA is?",
+    "options": {
+      "A": "Francesco La Camera",
+      "B": "Adnan Amin",
+      "C": "Fatih Birol",
+      "D": "Hélène Pelosse"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 348,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "Who was the Indonesian President elected in October 2024 who consolidated power through 2025?",
+    "options": {
+      "A": "Joko Widodo",
+      "B": "Prabowo Subianto",
+      "C": "Ganjar Pranowo",
+      "D": "Anies Baswedan"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 349,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "The first female President of Ireland elected in 2025 was?",
+    "options": {
+      "A": "Mary McAleese",
+      "B": "Catherine Connolly",
+      "C": "Michael D. Higgins",
+      "D": "Mary Lou McDonald"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 350,
+    "section": "B",
+    "category": "Professor · January 2026 Issue",
+    "question": "In which Iranian port did Russian freight trains first arrive on 8 November 2025 (via Kazakhstan and Turkmenistan)?",
+    "options": {
+      "A": "Bandar Abbas",
+      "B": "Chabahar",
+      "C": "Aprin dry port",
+      "D": "Bushehr"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 351,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "When did Bangladesh's digital payment revolution achieve full interoperability?",
+    "options": {
+      "A": "1 October 2025",
+      "B": "1 November 2025",
+      "C": "15 November 2025",
+      "D": "1 December 2025"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 352,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "On 3 November 2025, which country's embassy launched a visa services centre in Banani, Dhaka?",
+    "options": {
+      "A": "Germany",
+      "B": "France",
+      "C": "The Netherlands",
+      "D": "Belgium"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 353,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "On 8 November 2025, which six-lane railway underpass was inaugurated in Dhaka?",
+    "options": {
+      "A": "Khilkhet underpass",
+      "B": "TT Para underpass near Kamalapur Railway Station",
+      "C": "Tejgaon underpass",
+      "D": "Shahbagh underpass"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 354,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "On 4 November 2025, where was the country's tallest national flag stand inaugurated?",
+    "options": {
+      "A": "Suvarnabhoomi, Benapole",
+      "B": "Tamabil, Sylhet",
+      "C": "Bangabandha border, Panchagarh",
+      "D": "Teknaf border, Cox's Bazar"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 355,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "Who was named the first female Deputy Commissioner (DC) of Satkhira district?",
+    "options": {
+      "A": "Afroza Akhtar",
+      "B": "Munira Akhtar",
+      "C": "Sharmin Jahan",
+      "D": "Ismat Ara Sadek"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 356,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "As of 22 November 2025, which was the most recently registered political party in Bangladesh?",
+    "options": {
+      "A": "Awami League",
+      "B": "Bangladesh Samajtantrik Dal (Marxist) / NCP",
+      "C": "BNP",
+      "D": "Jatiya Party"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 357,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "In which two cities did the Advisory Council of the interim government approve proposals to open new embassies?",
+    "options": {
+      "A": "Dublin (Ireland) & Buenos Aires (Argentina)",
+      "B": "Oslo & Santiago",
+      "C": "Wellington & Lisbon",
+      "D": "Vienna & Quito"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 358,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "To modernise the defence sector and achieve self-reliance, the government decided to establish an economic zone in which sector?",
+    "options": {
+      "A": "Aerospace zone",
+      "B": "Military economic zone",
+      "C": "Naval industrial zone",
+      "D": "Border trade zone"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 359,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "The July National Charter (Constitutional Reform) Implementation Order 2025 was issued on?",
+    "options": {
+      "A": "3 November 2025",
+      "B": "7 November 2025",
+      "C": "13 November 2025",
+      "D": "20 November 2025"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 360,
+    "section": "A",
+    "category": "Professor · December 2025 Issue",
+    "question": "Where was the Sheikh Borpukan (Mujib) Military Station inaugurated?",
+    "options": {
+      "A": "Sherpur, Bogura",
+      "B": "Dhubri, Assam, India",
+      "C": "Agartala, Tripura",
+      "D": "Mizoram"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 361,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "In which Russian city was the world's first climate sukuk (worth RM118 million) launched?",
+    "options": {
+      "A": "Moscow",
+      "B": "Kazan",
+      "C": "St Petersburg",
+      "D": "Grozny"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 362,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "Which country is set to host the COP31 climate summit in 2026?",
+    "options": {
+      "A": "Australia",
+      "B": "Turkey",
+      "C": "Brazil",
+      "D": "UAE"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 363,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "When was the world's tallest hotel — Ciel Dubai Marina in Dubai — launched?",
+    "options": {
+      "A": "10 November 2025",
+      "B": "15 November 2025",
+      "C": "20 November 2025",
+      "D": "25 November 2025"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 364,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "Who was sworn in as Bolivia's new President, ending 20 years of socialist rule?",
+    "options": {
+      "A": "Jorge Quiroga",
+      "B": "Luis Arce",
+      "C": "Rodrigo Paz",
+      "D": "Samuel Doria Medina"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 365,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "Who, at 92 and described as the world's oldest ruler, was sworn in for an 8th term in Cameroon?",
+    "options": {
+      "A": "Paul Biya",
+      "B": "Teodoro Obiang",
+      "C": "Denis Sassou Nguesso",
+      "D": "Robert Mugabe"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 366,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "Who is set to become the youngest and first openly-gay Dutch Prime Minister?",
+    "options": {
+      "A": "Geert Wilders",
+      "B": "Frans Timmermans",
+      "C": "Rob Jetten (38)",
+      "D": "Mark Rutte"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 367,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "On which date did the first Russian freight train arrive at Iran's Aprin dry port (via Kazakhstan and Turkmenistan)?",
+    "options": {
+      "A": "6 November 2025",
+      "B": "7 November 2025",
+      "C": "8 November 2025",
+      "D": "10 November 2025"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 368,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "The first Muslim mayor of New York City (111th mayor) is?",
+    "options": {
+      "A": "Bill de Blasio",
+      "B": "Michael Bloomberg",
+      "C": "Zohran Mamdani",
+      "D": "Eric Adams"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 369,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "Zohran Mamdani's political ideology is best described as?",
+    "options": {
+      "A": "Conservative",
+      "B": "Liberal",
+      "C": "Democratic Socialist / Progressive",
+      "D": "Libertarian"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 370,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "In which of the following Mexican / Latin American events did the 30th Conference of the Parties (COP30) take place?",
+    "options": {
+      "A": "Cancún, Mexico",
+      "B": "Belém, Brazil",
+      "C": "Lima, Peru",
+      "D": "Rio de Janeiro, Brazil"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 371,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "Who scored the winning goal in Bangladesh's football win over India (first in 22 years) on 18 November 2025?",
+    "options": {
+      "A": "Jamal Bhuiyan",
+      "B": "Sheikh Morsalin",
+      "C": "Rakib Hossain",
+      "D": "Hamza Choudhury"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 372,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "In which tournament did Bangladesh secure this first win against India after 22 years?",
+    "options": {
+      "A": "SAFF Championship",
+      "B": "AFC Asian Cup Qualifiers",
+      "C": "Bangabandhu Cup",
+      "D": "AFC Challenge Cup"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 373,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "Who became the first Bangladeshi to score a century in his 100th Test?",
+    "options": {
+      "A": "Tamim Iqbal",
+      "B": "Shakib Al Hasan",
+      "C": "Mushfiqur Rahim",
+      "D": "Mominul Haque"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 374,
+    "section": "B",
+    "category": "Professor · December 2025 Issue",
+    "question": "Who completed a hat-trick of titles at the National Women's Chess Championship?",
+    "options": {
+      "A": "Rani Hamid",
+      "B": "Woman FIDE Master Noshin Anjum",
+      "C": "Shamima Akter",
+      "D": "Zakia Sultana"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 375,
+    "section": "A",
+    "category": "Professor · November 2025 Issue",
+    "question": "When was the July National Charter issued?",
+    "options": {
+      "A": "5 October 2025",
+      "B": "7 October 2025",
+      "C": "10 October 2025",
+      "D": "15 October 2025"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 376,
+    "section": "A",
+    "category": "Professor · November 2025 Issue",
+    "question": "Bangladesh's current Foreign Secretary is?",
+    "options": {
+      "A": "Masud Bin Momen",
+      "B": "Md. Jashim Uddin",
+      "C": "Asad Alam Siam",
+      "D": "Riaz Hamidullah"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 377,
+    "section": "A",
+    "category": "Professor · November 2025 Issue",
+    "question": "The Darien Gap lies between which two countries?",
+    "options": {
+      "A": "Colombia and Panama",
+      "B": "Honduras and Guatemala",
+      "C": "Venezuela and Brazil",
+      "D": "Nicaragua and Costa Rica"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 378,
+    "section": "A",
+    "category": "Professor · November 2025 Issue",
+    "question": "The Indian Ocean Rim Association (IORA) 2025 summit was hosted by?",
+    "options": {
+      "A": "South Africa",
+      "B": "India",
+      "C": "Sri Lanka",
+      "D": "Mauritius"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 379,
+    "section": "A",
+    "category": "Professor · November 2025 Issue",
+    "question": "The launch of Bangladesh's first dengue vaccine (TV005) trial was conducted in?",
+    "options": {
+      "A": "Mugda Hospital, Dhaka",
+      "B": "ICDDR,B",
+      "C": "Mitford Hospital",
+      "D": "DMCH"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 380,
+    "section": "A",
+    "category": "Professor · November 2025 Issue",
+    "question": "COVID-2 / new vaccine strain \"IX.GB Vaccine\" was rolled out by which country in 2025?",
+    "options": {
+      "A": "China",
+      "B": "USA",
+      "C": "Germany",
+      "D": "India"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 381,
+    "section": "A",
+    "category": "Professor · November 2025 Issue",
+    "question": "The July Uprising Charter's 14 clauses include how many primary articles/schedules?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 382,
+    "section": "B",
+    "category": "Professor · November 2025 Issue",
+    "question": "Japan's first female Prime Minister (2024) is?",
+    "options": {
+      "A": "Yuriko Koike",
+      "B": "Sanae Takaichi",
+      "C": "Tomomi Inada",
+      "D": "Seiko Noda"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 383,
+    "section": "B",
+    "category": "Professor · November 2025 Issue",
+    "question": "Dick Cheney, former US Vice President who died in November 2025, served under which President?",
+    "options": {
+      "A": "Ronald Reagan",
+      "B": "George H. W. Bush",
+      "C": "George W. Bush",
+      "D": "Donald Trump"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 384,
+    "section": "B",
+    "category": "Professor · November 2025 Issue",
+    "question": "Which global body's 2025 General Assembly adopted the \"Pact for the Future\"?",
+    "options": {
+      "A": "UN",
+      "B": "G20",
+      "C": "Commonwealth",
+      "D": "BRICS"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 385,
+    "section": "B",
+    "category": "Professor · November 2025 Issue",
+    "question": "Which is the world's largest climate summit — the 30th Conference of the Parties (COP30) — held in Belém, Brazil?",
+    "options": {
+      "A": "UNFCCC COP30",
+      "B": "Kyoto COP",
+      "C": "Rio+30",
+      "D": "UNEP-30"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 386,
+    "section": "B",
+    "category": "Professor · November 2025 Issue",
+    "question": "The 2025 Nobel Peace Prize was awarded to?",
+    "options": {
+      "A": "Maria Corina Machado",
+      "B": "Volodymyr Zelenskyy",
+      "C": "Greta Thunberg",
+      "D": "Alexei Navalny (posthumous)"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 387,
+    "section": "B",
+    "category": "Professor · November 2025 Issue",
+    "question": "The 2025 Nobel Prize in Literature went to?",
+    "options": {
+      "A": "Haruki Murakami",
+      "B": "László Krasznahorkai",
+      "C": "Jon Fosse",
+      "D": "Mircea Cărtărescu"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 388,
+    "section": "B",
+    "category": "Professor · November 2025 Issue",
+    "question": "Which country became the 115th member of the International Renewable Energy Agency (IRENA) in 2025?",
+    "options": {
+      "A": "Maldives",
+      "B": "Mongolia",
+      "C": "Timor-Leste",
+      "D": "Tonga"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 389,
+    "section": "B",
+    "category": "Professor · Organisational / Static Gk From The Images",
+    "question": "The headquarters of the ISA (International Solar Alliance) is in?",
+    "options": {
+      "A": "Gurugram, India",
+      "B": "Abu Dhabi, UAE",
+      "C": "Nairobi, Kenya",
+      "D": "New York, USA"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 390,
+    "section": "B",
+    "category": "Professor · Organisational / Static Gk From The Images",
+    "question": "The headquarters of the World Customs Organization (WCO) is in?",
+    "options": {
+      "A": "Brussels",
+      "B": "Geneva",
+      "C": "Vienna",
+      "D": "Paris"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 391,
+    "section": "B",
+    "category": "Professor · Organisational / Static Gk From The Images",
+    "question": "The Palestine Liberation Organization (PLO) is headquartered in?",
+    "options": {
+      "A": "Ramallah",
+      "B": "Gaza",
+      "C": "Amman",
+      "D": "Cairo"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 392,
+    "section": "B",
+    "category": "Professor · Organisational / Static Gk From The Images",
+    "question": "The ICAO (International Civil Aviation Organization) is headquartered in?",
+    "options": {
+      "A": "Montreal",
+      "B": "Geneva",
+      "C": "Vienna",
+      "D": "New York"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 393,
+    "section": "B",
+    "category": "Professor · Organisational / Static Gk From The Images",
+    "question": "Maple leaf is the national symbol of?",
+    "options": {
+      "A": "USA",
+      "B": "Canada",
+      "C": "Australia",
+      "D": "New Zealand"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 394,
+    "section": "B",
+    "category": "Professor · Organisational / Static Gk From The Images",
+    "question": "The 6th Sea Treaty (High-Seas Treaty) was adopted under the auspices of?",
+    "options": {
+      "A": "UN Convention on the Law of the Sea",
+      "B": "WTO",
+      "C": "IMO",
+      "D": "OPCW"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 395,
+    "section": "A",
+    "category": "Professor · Economic / Social Indicators",
+    "question": "According to the Bangladesh Economic Review 2025, the total population of Bangladesh was reported as (millions)?",
+    "options": {
+      "A": "160.30",
+      "B": "170.30",
+      "C": "172.30",
+      "D": "175.30"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 396,
+    "section": "A",
+    "category": "Professor · Economic / Social Indicators",
+    "question": "According to Bangladesh Economic Review 2025, the average life expectancy at birth is?",
+    "options": {
+      "A": "72.3 years",
+      "B": "72.8 years",
+      "C": "73.5 years",
+      "D": "74.0 years"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 397,
+    "section": "A",
+    "category": "Professor · Economic / Social Indicators",
+    "question": "According to Bangladesh Economic Review 2025, the national poverty rate is approximately?",
+    "options": {
+      "A": "18.7%",
+      "B": "19.7%",
+      "C": "20.5%",
+      "D": "21.7%"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 398,
+    "section": "A",
+    "category": "Professor · Economic / Social Indicators",
+    "question": "According to Bangladesh Economic Review 2025, the extreme poverty rate is approximately?",
+    "options": {
+      "A": "5.6%",
+      "B": "6.5%",
+      "C": "7.7%",
+      "D": "9.3%"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 399,
+    "section": "A",
+    "category": "Professor · Economic / Social Indicators",
+    "question": "Bangladesh's literacy rate (7+) per the 2025 Economic Review is approximately?",
+    "options": {
+      "A": "72.9%",
+      "B": "74.5%",
+      "C": "75.9%",
+      "D": "77.3%"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 400,
+    "section": "A",
+    "category": "Professor · Military / Operational Code-Names",
+    "question": "\"Operation Enduring Freedom\" was the codename for the 2001 US-led operation in?",
+    "options": {
+      "A": "Afghanistan",
+      "B": "Iraq",
+      "C": "Libya",
+      "D": "Syria"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 401,
+    "section": "A",
+    "category": "Professor · Military / Operational Code-Names",
+    "question": "\"Operation Midnight Hammer\" (2025/2026) referred to strikes on which country?",
+    "options": {
+      "A": "North Korea",
+      "B": "Iran",
+      "C": "Yemen",
+      "D": "Syria"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 402,
+    "section": "A",
+    "category": "Professor · Military / Operational Code-Names",
+    "question": "\"Operation Southern Spear\" (2025 US naval-special operations name) was focused on?",
+    "options": {
+      "A": "Horn of Africa",
+      "B": "South China Sea",
+      "C": "Venezuela / Caribbean anti-narcotics",
+      "D": "Red Sea shipping lanes"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 403,
+    "section": "A",
+    "category": "Professor · Military / Operational Code-Names",
+    "question": "\"Operation Peace Venezuela\" was launched by?",
+    "options": {
+      "A": "USA",
+      "B": "Colombia",
+      "C": "Brazil",
+      "D": "UN"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 404,
+    "section": "A",
+    "category": "Professor · Military / Operational Code-Names",
+    "question": "The World Trade Centre (WTC) terror attack anniversary marked in 2025 was its?",
+    "options": {
+      "A": "20th",
+      "B": "22nd",
+      "C": "24th",
+      "D": "25th (if 2026)"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 405,
+    "section": "B",
+    "category": "Professor · Asean / Bri / Fta Corner",
+    "question": "ASEAN's 2025 chairmanship was held by?",
+    "options": {
+      "A": "Malaysia",
+      "B": "Laos",
+      "C": "Indonesia",
+      "D": "Philippines"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 406,
+    "section": "B",
+    "category": "Professor · Asean / Bri / Fta Corner",
+    "question": "ASEAN-China Free Trade Agreement 3.0 was signed in which year?",
+    "options": {
+      "A": "2023",
+      "B": "2024",
+      "C": "2025",
+      "D": "2026"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 407,
+    "section": "B",
+    "category": "Professor · Asean / Bri / Fta Corner",
+    "question": "C20 (G20 Civil Society Engagement Group) 2025 meetings were hosted by?",
+    "options": {
+      "A": "India",
+      "B": "Brazil",
+      "C": "South Africa",
+      "D": "Indonesia"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 408,
+    "section": "B",
+    "category": "Professor · Asean / Bri / Fta Corner",
+    "question": "The G20 summit 2025 was held in?",
+    "options": {
+      "A": "Rio de Janeiro",
+      "B": "Johannesburg",
+      "C": "New Delhi",
+      "D": "Bali"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 409,
+    "section": "B",
+    "category": "Professor · Geographic / Currency Trivia From Image Captions",
+    "question": "The capital of Rwanda is?",
+    "options": {
+      "A": "Kigali",
+      "B": "Bujumbura",
+      "C": "Kampala",
+      "D": "Nairobi"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 410,
+    "section": "B",
+    "category": "Professor · Geographic / Currency Trivia From Image Captions",
+    "question": "The capital of Libya is?",
+    "options": {
+      "A": "Tripoli",
+      "B": "Benghazi",
+      "C": "Misrata",
+      "D": "Sirte"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 411,
+    "section": "B",
+    "category": "Professor · Geographic / Currency Trivia From Image Captions",
+    "question": "The currency of Libya is?",
+    "options": {
+      "A": "Libyan Dinar (LYD)",
+      "B": "Libyan Pound",
+      "C": "Libyan Franc",
+      "D": "Libyan Riyal"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 412,
+    "section": "B",
+    "category": "Professor · Geographic / Currency Trivia From Image Captions",
+    "question": "The capital of Chad is?",
+    "options": {
+      "A": "N'Djamena",
+      "B": "Niamey",
+      "C": "Abuja",
+      "D": "Bamako"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 413,
+    "section": "B",
+    "category": "Professor · Geographic / Currency Trivia From Image Captions",
+    "question": "\"Gnaïken\" / standard Arabic form — the full State of Libya's name is?",
+    "options": {
+      "A": "Arab Republic of Libya",
+      "B": "State of Libya",
+      "C": "Libyan Arab Jamahiriya",
+      "D": "Republic of Libya"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 414,
+    "section": "B",
+    "category": "Professor · Sports Corner From Various Images",
+    "question": "Who won the 2025 ICC Men's Cricket World Cup / Champions Trophy 2025 title?",
+    "options": {
+      "A": "Australia",
+      "B": "India",
+      "C": "New Zealand",
+      "D": "England"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 415,
+    "section": "B",
+    "category": "Professor · Sports Corner From Various Images",
+    "question": "Who won the Ballon d'Or 2025?",
+    "options": {
+      "A": "Erling Haaland",
+      "B": "Ousmane Dembélé",
+      "C": "Vinícius Júnior",
+      "D": "Kylian Mbappé"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 416,
+    "section": "B",
+    "category": "Professor · Sports Corner From Various Images",
+    "question": "Which nation won the 2025 FIH Women's Hockey World Cup?",
+    "options": {
+      "A": "Netherlands",
+      "B": "Argentina",
+      "C": "Germany",
+      "D": "Australia"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 417,
+    "section": "B",
+    "category": "Professor · Sports Corner From Various Images",
+    "question": "The 2025 Women's ODI World Cup was won by?",
+    "options": {
+      "A": "Australia",
+      "B": "England",
+      "C": "India",
+      "D": "South Africa"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 418,
+    "section": "B",
+    "category": "Professor · Sports Corner From Various Images",
+    "question": "The 2025 US Open (Tennis) men's title was won by?",
+    "options": {
+      "A": "Novak Djokovic",
+      "B": "Carlos Alcaraz",
+      "C": "Jannik Sinner",
+      "D": "Daniil Medvedev"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 419,
+    "section": "A",
+    "category": "Professor · Bangladesh Economy & Infra",
+    "question": "Bangladesh's trade deficit in FY2024-25 widened primarily because of a surge in which import?",
+    "options": {
+      "A": "LNG and fuels",
+      "B": "Raw cotton",
+      "C": "Machinery",
+      "D": "Edible oil"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 420,
+    "section": "A",
+    "category": "Professor · Bangladesh Economy & Infra",
+    "question": "Which was the first 100% export-oriented EPZ established in Bangladesh?",
+    "options": {
+      "A": "Chattogram EPZ",
+      "B": "Comilla EPZ",
+      "C": "Mongla EPZ",
+      "D": "Ishwardi EPZ"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 421,
+    "section": "A",
+    "category": "Professor · Bangladesh Economy & Infra",
+    "question": "The Maitri Thermal Power Plant is located in which district?",
+    "options": {
+      "A": "Khulna",
+      "B": "Bagerhat (Rampal)",
+      "C": "Satkhira",
+      "D": "Barguna"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 422,
+    "section": "A",
+    "category": "Professor · Bangladesh Economy & Infra",
+    "question": "The Rooppur Nuclear Power Plant Unit-1's revised commercial operation target is?",
+    "options": {
+      "A": "December 2025",
+      "B": "December 2026",
+      "C": "June 2027",
+      "D": "December 2027"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 423,
+    "section": "A",
+    "category": "Professor · Bangladesh Economy & Infra",
+    "question": "The Padma Bridge Rail Link opened across its full length in?",
+    "options": {
+      "A": "October 2024",
+      "B": "December 2024",
+      "C": "March 2025",
+      "D": "July 2025"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 424,
+    "section": "A",
+    "category": "Professor · Bangladesh Economy & Infra",
+    "question": "Dhaka Metro Line 6 set a one-day ridership record of approximately how many passengers on 13 February 2026?",
+    "options": {
+      "A": "352,000",
+      "B": "403,000",
+      "C": "450,000",
+      "D": "510,000"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 425,
+    "section": "A",
+    "category": "Professor · Diplomatic / Legal Items",
+    "question": "The International Crimes Tribunal (Third Amendment) Ordinance was promulgated in?",
+    "options": {
+      "A": "September 2025",
+      "B": "October 2025",
+      "C": "November 2025",
+      "D": "December 2025"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 426,
+    "section": "A",
+    "category": "Professor · Diplomatic / Legal Items",
+    "question": "The Representation of the People (Amendment) Ordinance 2025 was issued in?",
+    "options": {
+      "A": "September 2025",
+      "B": "October 2025",
+      "C": "November 2025",
+      "D": "December 2025"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 427,
+    "section": "A",
+    "category": "Professor · Diplomatic / Legal Items",
+    "question": "The Civil Courts (Amendment) Ordinance 2025 was issued in?",
+    "options": {
+      "A": "September 2025",
+      "B": "October 2025",
+      "C": "November 2025",
+      "D": "December 2025"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 428,
+    "section": "A",
+    "category": "Professor · Diplomatic / Legal Items",
+    "question": "The International Stabilization Force (ISF) deployed in 2025 relates to which situation?",
+    "options": {
+      "A": "Sudan",
+      "B": "Myanmar border",
+      "C": "Gaza",
+      "D": "Haiti"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 429,
+    "section": "A",
+    "category": "Professor · Diplomatic / Legal Items",
+    "question": "Bangladesh's interim government signed the Hague Convention on the Civil Aspects of International Child Abduction (1980) in?",
+    "options": {
+      "A": "August 2025",
+      "B": "September 2025",
+      "C": "October 2025",
+      "D": "November 2025"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 430,
+    "section": "A",
+    "category": "Professor · Diplomatic / Legal Items",
+    "question": "The UN Security Council-mandated Security Action for Europe (SAFE) programme — announced in 2025 — is primarily aimed at?",
+    "options": {
+      "A": "Migration management",
+      "B": "Defence procurement and industrial cooperation",
+      "C": "Arctic protection",
+      "D": "Cyber-crime"
+    },
+    "answer": "B",
+    "explanation": ""
   }
 ]

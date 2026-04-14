@@ -24,11 +24,11 @@
 
 <main class="container">
   <section class="hero">
-    <h1>300 MCQ · Learn & Practice</h1>
-    <p>Capt to Maj Promotion Exam Part 1 · General Knowledge (Current Affairs) · Dec 2025 – Apr 2026 window.</p>
+    <h1 id="hero-title">Current Affairs · Learn & Practice</h1>
+    <p>Capt to Maj Promotion Exam Part 1 · General Knowledge (Current Affairs) · Dec 2025 – Apr 2026 window. Includes the 300-question practice set plus 130 MCQs extracted from <i>Professor's Current Affairs</i>.</p>
     <div class="badge-row">
-      <span class="badge section-a">🇧🇩 150 Bangladesh</span>
-      <span class="badge section-b">🌐 150 International</span>
+      <span class="badge section-a" id="badge-a">🇧🇩 Bangladesh</span>
+      <span class="badge section-b" id="badge-b">🌐 International</span>
       <span class="badge" id="bookmark-badge">★ 0 bookmarked</span>
     </div>
   </section>
@@ -53,9 +53,9 @@
 
   <h2 class="section-title">Filter starting pool</h2>
   <div class="chips" id="pool-chips">
-    <button class="chip active" data-pool="all">All · 300</button>
-    <button class="chip" data-pool="A">🇧🇩 Bangladesh · 150</button>
-    <button class="chip" data-pool="B">🌐 International · 150</button>
+    <button class="chip active" data-pool="all" id="chip-all">All</button>
+    <button class="chip" data-pool="A" id="chip-a">🇧🇩 Bangladesh</button>
+    <button class="chip" data-pool="B" id="chip-b">🌐 International</button>
     <button class="chip" data-pool="bookmarked">★ Bookmarked</button>
   </div>
 
@@ -75,6 +75,17 @@ import { initTheme, getBookmarks, LS } from './assets/js/app.js';
 initTheme();
 
 document.getElementById('bookmark-badge').textContent = `★ ${getBookmarks().size} bookmarked`;
+
+import('./assets/js/app.js').then(({ loadQuestions }) => loadQuestions().then(qs => {
+  const a = qs.filter(q => q.section === 'A').length;
+  const b = qs.filter(q => q.section === 'B').length;
+  document.getElementById('badge-a').textContent = `🇧🇩 ${a} Bangladesh`;
+  document.getElementById('badge-b').textContent = `🌐 ${b} International`;
+  document.getElementById('chip-all').textContent = `All · ${qs.length}`;
+  document.getElementById('chip-a').textContent = `🇧🇩 Bangladesh · ${a}`;
+  document.getElementById('chip-b').textContent = `🌐 International · ${b}`;
+  document.getElementById('hero-title').textContent = `${qs.length} MCQ · Learn & Practice`;
+})).catch(() => {});
 
 const chips = document.querySelectorAll('#pool-chips .chip');
 const initialPool = localStorage.getItem('ca.pool') || 'all';
