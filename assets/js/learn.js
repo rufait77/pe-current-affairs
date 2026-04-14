@@ -7,12 +7,15 @@ const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
 const bookmarkBtn = document.getElementById('bookmark-btn');
 const jumpBtn = document.getElementById('jump-btn');
+const viewToggle = document.getElementById('view-toggle');
+const bottombar = document.getElementById('bottombar');
 const progressBar = document.getElementById('progress-bar');
 
 let questions = [];
 let pool = [];          // filtered list
 let idx = 0;
 let picked = {};        // id -> letter chosen (for reveal state)
+let view = localStorage.getItem('ca.learn.view') || 'single'; // 'single' | 'list'
 
 function getPool(all) {
   const choice = localStorage.getItem('ca.pool') || 'all';
@@ -48,6 +51,53 @@ function render() {
     content.innerHTML = `<div class="empty">No questions in this pool.</div>`;
     return;
   }
+  if (view === 'list') { renderList(); return; }
+  renderSingle();
+}
+
+function renderList() {
+  bottombar.classList.add('hide');
+  prevBtn.disabled = nextBtn.disabled = true;
+  progressBar.style.width = '100%';
+  const bm = getBookmarks();
+  const html = pool.map((q, i) => {
+    const optsHtml = ['A','B','C','D'].map(letter => {
+      const isCorrect = q.answer === letter;
+      const cls = 'option' + (isCorrect ? ' correct' : '');
+      const mark = isCorrect ? '✓' : '';
+      return `<div class="${cls}" style="cursor:default">
+        <span class="letter">${letter}</span>
+        <span class="text">${escapeHtml(q.options[letter])}</span>
+        ${mark ? `<span class="mark">${mark}</span>` : ''}
+      </div>`;
+    }).join('');
+    return `
+      <div class="card" style="margin-bottom:14px" id="list-q-${q.id}">
+        <div class="qmeta">
+          <span class="qnum">Q${q.id}</span>
+          <span class="badge section-${q.section.toLowerCase()}">${sectionLabel(q.section)}</span>
+          <span class="badge">${escapeHtml(q.category || '')}</span>
+          <div class="spacer" style="flex:1"></div>
+          <button class="icon-btn" data-bm="${q.id}" aria-label="Bookmark" title="Bookmark" style="width:32px;height:32px">${bm.has(q.id) ? '★' : '☆'}</button>
+          <span style="color:var(--text-mute);font-size:12.5px">${i + 1}/${pool.length}</span>
+        </div>
+        <div class="qtext">${escapeHtml(q.question)}</div>
+        <div class="options">${optsHtml}</div>
+        <div class="explanation"><b>Answer: ${q.answer}.</b> ${escapeHtml(q.explanation || '')}</div>
+      </div>`;
+  }).join('');
+  content.innerHTML = html;
+  content.querySelectorAll('[data-bm]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const id = parseInt(btn.dataset.bm, 10);
+      const now = toggleBookmark(id);
+      btn.textContent = now ? '★' : '☆';
+    });
+  });
+}
+
+function renderSingle() {
+  bottombar.classList.remove('hide');
   const q = pool[idx];
   const chosen = picked[q.id];
   const revealed = !!chosen;
@@ -108,6 +158,13 @@ function render() {
 function escapeHtml(s) {
   return String(s ?? '').replace(/[&<>"']/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[c]));
 }
+
+viewToggle.addEventListener('click', () => {
+  view = view === 'single' ? 'list' : 'single';
+  localStorage.setItem('ca.learn.view', view);
+  render();
+  window.scrollTo({top: 0, behavior: 'instant'});
+});
 
 prevBtn.addEventListener('click', () => { if (idx > 0) { idx--; saveProgress(); render(); window.scrollTo({top:0, behavior:'smooth'}); } });
 nextBtn.addEventListener('click', () => { if (idx < pool.length - 1) { idx++; saveProgress(); render(); window.scrollTo({top:0, behavior:'smooth'}); } });

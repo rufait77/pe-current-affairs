@@ -17,6 +17,9 @@
     </a>
     <div class="brand"><span>Learn Mode</span></div>
     <div class="spacer"></div>
+    <button id="view-toggle" class="icon-btn" aria-label="Toggle list view" title="Toggle list view">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+    </button>
     <button id="jump-btn" class="icon-btn" aria-label="Jump to question" title="Jump to…">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
     </button>
@@ -29,7 +32,7 @@
   <div id="content" class="loader">Loading questions…</div>
 </main>
 
-<div class="bottombar">
+<div id="bottombar" class="bottombar">
   <div class="bottombar-inner">
     <button id="prev-btn" class="btn">← Prev</button>
     <div class="spacer" style="flex:1"></div>
