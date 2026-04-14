@@ -170,14 +170,103 @@ viewToggle.addEventListener('click', () => {
 prevBtn.addEventListener('click', () => { if (idx > 0) { idx--; saveProgress(); render(); window.scrollTo({top:0, behavior:'smooth'}); } });
 nextBtn.addEventListener('click', () => { if (idx < pool.length - 1) { idx++; saveProgress(); render(); window.scrollTo({top:0, behavior:'smooth'}); } });
 bookmarkBtn.addEventListener('click', () => { toggleBookmark(pool[idx].id); render(); });
-jumpBtn.addEventListener('click', () => {
-  const v = prompt(`Jump to question (1–${pool.length}):`);
-  const n = parseInt(v, 10);
-  if (!isNaN(n) && n >= 1 && n <= pool.length) { idx = n - 1; saveProgress(); render(); }
+const searchOverlay = document.getElementById('search-overlay');
+const searchInput = document.getElementById('search-input');
+const searchResults = document.getElementById('search-results');
+const searchHint = document.getElementById('search-hint');
+const searchClose = document.getElementById('search-close');
+
+function openSearch() {
+  searchOverlay.classList.remove('hide');
+  searchInput.value = '';
+  renderSearchResults('');
+  setTimeout(() => searchInput.focus(), 50);
+}
+function closeSearch() { searchOverlay.classList.add('hide'); }
+
+function renderSearchResults(query) {
+  const q = query.trim().toLowerCase();
+  let matches;
+  if (!q) {
+    matches = pool.slice(0, 20);
+    searchHint.textContent = `Showing first 20 of ${pool.length}. Type to filter.`;
+  } else if (/^\d+$/.test(q)) {
+    const n = parseInt(q, 10);
+    matches = pool.filter(x => String(x.id).startsWith(q) || (x._posIdx = pool.indexOf(x)) + 1 === n);
+    matches = matches.slice(0, 30);
+    searchHint.textContent = `${matches.length} match${matches.length === 1 ? '' : 'es'} for number "${q}".`;
+  } else {
+    matches = pool.filter(x =>
+      x.question.toLowerCase().includes(q) ||
+      (x.category || '').toLowerCase().includes(q) ||
+      Object.values(x.options).some(o => o.toLowerCase().includes(q))
+    ).slice(0, 50);
+    searchHint.textContent = `${matches.length} match${matches.length === 1 ? '' : 'es'} for "${query.trim()}".`;
+  }
+  if (!matches.length) {
+    searchResults.innerHTML = `<div class="empty" style="padding:20px">No questions match.</div>`;
+    return;
+  }
+  searchResults.innerHTML = matches.map(x => {
+    const pos = pool.indexOf(x);
+    const snippet = q ? highlightSnippet(x.question, q) : escapeHtml(x.question);
+    return `
+      <button class="option" data-pos="${pos}" style="flex-direction:column;align-items:flex-start;gap:6px;text-align:left">
+        <div style="display:flex;gap:8px;align-items:center;width:100%">
+          <span class="letter" style="flex:0 0 auto">Q${x.id}</span>
+          <span class="badge section-${x.section.toLowerCase()}" style="margin:0">${sectionLabel(x.section)}</span>
+          <span style="color:var(--text-mute);font-size:11.5px;margin-left:auto">#${pos + 1}</span>
+        </div>
+        <div style="font-size:14px;line-height:1.45;color:var(--text)">${snippet}</div>
+        <div style="font-size:11.5px;color:var(--text-mute)">${escapeHtml(x.category || '')}</div>
+      </button>
+    `;
+  }).join('');
+  searchResults.querySelectorAll('[data-pos]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      idx = parseInt(btn.dataset.pos, 10);
+      saveProgress();
+      closeSearch();
+      if (view === 'list') {
+        const el = document.getElementById(`list-q-${pool[idx].id}`);
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      } else {
+        render();
+        window.scrollTo({top:0, behavior:'smooth'});
+      }
+    });
+  });
+}
+
+function highlightSnippet(text, q) {
+  const lower = text.toLowerCase();
+  const i = lower.indexOf(q);
+  if (i === -1) return escapeHtml(text);
+  const start = Math.max(0, i - 30);
+  const end = Math.min(text.length, i + q.length + 60);
+  const prefix = start > 0 ? '…' : '';
+  const suffix = end < text.length ? '…' : '';
+  const before = escapeHtml(text.slice(start, i));
+  const hit = escapeHtml(text.slice(i, i + q.length));
+  const after = escapeHtml(text.slice(i + q.length, end));
+  return `${prefix}${before}<mark style="background:rgba(99,102,241,0.35);color:var(--text);padding:0 2px;border-radius:3px">${hit}</mark>${after}${suffix}`;
+}
+
+jumpBtn.addEventListener('click', openSearch);
+searchClose.addEventListener('click', closeSearch);
+searchOverlay.addEventListener('click', (e) => { if (e.target === searchOverlay) closeSearch(); });
+searchInput.addEventListener('input', () => renderSearchResults(searchInput.value));
+searchInput.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeSearch();
+  if (e.key === 'Enter') {
+    const first = searchResults.querySelector('[data-pos]');
+    if (first) first.click();
+  }
 });
 
 document.addEventListener('keydown', (e) => {
   if (e.target && /input|textarea|select/i.test(e.target.tagName)) return;
+  if (!searchOverlay.classList.contains('hide')) return;
   const q = pool[idx]; if (!q) return;
   const k = e.key.toUpperCase();
   if (['A','B','C','D'].includes(k) && !picked[q.id]) {

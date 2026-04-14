@@ -41,6 +41,17 @@
   </div>
 </div>
 
+<div id="search-overlay" class="modal-overlay hide">
+  <div class="modal" role="dialog" aria-label="Search questions" style="max-width:600px">
+    <div class="row" style="gap:8px;margin-bottom:12px">
+      <input id="search-input" class="input" type="search" placeholder="Search by keyword or question number…" style="flex:1" autocomplete="off" />
+      <button id="search-close" class="btn ghost">Close</button>
+    </div>
+    <div id="search-hint" style="font-size:12.5px;color:var(--text-mute);margin-bottom:10px">Type a keyword (e.g. "election", "Rohingya") or a number (1–495).</div>
+    <div id="search-results" style="display:grid;gap:8px;max-height:60vh;overflow-y:auto"></div>
+  </div>
+</div>
+
 <script type="module" src="assets/js/learn.js"></script>
 </body>
 </html>
