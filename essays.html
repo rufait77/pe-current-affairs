@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Essays · PE Current Affairs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css" />
+<link rel="stylesheet" href="assets/css/essays.css" />
+</head>
+<body class="essays-body">
+<header class="topbar">
+  <div class="topbar-inner">
+    <a href="index.html" class="icon-btn" aria-label="Back">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
+    </a>
+    <div class="brand"><span>Essays</span></div>
+    <div class="spacer"></div>
+    <button id="font-smaller" class="icon-btn" aria-label="Smaller text" title="Smaller text">A−</button>
+    <button id="font-larger" class="icon-btn" aria-label="Larger text" title="Larger text">A+</button>
+    <button id="theme-toggle" class="icon-btn" aria-label="Toggle theme"></button>
+  </div>
+</header>
+
+<main class="essays-container">
+  <section class="essays-hero">
+    <div class="eyebrow">Capt → Maj Promotion Exam · Part 1</div>
+    <h1>Five Probable Essays</h1>
+    <p class="lede">Exam-ready essays for the Dec 2025 – Apr 2026 window. Each piece follows a 3-sentence introduction, two PEEL body paragraphs with their own topical headings, and a 2-sentence conclusion — calibrated to a 30-minute slot.</p>
+    <div id="hero-meta" class="hero-meta"></div>
+  </section>
+
+  <nav id="toc" class="toc" aria-label="Table of contents">
+    <div class="toc-title">Contents</div>
+    <ol id="toc-list"></ol>
+  </nav>
+
+  <div id="essays-wrap" class="loader">Loading essays…</div>
+
+  <aside id="recall" class="recall"></aside>
+
+  <a href="#top" id="to-top" class="to-top" aria-label="Back to top">↑</a>
+</main>
+
+<script type="module" src="assets/js/essays.js"></script>
+</body>
+</html>
