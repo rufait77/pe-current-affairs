@@ -6018,5 +6018,915 @@
     },
     "answer": "B",
     "explanation": ""
+  },
+  {
+    "id": 431,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Who has been appointed as the 26th Chief Justice of Bangladesh?",
+    "options": {
+      "A": "Syed Refaat Ahmed",
+      "B": "Obaidul Hassan",
+      "C": "Justice Zubayer Rahman Chowdhury",
+      "D": "Hasan Foez Siddique"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 432,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "When did Bangladesh's first female Prime Minister and lasting political icon, Khaleda Zia, pass away?",
+    "options": {
+      "A": "25 December 2025",
+      "B": "28 December 2025",
+      "C": "30 December 2025",
+      "D": "1 January 2026"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 433,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "What is Bangladesh's rank in the Henley Passport Index 2026?",
+    "options": {
+      "A": "92nd",
+      "B": "94th",
+      "C": "95th",
+      "D": "98th"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 434,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Where was the recent SAFA International Conference 2026 held?",
+    "options": {
+      "A": "Pan Pacific Sonargaon, Dhaka",
+      "B": "InterContinental, Dhaka",
+      "C": "Le Méridien, Dhaka",
+      "D": "Radisson Blu, Dhaka"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 435,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "For what purpose does Bangladesh plan to sign a government-to-government (G2G) agreement with China?",
+    "options": {
+      "A": "Set up a satellite ground station",
+      "B": "Set up a military drone manufacturing facility",
+      "C": "Set up an AI research centre",
+      "D": "Develop a hypersonic testbed"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 436,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Which sector will be at the greatest risk if Bangladesh graduates from LDC status in 2026?",
+    "options": {
+      "A": "Remittance",
+      "B": "Bangladesh's export sector",
+      "C": "Microfinance",
+      "D": "IT services"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 437,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "How much consumer goods did Bangladesh import in 2025?",
+    "options": {
+      "A": "11.8 million tonnes",
+      "B": "13.2 million tonnes",
+      "C": "14.1 million tonnes",
+      "D": "15.4 million tonnes"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 438,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "How many types of agricultural and processed goods were exported from Bangladesh in FY 2024-25?",
+    "options": {
+      "A": "148 types",
+      "B": "160 types",
+      "C": "172 types",
+      "D": "184 types"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 439,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "On which date did the new US Ambassador to Bangladesh, Brent Christensen, take oath?",
+    "options": {
+      "A": "5 January 2026",
+      "B": "9 January 2026",
+      "C": "13 January 2026",
+      "D": "18 January 2026"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 440,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "When was the ordinance for establishing Bangladesh's Commercial Court issued?",
+    "options": {
+      "A": "15 December 2025",
+      "B": "28 December 2025",
+      "C": "1 January 2026",
+      "D": "10 January 2026"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 441,
+    "section": "A",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Which country became the champion for the first time in the South Asia ICT Awards 2025?",
+    "options": {
+      "A": "India",
+      "B": "Bangladesh (Priyoshop)",
+      "C": "Sri Lanka",
+      "D": "Pakistan"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 442,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Venezuelan opposition leader Maria Corina Machado presented her Nobel Peace Prize to whom?",
+    "options": {
+      "A": "UN Secretary-General",
+      "B": "US President Donald Trump",
+      "C": "President of the EU Commission",
+      "D": "The Pope"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 443,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "What is the code-name of the operation to capture Venezuelan President Nicolás Maduro and his wife Cilia Flores?",
+    "options": {
+      "A": "Operation Midnight Hammer",
+      "B": "Operation Southern Spear",
+      "C": "Operation Absolute Resolve",
+      "D": "Operation Iron Fist"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 444,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Which country holds the largest oil reserves in the world (about 303 billion barrels — ~17% of world reserves)?",
+    "options": {
+      "A": "Saudi Arabia",
+      "B": "Iran",
+      "C": "Venezuela",
+      "D": "Russia"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 445,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "According to the Henley Passport Index, which country's passport is the world's most powerful for 2026?",
+    "options": {
+      "A": "Japan",
+      "B": "Germany",
+      "C": "Singapore",
+      "D": "UAE"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 446,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Which two countries jointly developed the JF-17 Thunder multi-role fighter jet?",
+    "options": {
+      "A": "China and Russia",
+      "B": "China and Pakistan",
+      "C": "Pakistan and Turkey",
+      "D": "China and North Korea"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 447,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Which international alliance's member countries participated in the joint naval exercise titled \"Will For Peace 2026\"?",
+    "options": {
+      "A": "NATO",
+      "B": "Quad",
+      "C": "BRICS",
+      "D": "SCO"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 448,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Which country plans to establish a nuclear power plant on the Moon by 2036?",
+    "options": {
+      "A": "USA",
+      "B": "China",
+      "C": "Russia",
+      "D": "India"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 449,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Who formed the \"Board of Peace\" for Gaza, and it is part of which agreement?",
+    "options": {
+      "A": "UN; first phase of Gaza ceasefire",
+      "B": "Donald Trump; second phase of the Gaza ceasefire agreement",
+      "C": "Egypt; Cairo Agreement",
+      "D": "EU; Abraham Accords expansion"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 450,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "What is the name of the first crewed Moon mission in more than 50 years, to be launched by NASA?",
+    "options": {
+      "A": "Artemis I",
+      "B": "Artemis II",
+      "C": "Artemis III",
+      "D": "Apollo 18"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 451,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Where is India planning to set up a naval detachment to monitor Bangladesh and China?",
+    "options": {
+      "A": "Port Blair",
+      "B": "Visakhapatnam",
+      "C": "Haldia, West Bengal",
+      "D": "Paradip, Odisha"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 452,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Which three Muslim-majority countries are planning to form a new military alliance?",
+    "options": {
+      "A": "Egypt, UAE and Qatar",
+      "B": "Saudi Arabia, Pakistan and Turkey",
+      "C": "Indonesia, Malaysia and Pakistan",
+      "D": "Iran, Syria and Iraq"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 453,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Which country adopted the euro as its currency as the 21st member of the European Union?",
+    "options": {
+      "A": "Croatia",
+      "B": "Romania",
+      "C": "Bulgaria",
+      "D": "Czech Republic"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 454,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "The \"Trump Corollary\" is described as a modern version of which historic US foreign policy?",
+    "options": {
+      "A": "Truman Doctrine",
+      "B": "Monroe Doctrine",
+      "C": "Eisenhower Doctrine",
+      "D": "Marshall Plan"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 455,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "Whom did Donald Trump appoint as the US Special Envoy to Greenland?",
+    "options": {
+      "A": "Mike Pompeo",
+      "B": "Jeff Landry (Governor of Louisiana)",
+      "C": "Ron DeSantis",
+      "D": "Marco Rubio"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 456,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "When will the 2026 FIFA World Cup be held?",
+    "options": {
+      "A": "1 June – 7 July 2026 (96 matches)",
+      "B": "11 June – 19 July 2026 (104 matches)",
+      "C": "20 May – 30 June 2026 (104 matches)",
+      "D": "15 June – 22 July 2026 (100 matches)"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 457,
+    "section": "B",
+    "category": "Professor · February 2026 \"Recent Info Inquiry\"",
+    "question": "When will the 2026 ICC Men's T20 World Cup be held?",
+    "options": {
+      "A": "7 February – 8 March 2026, in India and Sri Lanka",
+      "B": "15 February – 20 March 2026, in Bangladesh and India",
+      "C": "1 March – 1 April 2026, in Pakistan and UAE",
+      "D": "10 April – 10 May 2026, in Australia and New Zealand"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 458,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "When will Bangladesh's 13th National Parliament Election be held?",
+    "options": {
+      "A": "1 February 2026",
+      "B": "12 February 2026",
+      "C": "30 November 2025",
+      "D": "30 December 2025"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 459,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "Which country's ambassador (recently confirmed) presented credentials to Bangladesh in late 2025?",
+    "options": {
+      "A": "USA (Brent Christensen)",
+      "B": "UK",
+      "C": "China",
+      "D": "Germany"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 460,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "Bangladesh is currently home to how many scheduled banks?",
+    "options": {
+      "A": "57",
+      "B": "60",
+      "C": "61",
+      "D": "63"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 461,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "How many state-owned commercial banks operate in Bangladesh (as of late 2025)?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 462,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "How many Islamic Shariah-based banks operate in Bangladesh (as of late 2025)?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 463,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "The ownership type of Islami Bank Bangladesh Limited (IBBL) is?",
+    "options": {
+      "A": "State-owned",
+      "B": "Private (joint-venture / foreign sponsorship)",
+      "C": "Specialised government bank",
+      "D": "Cooperative"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 464,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "In 2025, how many women received Nobel Prizes across all categories?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "9",
+      "D": "17"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 465,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "The Rapid Support Forces (RSF) operates primarily in which country?",
+    "options": {
+      "A": "Libya",
+      "B": "Sudan",
+      "C": "South Sudan",
+      "D": "Chad"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 466,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "The 'MQ-9 Reaper', 'Bayraktar TB2', 'Bayraktar Akıncı', 'X-59 Quesst', 'Bayraktar KIZILELMA' — these are examples of?",
+    "options": {
+      "A": "Cruise missiles",
+      "B": "Unmanned combat aerial vehicles / UAVs",
+      "C": "Satellites",
+      "D": "Submarines"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 467,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "\"Bayraktar KIZILELMA\" is the unmanned combat aircraft of which country?",
+    "options": {
+      "A": "Iran",
+      "B": "Turkey",
+      "C": "Israel",
+      "D": "Russia"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 468,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "Which coloured \"Line\" is associated with Israel's claim of a new security border around Gaza?",
+    "options": {
+      "A": "Red Line",
+      "B": "Zero Line",
+      "C": "Yellow Line",
+      "D": "Green Line"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 469,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "UNAMID, UNMISS, UNISFA, MINUSCA — these are UN missions primarily in which region?",
+    "options": {
+      "A": "Southeast Asia",
+      "B": "Africa",
+      "C": "Middle East",
+      "D": "Latin America"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 470,
+    "section": "A",
+    "category": "Professor · January 2026 Bangla Mcq",
+    "question": "\"Parasocial\", \"vibe coding\", \"slop\" and \"rage bait\" — these terms were notable for being shortlisted as?",
+    "options": {
+      "A": "Oxford Word of the Year 2025 nominees",
+      "B": "Collins Dictionary of the Year candidates",
+      "C": "Merriam-Webster additions",
+      "D": "TIME Person of the Year finalists"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 471,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "When was the online recharge system for Rapid Pass and MRT Pass officially launched?",
+    "options": {
+      "A": "15 November 2025",
+      "B": "20 November 2025",
+      "C": "25 November 2025",
+      "D": "1 December 2025"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 472,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 15 December 2025, what is the name of the AI-based platform launched for the Bangla language?",
+    "options": {
+      "A": "BanglaBERT",
+      "B": "Kagoj.ai",
+      "C": "BhashaAI",
+      "D": "DeepBangla"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 473,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "For the first time, which bank was established to provide loans to new micro-entrepreneurs and existing small enterprises?",
+    "options": {
+      "A": "Microcredit Bank",
+      "B": "PKSF Bank",
+      "C": "SME Bank",
+      "D": "Palli Sanchay Bank"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 474,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "What is the name of the team of 54 skydivers that participated in the parachuting display on the 54th Victory Day?",
+    "options": {
+      "A": "Red Eagles",
+      "B": "Bangabandhu Falcons",
+      "C": "Team Bangladesh",
+      "D": "Liberation 54"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 475,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "The 'Julai' font launched on 15 December 2025 was designed for what purpose?",
+    "options": {
+      "A": "Commercial typography",
+      "B": "Social media branding",
+      "C": "Official and institutional use",
+      "D": "Academic publishing"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 476,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "Who has been confirmed by the US Senate as the 18th US Ambassador to Bangladesh?",
+    "options": {
+      "A": "Peter Haas",
+      "B": "Brent T. Christensen",
+      "C": "Earl R. Miller",
+      "D": "James Moriarty"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 477,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 13 December 2025, in which region were six Bangladeshi peacekeepers killed and eight wounded in a drone attack on a UN base?",
+    "options": {
+      "A": "Darfur region, Sudan",
+      "B": "Abyei region, Sudan",
+      "C": "North Kivu, DRC",
+      "D": "Northern Mali"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 478,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "What is the meaning of the Persian word \"Inquilab\"?",
+    "options": {
+      "A": "Peace and harmony",
+      "B": "Justice and truth",
+      "C": "Revolution, change, or uprising",
+      "D": "Loyalty and faith"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 479,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "Which road was officially named \"Felani Avenue\" in memory of Felani Khatun?",
+    "options": {
+      "A": "A stretch from Airport Road to Kuril",
+      "B": "A stretch from Gulshan-1 to Pragati Sarani",
+      "C": "A stretch from Mohakhali to Banani",
+      "D": "A stretch from Farmgate to Karwan Bazar"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 480,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On which date did Sharif Osman Hadi pass away at Singapore General Hospital?",
+    "options": {
+      "A": "10 December 2025",
+      "B": "14 December 2025",
+      "C": "18 December 2025",
+      "D": "22 December 2025"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 481,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 20 December 2025, which principal heroic warrior of the Liberation War passed away?",
+    "options": {
+      "A": "Major Gen. (Retd.) Sheikh Monir",
+      "B": "Brig. Gen. Uttam A. K. Khandker",
+      "C": "Lt. Gen. Harun-Ar-Rashid",
+      "D": "Maj. Gen. Subid Ali Bhuiyan"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 482,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "What has UNESCO recognised as an intangible cultural heritage — Bangladesh's sixth standalone registration?",
+    "options": {
+      "A": "Jamdani weaving",
+      "B": "Shitalpati mat-making",
+      "C": "Tangail saree weaving",
+      "D": "Baul songs"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 483,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "Who was nominated for the prestigious Human Rights Tulip Award 2025?",
+    "options": {
+      "A": "Adilur Rahman Khan",
+      "B": "Sultana Kamal",
+      "C": "Sanjida Islam Tulee (founder of Mayer Daak)",
+      "D": "Mizanur Rahman Khan"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 484,
+    "section": "A",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 1 December 2025, which country's transshipment crossed Burimari Land Port in Bangladesh for the first time?",
+    "options": {
+      "A": "Nepal",
+      "B": "Bhutan",
+      "C": "India (to North-East)",
+      "D": "Myanmar"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 485,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "When did Russian President Vladimir Putin visit India after four years?",
+    "options": {
+      "A": "28 November 2025",
+      "B": "4 December 2025",
+      "C": "12 December 2025",
+      "D": "20 December 2025"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 486,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "In which country will Africa's first women's nursing university be established?",
+    "options": {
+      "A": "Kenya",
+      "B": "Rwanda",
+      "C": "Uganda",
+      "D": "Ghana"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 487,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 30 December 2025, which country announced it would stop postal service after 400 years?",
+    "options": {
+      "A": "Sweden",
+      "B": "Norway",
+      "C": "Denmark",
+      "D": "Finland"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 488,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 20 December 2025, which immigration visa card did Donald Trump launch with a $1 million price tag?",
+    "options": {
+      "A": "'Platinum Card' visa",
+      "B": "'Gold Card' immigration visa",
+      "C": "'EB-X' investor visa",
+      "D": "'Diamond Card' visa"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 489,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 26 November 2025, which country's approval granted the world's first single-dose dengue vaccine?",
+    "options": {
+      "A": "India",
+      "B": "Brazil",
+      "C": "Bhutan (Butanian-DV)",
+      "D": "Thailand"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 490,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 22 December 2025, what is the name of the world's largest nuclear power plant that Japan is set to resume operations of, 15 years after the Fukushima disaster?",
+    "options": {
+      "A": "Hamaoka",
+      "B": "Tokai",
+      "C": "Kashiwazaki-Kariwa",
+      "D": "Sendai"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 491,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "PayPal, a digital financial transaction platform, is an organisation from which country (established 1998)?",
+    "options": {
+      "A": "USA (United States)",
+      "B": "UK",
+      "C": "Singapore",
+      "D": "Germany"
+    },
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 492,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "Who received the first-ever FIFA Peace Prize from FIFA president Gianni Infantino?",
+    "options": {
+      "A": "Pope Leo XIV",
+      "B": "Volodymyr Zelenskyy",
+      "C": "US President Donald Trump",
+      "D": "UN Secretary-General"
+    },
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": 493,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "Who was named the Men's Player of the Year at the FIFA Best Awards 2025?",
+    "options": {
+      "A": "Lionel Messi",
+      "B": "Erling Haaland",
+      "C": "Vinícius Júnior",
+      "D": "Ousmane Dembélé (PSG)"
+    },
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": 494,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "Who won the FIFA Best Women's Player of the Year 2025 for the third consecutive year?",
+    "options": {
+      "A": "Alexia Putellas",
+      "B": "Aitana Bonmatí",
+      "C": "Sam Kerr",
+      "D": "Alex Morgan"
+    },
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 495,
+    "section": "B",
+    "category": "Professor · January 2026 \"Recent Info Inquiry\"",
+    "question": "On 26 December 2025, which edition of the Bangladesh Premier League (BPL) 2025-26 began?",
+    "options": {
+      "A": "10th edition",
+      "B": "11th edition",
+      "C": "12th edition",
+      "D": "13th edition"
+    },
+    "answer": "C",
+    "explanation": ""
   }
 ]

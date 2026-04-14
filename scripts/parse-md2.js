@@ -13,6 +13,8 @@ const md = fs.readFileSync(SRC, 'utf8');
 const lines = md.split(/\r?\n/);
 
 const sectionHead = /^##\s*SECTION\s+([A-Z])\s*[—\-–]\s*(.+?)\s*$/;
+const newSectionHead = /^##\s*N\.(\d+)\s*[—\-–]\s*(.+?)\s*$/;
+const stopHead = /^##\s*Answer Key/i;
 const subHead = /^\*\*(Bangladesh|International)\*\*\s*$/;
 const qStart = /^\s*(\d{1,3})\.\s+(.+?)\s*\*?\s*$/;
 const optLine = /^\s*-\s*\(([A-D])\)\s*(.+?)\s*$/;
@@ -39,9 +41,16 @@ let i = 0;
 while (i < lines.length) {
   const line = lines[i];
   let m;
+  if (stopHead.test(line)) break;
   if ((m = sectionHead.exec(line))) {
     curCategory = `Professor · ${toTitle(m[2])}`;
     curSection = sectionDefault[m[1]] || 'B';
+    curSubExplicit = false;
+    i++; continue;
+  }
+  if ((m = newSectionHead.exec(line))) {
+    curCategory = `Professor · ${toTitle(m[2])}`;
+    curSection = 'A';
     curSubExplicit = false;
     i++; continue;
   }

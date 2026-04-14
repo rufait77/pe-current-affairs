@@ -1025,3 +1025,512 @@
 ---
 
 **Verification tip:** Items marked with an asterisk (*) are those where the fine Bangla print in the scan was partially illegible; double-check these against the answer column printed in the margin of the relevant Professor's page.
+
+---
+
+# NEW QUESTIONS — FROM IMG_3551, IMG_3557, IMG_3559
+
+*Sources added later: IMG_3551 (Feb 2026 "Recent Info Inquiry", English Q&A), IMG_3557 (Jan 2026 Bangla MCQ page), IMG_3559 (Jan 2026 "Recent Info Inquiry", English Q&A). All items below are in English; options preserved where printed in the magazine, otherwise reconstructed from context.*
+
+## N.1 — February 2026 "Recent Info Inquiry" (IMG_3551)
+
+**Bangladesh**
+
+131. Who has been appointed as the 26th Chief Justice of Bangladesh?
+   - (A) Syed Refaat Ahmed
+   - (B) Obaidul Hassan
+   - (C) Justice Zubayer Rahman Chowdhury
+   - (D) Hasan Foez Siddique
+   **Answer: C**
+
+132. When did Bangladesh's first female Prime Minister and lasting political icon, Khaleda Zia, pass away?
+   - (A) 25 December 2025
+   - (B) 28 December 2025
+   - (C) 30 December 2025
+   - (D) 1 January 2026
+   **Answer: C**
+
+133. What is Bangladesh's rank in the Henley Passport Index 2026?
+   - (A) 92nd
+   - (B) 94th
+   - (C) 95th
+   - (D) 98th
+   **Answer: C**
+
+134. Where was the recent SAFA International Conference 2026 held?
+   - (A) Pan Pacific Sonargaon, Dhaka
+   - (B) InterContinental, Dhaka
+   - (C) Le Méridien, Dhaka
+   - (D) Radisson Blu, Dhaka
+   **Answer: C**
+
+135. For what purpose does Bangladesh plan to sign a government-to-government (G2G) agreement with China?
+   - (A) Set up a satellite ground station
+   - (B) Set up a military drone manufacturing facility
+   - (C) Set up an AI research centre
+   - (D) Develop a hypersonic testbed
+   **Answer: B**
+
+136. Which sector will be at the greatest risk if Bangladesh graduates from LDC status in 2026?
+   - (A) Remittance
+   - (B) Bangladesh's export sector
+   - (C) Microfinance
+   - (D) IT services
+   **Answer: B**
+
+137. How much consumer goods did Bangladesh import in 2025?
+   - (A) 11.8 million tonnes
+   - (B) 13.2 million tonnes
+   - (C) 14.1 million tonnes
+   - (D) 15.4 million tonnes
+   **Answer: C**
+
+138. How many types of agricultural and processed goods were exported from Bangladesh in FY 2024-25?
+   - (A) 148 types
+   - (B) 160 types
+   - (C) 172 types
+   - (D) 184 types
+   **Answer: C**
+
+139. On which date did the new US Ambassador to Bangladesh, Brent Christensen, take oath?
+   - (A) 5 January 2026
+   - (B) 9 January 2026
+   - (C) 13 January 2026
+   - (D) 18 January 2026
+   **Answer: B**
+
+140. When was the ordinance for establishing Bangladesh's Commercial Court issued?
+   - (A) 15 December 2025
+   - (B) 28 December 2025
+   - (C) 1 January 2026
+   - (D) 10 January 2026
+   **Answer: C**
+
+141. Which country became the champion for the first time in the South Asia ICT Awards 2025?
+   - (A) India
+   - (B) Bangladesh (Priyoshop)
+   - (C) Sri Lanka
+   - (D) Pakistan
+   **Answer: B**
+
+**International**
+
+142. Venezuelan opposition leader Maria Corina Machado presented her Nobel Peace Prize to whom?
+   - (A) UN Secretary-General
+   - (B) US President Donald Trump
+   - (C) President of the EU Commission
+   - (D) The Pope
+   **Answer: B**
+
+143. What is the code-name of the operation to capture Venezuelan President Nicolás Maduro and his wife Cilia Flores?
+   - (A) Operation Midnight Hammer
+   - (B) Operation Southern Spear
+   - (C) Operation Absolute Resolve
+   - (D) Operation Iron Fist
+   **Answer: C**
+
+144. Which country holds the largest oil reserves in the world (about 303 billion barrels — ~17% of world reserves)?
+   - (A) Saudi Arabia
+   - (B) Iran
+   - (C) Venezuela
+   - (D) Russia
+   **Answer: C**
+
+145. According to the Henley Passport Index, which country's passport is the world's most powerful for 2026?
+   - (A) Japan
+   - (B) Germany
+   - (C) Singapore
+   - (D) UAE
+   **Answer: C**
+
+146. Which two countries jointly developed the JF-17 Thunder multi-role fighter jet?
+   - (A) China and Russia
+   - (B) China and Pakistan
+   - (C) Pakistan and Turkey
+   - (D) China and North Korea
+   **Answer: B**
+
+147. Which international alliance's member countries participated in the joint naval exercise titled "Will For Peace 2026"?
+   - (A) NATO
+   - (B) Quad
+   - (C) BRICS
+   - (D) SCO
+   **Answer: C**
+
+148. Which country plans to establish a nuclear power plant on the Moon by 2036?
+   - (A) USA
+   - (B) China
+   - (C) Russia
+   - (D) India
+   **Answer: C**
+
+149. Who formed the "Board of Peace" for Gaza, and it is part of which agreement?
+   - (A) UN; first phase of Gaza ceasefire
+   - (B) Donald Trump; second phase of the Gaza ceasefire agreement
+   - (C) Egypt; Cairo Agreement
+   - (D) EU; Abraham Accords expansion
+   **Answer: B**
+
+150. What is the name of the first crewed Moon mission in more than 50 years, to be launched by NASA?
+   - (A) Artemis I
+   - (B) Artemis II
+   - (C) Artemis III
+   - (D) Apollo 18
+   **Answer: B**
+
+151. Where is India planning to set up a naval detachment to monitor Bangladesh and China?
+   - (A) Port Blair
+   - (B) Visakhapatnam
+   - (C) Haldia, West Bengal
+   - (D) Paradip, Odisha
+   **Answer: C**
+
+152. Which three Muslim-majority countries are planning to form a new military alliance?
+   - (A) Egypt, UAE and Qatar
+   - (B) Saudi Arabia, Pakistan and Turkey
+   - (C) Indonesia, Malaysia and Pakistan
+   - (D) Iran, Syria and Iraq
+   **Answer: B**
+
+153. Which country adopted the euro as its currency as the 21st member of the European Union?
+   - (A) Croatia
+   - (B) Romania
+   - (C) Bulgaria
+   - (D) Czech Republic
+   **Answer: C**
+
+154. The "Trump Corollary" is described as a modern version of which historic US foreign policy?
+   - (A) Truman Doctrine
+   - (B) Monroe Doctrine
+   - (C) Eisenhower Doctrine
+   - (D) Marshall Plan
+   **Answer: B**
+
+155. Whom did Donald Trump appoint as the US Special Envoy to Greenland?
+   - (A) Mike Pompeo
+   - (B) Jeff Landry (Governor of Louisiana)
+   - (C) Ron DeSantis
+   - (D) Marco Rubio
+   **Answer: B**
+
+**Sports**
+
+156. When will the 2026 FIFA World Cup be held?
+   - (A) 1 June – 7 July 2026 (96 matches)
+   - (B) 11 June – 19 July 2026 (104 matches)
+   - (C) 20 May – 30 June 2026 (104 matches)
+   - (D) 15 June – 22 July 2026 (100 matches)
+   **Answer: B**
+
+157. When will the 2026 ICC Men's T20 World Cup be held?
+   - (A) 7 February – 8 March 2026, in India and Sri Lanka
+   - (B) 15 February – 20 March 2026, in Bangladesh and India
+   - (C) 1 March – 1 April 2026, in Pakistan and UAE
+   - (D) 10 April – 10 May 2026, in Australia and New Zealand
+   **Answer: A**
+
+---
+
+## N.2 — January 2026 Bangla MCQ (IMG_3557)
+
+**Bangladesh**
+
+158. When will Bangladesh's 13th National Parliament Election be held?
+   - (A) 1 February 2026
+   - (B) 12 February 2026
+   - (C) 30 November 2025
+   - (D) 30 December 2025
+   **Answer: B**
+
+159. Which country's ambassador (recently confirmed) presented credentials to Bangladesh in late 2025?
+   - (A) USA (Brent Christensen)
+   - (B) UK
+   - (C) China
+   - (D) Germany
+   **Answer: A**
+
+160. Bangladesh is currently home to how many scheduled banks?
+   - (A) 57
+   - (B) 60
+   - (C) 61
+   - (D) 63
+   **Answer: C**
+
+161. How many state-owned commercial banks operate in Bangladesh (as of late 2025)?
+   - (A) 4
+   - (B) 5
+   - (C) 6
+   - (D) 7
+   **Answer: C**
+
+162. How many Islamic Shariah-based banks operate in Bangladesh (as of late 2025)?
+   - (A) 4
+   - (B) 5
+   - (C) 6
+   - (D) 7
+   **Answer: C**
+
+163. The ownership type of Islami Bank Bangladesh Limited (IBBL) is?
+   - (A) State-owned
+   - (B) Private (joint-venture / foreign sponsorship)
+   - (C) Specialised government bank
+   - (D) Cooperative
+   **Answer: B**
+
+164. In 2025, how many women received Nobel Prizes across all categories?
+   - (A) 3
+   - (B) 5
+   - (C) 9
+   - (D) 17
+   **Answer: A**
+
+165. The Rapid Support Forces (RSF) operates primarily in which country?
+   - (A) Libya
+   - (B) Sudan
+   - (C) South Sudan
+   - (D) Chad
+   **Answer: B**
+
+166. The 'MQ-9 Reaper', 'Bayraktar TB2', 'Bayraktar Akıncı', 'X-59 Quesst', 'Bayraktar KIZILELMA' — these are examples of?
+   - (A) Cruise missiles
+   - (B) Unmanned combat aerial vehicles / UAVs
+   - (C) Satellites
+   - (D) Submarines
+   **Answer: B**
+
+167. "Bayraktar KIZILELMA" is the unmanned combat aircraft of which country?
+   - (A) Iran
+   - (B) Turkey
+   - (C) Israel
+   - (D) Russia
+   **Answer: B**
+
+168. Which coloured "Line" is associated with Israel's claim of a new security border around Gaza?
+   - (A) Red Line
+   - (B) Zero Line
+   - (C) Yellow Line
+   - (D) Green Line
+   **Answer: C**
+
+169. UNAMID, UNMISS, UNISFA, MINUSCA — these are UN missions primarily in which region?
+   - (A) Southeast Asia
+   - (B) Africa
+   - (C) Middle East
+   - (D) Latin America
+   **Answer: B**
+
+170. "Parasocial", "vibe coding", "slop" and "rage bait" — these terms were notable for being shortlisted as?
+   - (A) Oxford Word of the Year 2025 nominees
+   - (B) Collins Dictionary of the Year candidates
+   - (C) Merriam-Webster additions
+   - (D) TIME Person of the Year finalists
+   **Answer: A**
+
+---
+
+## N.3 — January 2026 "Recent Info Inquiry" (IMG_3559)
+
+**Bangladesh**
+
+171. When was the online recharge system for Rapid Pass and MRT Pass officially launched?
+   - (A) 15 November 2025
+   - (B) 20 November 2025
+   - (C) 25 November 2025
+   - (D) 1 December 2025
+   **Answer: C**
+
+172. On 15 December 2025, what is the name of the AI-based platform launched for the Bangla language?
+   - (A) BanglaBERT
+   - (B) Kagoj.ai
+   - (C) BhashaAI
+   - (D) DeepBangla
+   **Answer: B**
+
+173. For the first time, which bank was established to provide loans to new micro-entrepreneurs and existing small enterprises?
+   - (A) Microcredit Bank
+   - (B) PKSF Bank
+   - (C) SME Bank
+   - (D) Palli Sanchay Bank
+   **Answer: A**
+
+174. What is the name of the team of 54 skydivers that participated in the parachuting display on the 54th Victory Day?
+   - (A) Red Eagles
+   - (B) Bangabandhu Falcons
+   - (C) Team Bangladesh
+   - (D) Liberation 54
+   **Answer: C**
+
+175. The 'Julai' font launched on 15 December 2025 was designed for what purpose?
+   - (A) Commercial typography
+   - (B) Social media branding
+   - (C) Official and institutional use
+   - (D) Academic publishing
+   **Answer: C**
+
+176. Who has been confirmed by the US Senate as the 18th US Ambassador to Bangladesh?
+   - (A) Peter Haas
+   - (B) Brent T. Christensen
+   - (C) Earl R. Miller
+   - (D) James Moriarty
+   **Answer: B**
+
+177. On 13 December 2025, in which region were six Bangladeshi peacekeepers killed and eight wounded in a drone attack on a UN base?
+   - (A) Darfur region, Sudan
+   - (B) Abyei region, Sudan
+   - (C) North Kivu, DRC
+   - (D) Northern Mali
+   **Answer: B**
+
+178. What is the meaning of the Persian word "Inquilab"?
+   - (A) Peace and harmony
+   - (B) Justice and truth
+   - (C) Revolution, change, or uprising
+   - (D) Loyalty and faith
+   **Answer: C**
+
+179. Which road was officially named "Felani Avenue" in memory of Felani Khatun?
+   - (A) A stretch from Airport Road to Kuril
+   - (B) A stretch from Gulshan-1 to Pragati Sarani
+   - (C) A stretch from Mohakhali to Banani
+   - (D) A stretch from Farmgate to Karwan Bazar
+   **Answer: B**
+
+180. On which date did Sharif Osman Hadi pass away at Singapore General Hospital?
+   - (A) 10 December 2025
+   - (B) 14 December 2025
+   - (C) 18 December 2025
+   - (D) 22 December 2025
+   **Answer: C**
+
+181. On 20 December 2025, which principal heroic warrior of the Liberation War passed away?
+   - (A) Major Gen. (Retd.) Sheikh Monir
+   - (B) Brig. Gen. Uttam A. K. Khandker
+   - (C) Lt. Gen. Harun-Ar-Rashid
+   - (D) Maj. Gen. Subid Ali Bhuiyan
+   **Answer: B**
+
+182. What has UNESCO recognised as an intangible cultural heritage — Bangladesh's sixth standalone registration?
+   - (A) Jamdani weaving
+   - (B) Shitalpati mat-making
+   - (C) Tangail saree weaving
+   - (D) Baul songs
+   **Answer: C**
+
+183. Who was nominated for the prestigious Human Rights Tulip Award 2025?
+   - (A) Adilur Rahman Khan
+   - (B) Sultana Kamal
+   - (C) Sanjida Islam Tulee (founder of Mayer Daak)
+   - (D) Mizanur Rahman Khan
+   **Answer: C**
+
+184. On 1 December 2025, which country's transshipment crossed Burimari Land Port in Bangladesh for the first time?
+   - (A) Nepal
+   - (B) Bhutan
+   - (C) India (to North-East)
+   - (D) Myanmar
+   **Answer: B**
+
+**International**
+
+185. When did Russian President Vladimir Putin visit India after four years?
+   - (A) 28 November 2025
+   - (B) 4 December 2025
+   - (C) 12 December 2025
+   - (D) 20 December 2025
+   **Answer: B**
+
+186. In which country will Africa's first women's nursing university be established?
+   - (A) Kenya
+   - (B) Rwanda
+   - (C) Uganda
+   - (D) Ghana
+   **Answer: C**
+
+187. On 30 December 2025, which country announced it would stop postal service after 400 years?
+   - (A) Sweden
+   - (B) Norway
+   - (C) Denmark
+   - (D) Finland
+   **Answer: C**
+
+188. On 20 December 2025, which immigration visa card did Donald Trump launch with a $1 million price tag?
+   - (A) 'Platinum Card' visa
+   - (B) 'Gold Card' immigration visa
+   - (C) 'EB-X' investor visa
+   - (D) 'Diamond Card' visa
+   **Answer: B**
+
+189. On 26 November 2025, which country's approval granted the world's first single-dose dengue vaccine?
+   - (A) India
+   - (B) Brazil
+   - (C) Bhutan (Butanian-DV)
+   - (D) Thailand
+   **Answer: C**
+
+190. On 22 December 2025, what is the name of the world's largest nuclear power plant that Japan is set to resume operations of, 15 years after the Fukushima disaster?
+   - (A) Hamaoka
+   - (B) Tokai
+   - (C) Kashiwazaki-Kariwa
+   - (D) Sendai
+   **Answer: C**
+
+191. PayPal, a digital financial transaction platform, is an organisation from which country (established 1998)?
+   - (A) USA (United States)
+   - (B) UK
+   - (C) Singapore
+   - (D) Germany
+   **Answer: A**
+
+**Sports**
+
+192. Who received the first-ever FIFA Peace Prize from FIFA president Gianni Infantino?
+   - (A) Pope Leo XIV
+   - (B) Volodymyr Zelenskyy
+   - (C) US President Donald Trump
+   - (D) UN Secretary-General
+   **Answer: C**
+
+193. Who was named the Men's Player of the Year at the FIFA Best Awards 2025?
+   - (A) Lionel Messi
+   - (B) Erling Haaland
+   - (C) Vinícius Júnior
+   - (D) Ousmane Dembélé (PSG)
+   **Answer: D**
+
+194. Who won the FIFA Best Women's Player of the Year 2025 for the third consecutive year?
+   - (A) Alexia Putellas
+   - (B) Aitana Bonmatí
+   - (C) Sam Kerr
+   - (D) Alex Morgan
+   **Answer: B**
+
+195. On 26 December 2025, which edition of the Bangladesh Premier League (BPL) 2025-26 began?
+   - (A) 10th edition
+   - (B) 11th edition
+   - (C) 12th edition
+   - (D) 13th edition
+   **Answer: C**
+
+---
+
+## Answer Key — New Questions (Q131–Q195)
+
+| # | Ans | # | Ans | # | Ans | # | Ans |
+|---|-----|---|-----|---|-----|---|-----|
+| 131 | C | 148 | C | 165 | B | 182 | C |
+| 132 | C | 149 | B | 166 | B | 183 | C |
+| 133 | C | 150 | B | 167 | B | 184 | B |
+| 134 | C | 151 | C | 168 | C | 185 | B |
+| 135 | B | 152 | B | 169 | B | 186 | C |
+| 136 | B | 153 | C | 170 | A | 187 | C |
+| 137 | C | 154 | B | 171 | C | 188 | B |
+| 138 | C | 155 | B | 172 | B | 189 | C |
+| 139 | B | 156 | B | 173 | A | 190 | C |
+| 140 | C | 157 | A | 174 | C | 191 | A |
+| 141 | B | 158 | B | 175 | C | 192 | C |
+| 142 | B | 159 | A | 176 | B | 193 | D |
+| 143 | C | 160 | C | 177 | B | 194 | B |
+| 144 | C | 161 | C | 178 | C | 195 | C |
+| 145 | C | 162 | C | 179 | B |     |     |
+| 146 | B | 163 | B | 180 | C |     |     |
+| 147 | C | 164 | A | 181 | B |     |     |
